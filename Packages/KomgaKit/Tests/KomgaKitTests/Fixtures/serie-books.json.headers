@@ -1,0 +1,19 @@
+HTTP/2 200 
+cache-control: max-age=0, must-revalidate, private
+content-security-policy: default-src 'self'; script-src 'self' 'unsafe-inline' 'unsafe-eval' 'wasm-unsafe-eval' blob:; style-src 'self' 'unsafe-inline' blob:; img-src 'self' data: https: blob:; media-src 'self' blob: data:; worker-src 'self' blob:; child-src 'self' blob:; frame-src 'self' blob: data:; font-src 'self' data: blob:; connect-src 'self' wss: blob: data:; frame-ancestors 'self'
+content-type: application/json
+date: Thu, 17 Sep 2026 16:14:32 GMT
+etag: "0a88f839b5eac7e9f993c8c1cbbc5417f"
+permissions-policy: geolocation=(), microphone=(), camera=()
+referrer-policy: strict-origin-when-cross-origin
+set-cookie: GESCHWAERZT
+strict-transport-security: max-age=31536000; includeSubDomains; preload
+vary: Origin
+vary: Access-Control-Request-Method
+vary: Access-Control-Request-Headers
+x-content-type-options: nosniff
+x-frame-options: DENY
+x-robots-tag: noindex,nofollow
+x-xss-protection: 1; mode=block
+content-length: 12107
+

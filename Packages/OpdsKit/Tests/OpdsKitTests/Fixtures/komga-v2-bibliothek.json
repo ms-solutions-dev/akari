@@ -1,0 +1,252 @@
+{
+  "metadata": {
+    "title": "All libraries",
+    "modified": "2026-09-19T08:52:49.261150686+02:00",
+    "itemsPerPage": 20,
+    "currentPage": 1,
+    "numberOfItems": 31
+  },
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://comics.example/opds/v2/libraries/browse"
+    },
+    {
+      "title": "Home",
+      "rel": "start",
+      "href": "https://comics.example/opds/v2/catalog",
+      "type": "application/opds+json"
+    },
+    {
+      "title": "Search",
+      "rel": "search",
+      "href": "https://comics.example/opds/v2/search{?query}",
+      "type": "application/opds+json",
+      "templated": true
+    },
+    {
+      "rel": "next",
+      "href": "https://comics.example/opds/v2/libraries/browse?page=1"
+    }
+  ],
+  "navigation": [
+    {
+      "title": "Recommended",
+      "rel": "subsection",
+      "href": "https://comics.example/opds/v2/libraries",
+      "type": "application/opds+json"
+    },
+    {
+      "title": "Browse",
+      "rel": "subsection",
+      "href": "https://comics.example/opds/v2/libraries/browse",
+      "type": "application/opds+json"
+    }
+  ],
+  "groups": [
+    {
+      "metadata": {
+        "title": "Series"
+      },
+      "navigation": [
+        {
+          "title": "Fiahot slem Wani",
+          "href": "https://comics.example/opds/v2/series/0RM6ZZJWZS971",
+          "type": "application/opds+json"
+        },
+        {
+          "title": "Fliodel Bepleslik",
+          "href": "https://comics.example/opds/v2/series/0RMQDN74T3N6F",
+          "type": "application/opds+json"
+        },
+        {
+          "title": "Bopema",
+          "href": "https://comics.example/opds/v2/series/0RM6ZZJKKS33K",
+          "type": "application/opds+json"
+        },
+        {
+          "title": "Skaibleit Ceilistuk",
+          "href": "https://comics.example/opds/v2/series/0RMQDN6YA3Q32",
+          "type": "application/opds+json"
+        },
+        {
+          "title": "Rioputraurn",
+          "href": "https://comics.example/opds/v2/series/0RNC1602M4CTK",
+          "type": "application/opds+json"
+        },
+        {
+          "title": "Druspind Gugeis",
+          "href": "https://comics.example/opds/v2/series/0RM6ZZJPBSD6C",
+          "type": "application/opds+json"
+        },
+        {
+          "title": "Kojam Cade zoskucourn pelosam",
+          "href": "https://comics.example/opds/v2/series/0RNCQ4M1C4130",
+          "type": "application/opds+json"
+        },
+        {
+          "title": "Miazul Kiastewou",
+          "href": "https://comics.example/opds/v2/series/0RM6ZZJSFS2BK",
+          "type": "application/opds+json"
+        },
+        {
+          "title": "Tria Broher wia Wamia",
+          "href": "https://comics.example/opds/v2/series/0RNC15ZV84DVS",
+          "type": "application/opds+json"
+        },
+        {
+          "title": "Tarakem Rostaisbeim",
+          "href": "https://comics.example/opds/v2/series/0RM4VTYGRPVSM",
+          "type": "application/opds+json"
+        },
+        {
+          "title": "Kanfligreit!",
+          "href": "https://comics.example/opds/v2/series/0RM6ZZJWVS6E1",
+          "type": "application/opds+json"
+        },
+        {
+          "title": "Donpaidren l Donpaidren",
+          "href": "https://comics.example/opds/v2/series/0RMQDN7323QHC",
+          "type": "application/opds+json"
+        },
+        {
+          "title": "Flapajiam-blaukrio - Glohe lam Tru",
+          "href": "https://comics.example/opds/v2/series/0RM6ZZJW3SB30",
+          "type": "application/opds+json"
+        },
+        {
+          "title": "Komat Drit. 8",
+          "href": "https://comics.example/opds/v2/series/0RNC1600W44ZT",
+          "type": "application/opds+json"
+        },
+        {
+          "title": "Speistatpre zagri s Rugat",
+          "href": "https://comics.example/opds/v2/series/0RMTPY99KY55M",
+          "type": "application/opds+json"
+        },
+        {
+          "title": "Feskibron & Metrouceis",
+          "href": "https://comics.example/opds/v2/series/0RNCQ4KJR4EZ6",
+          "type": "application/opds+json"
+        },
+        {
+          "title": "Bokraisik Branbros",
+          "href": "https://comics.example/opds/v2/series/0RM6ZZJQBS2X5",
+          "type": "application/opds+json"
+        },
+        {
+          "title": "Bokraisik-Tesklar Ceilistuk",
+          "href": "https://comics.example/opds/v2/series/0RNCQ4KK446MQ",
+          "type": "application/opds+json"
+        },
+        {
+          "title": "Kuspriotus 5",
+          "href": "https://comics.example/opds/v2/series/0RM6ZZJWQS9GW",
+          "type": "application/opds+json"
+        },
+        {
+          "title": "Fugalau",
+          "href": "https://comics.example/opds/v2/series/0RM6ZZJPKSFNA",
+          "type": "application/opds+json"
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "Publisher"
+      },
+      "navigation": [
+        {
+          "title": "Haubliodru Stoglaik Pauflunmis GmbH",
+          "href": "https://comics.example/opds/v2/libraries/browse?publisher=Haubliodru%20Stoglaik%20Pauflunmis%20GmbH",
+          "type": "application/opds+json"
+        },
+        {
+          "title": "Gunwond Branslaum",
+          "href": "https://comics.example/opds/v2/libraries/browse?publisher=Gunwond%20Branslaum",
+          "type": "application/opds+json"
+        },
+        {
+          "title": "Glaista",
+          "href": "https://comics.example/opds/v2/libraries/browse?publisher=Glaista",
+          "type": "application/opds+json"
+        },
+        {
+          "title": "SLETO",
+          "href": "https://comics.example/opds/v2/libraries/browse?publisher=SLETO",
+          "type": "application/opds+json"
+        },
+        {
+          "title": "MIAHO Griogais",
+          "href": "https://comics.example/opds/v2/libraries/browse?publisher=MIAHO%20Griogais",
+          "type": "application/opds+json"
+        },
+        {
+          "title": "C Manga",
+          "href": "https://comics.example/opds/v2/libraries/browse?publisher=C%20Manga",
+          "type": "application/opds+json"
+        },
+        {
+          "title": "Hulaun",
+          "href": "https://comics.example/opds/v2/libraries/browse?publisher=Hulaun",
+          "type": "application/opds+json"
+        },
+        {
+          "title": "Niograr STIHOFU",
+          "href": "https://comics.example/opds/v2/libraries/browse?publisher=Niograr%20STIHOFU",
+          "type": "application/opds+json"
+        },
+        {
+          "title": "Preistauwu Zazis",
+          "href": "https://comics.example/opds/v2/libraries/browse?publisher=Preistauwu%20Zazis",
+          "type": "application/opds+json"
+        },
+        {
+          "title": "MANGA SKAIGO",
+          "href": "https://comics.example/opds/v2/libraries/browse?publisher=MANGA%20SKAIGO",
+          "type": "application/opds+json"
+        },
+        {
+          "title": "Manga Fainpo",
+          "href": "https://comics.example/opds/v2/libraries/browse?publisher=Manga%20Fainpo",
+          "type": "application/opds+json"
+        },
+        {
+          "title": "MANGA Fainpo",
+          "href": "https://comics.example/opds/v2/libraries/browse?publisher=MANGA%20Fainpo",
+          "type": "application/opds+json"
+        },
+        {
+          "title": "Manga VX! Frianfoujais",
+          "href": "https://comics.example/opds/v2/libraries/browse?publisher=Manga%20VX!%20Frianfoujais",
+          "type": "application/opds+json"
+        },
+        {
+          "title": "Cuslin",
+          "href": "https://comics.example/opds/v2/libraries/browse?publisher=Cuslin",
+          "type": "application/opds+json"
+        },
+        {
+          "title": "Cuslin Pranslel",
+          "href": "https://comics.example/opds/v2/libraries/browse?publisher=Cuslin%20Pranslel",
+          "type": "application/opds+json"
+        },
+        {
+          "title": "Hivurn",
+          "href": "https://comics.example/opds/v2/libraries/browse?publisher=Hivurn",
+          "type": "application/opds+json"
+        },
+        {
+          "title": "HIVURN Stoglaik",
+          "href": "https://comics.example/opds/v2/libraries/browse?publisher=HIVURN%20Stoglaik",
+          "type": "application/opds+json"
+        },
+        {
+          "title": "Toves Griogais",
+          "href": "https://comics.example/opds/v2/libraries/browse?publisher=Toves%20Griogais",
+          "type": "application/opds+json"
+        }
+      ]
+    }
+  ]
+}

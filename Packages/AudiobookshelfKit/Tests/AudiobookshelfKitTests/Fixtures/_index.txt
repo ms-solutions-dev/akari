@@ -1,0 +1,27 @@
+# AudiobookshelfKit — aufgenommen 2026-09-18 21:33
+# Datei | Status | Inhaltstyp | Bytes | Anfrage
+login.json | 200 | application/json; charset=utf-8 | 3907 | POST /login
+me.json | 200 | application/json; charset=utf-8 | 2221 | GET /api/me
+libraries.json | 200 | application/json; charset=utf-8 | 879 | GET /api/libraries
+library.json | 200 | application/json; charset=utf-8 | 863 | GET /api/libraries/eda12180-b631-4b53-b38d-f80bfd8c75e1
+items.json | 200 | application/json; charset=utf-8 | 22233 | GET /api/libraries/eda12180-b631-4b53-b38d-f80bfd8c75e1/items?limit=1000&sort=media.metadata.title
+items-minified.json | 200 | application/json; charset=utf-8 | 22200 | GET /api/libraries/eda12180-b631-4b53-b38d-f80bfd8c75e1/items?limit=1000&minified=1
+series.json | 200 | application/json; charset=utf-8 | 21391 | GET /api/libraries/eda12180-b631-4b53-b38d-f80bfd8c75e1/series?limit=100
+in-progress.json | 200 | application/json; charset=utf-8 | 5437 | GET /api/libraries/eda12180-b631-4b53-b38d-f80bfd8c75e1/items?filter=progress.aW4tcHJvZ3Jlc3M%3D&limit=100
+collections.json | 200 | application/json; charset=utf-8 | 90 | GET /api/libraries/eda12180-b631-4b53-b38d-f80bfd8c75e1/collections
+playlists.json | 200 | application/json; charset=utf-8 | 43 | GET /api/libraries/eda12180-b631-4b53-b38d-f80bfd8c75e1/playlists
+collections-alle.json | 200 | application/json; charset=utf-8 | 18 | GET /api/collections
+playlists-alle.json | 200 | application/json; charset=utf-8 | 16 | GET /api/playlists
+item.json | 200 | application/json; charset=utf-8 | 312247 | GET /api/items/b5870c20-7d6d-418b-891a-c8f10fdfb29d?expanded=1
+item-progress.json | 200 | application/json; charset=utf-8 | 493 | GET /api/me/progress/b5870c20-7d6d-418b-891a-c8f10fdfb29d
+item-cover.headers | 200 | — | 0 | HEAD /api/items/b5870c20-7d6d-418b-891a-c8f10fdfb29d/cover?width=300
+401.json | 401 | — | 12 | GET /api/me
+401-login.json | 401 | — | 12 | POST /login
+404.json | 404 | text/plain; charset=utf-8 | 9 | GET /api/items/gibt-es-nicht
+abgebrochen.json | — | — | 11116 | abgeschnitten aus items.json
+# Podcasts (E54) — aufgenommen 2026-09-21 19:00 mit API-Key, Tokens geschwärzt
+libraries-podcasts.json | 200 | application/json; charset=utf-8 | 1471 | GET /api/libraries (Hörbücher + Podcasts)
+podcast-items.json | 200 | application/json; charset=utf-8 | 1551 | GET /api/libraries/5c96f269-169a-4608-8e0b-5c2f12c60a8d/items?limit=500&page=0&sort=media.metadata.title
+podcast-item.json | 200 | application/json; charset=utf-8 | 38566 | GET /api/items/4a0859ec-3b82-47a8-96ca-043776bdc9dc?expanded=1 (Moonlit Tales, 2 Folgen)
+me-podcasts.json | 200 | application/json; charset=utf-8 | 2035 | GET /api/me
+podcast-recent.json | 200 | application/json; charset=utf-8 | 2150 | GET /api/libraries/5c96f269-169a-4608-8e0b-5c2f12c60a8d/recent-episodes?limit=3 (23.09., gekürzt auf die gelesenen Felder)

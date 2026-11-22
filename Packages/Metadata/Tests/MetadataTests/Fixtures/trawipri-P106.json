@@ -1,0 +1,75 @@
+{
+  "P106": [
+    {
+      "id": "q5416$TET73P05-1272-95K3-P732-IW30W27I41Z6",
+      "rank": "normal",
+      "qualifiers": [
+        {
+          "property": {
+            "id": "P580",
+            "data_type": "time"
+          },
+          "value": {
+            "type": "value",
+            "content": {
+              "time": "+1986-00-00T00:00:00Z",
+              "precision": 9,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            }
+          }
+        },
+        {
+          "property": {
+            "id": "P582",
+            "data_type": "time"
+          },
+          "value": {
+            "type": "value",
+            "content": {
+              "time": "+2009-00-00T00:00:00Z",
+              "precision": 9,
+              "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+            }
+          }
+        }
+      ],
+      "references": [],
+      "property": {
+        "id": "P106",
+        "data_type": "wikibase-item"
+      },
+      "value": {
+        "type": "value",
+        "content": "Q10841764"
+      }
+    },
+    {
+      "id": "Q5416$J8D83YU0-2239-34J0-FOHF-289S15U495IA",
+      "rank": "deprecated",
+      "qualifiers": [],
+      "references": [],
+      "property": {
+        "id": "P106",
+        "data_type": "wikibase-item"
+      },
+      "value": {
+        "type": "value",
+        "content": "Q193391"
+      }
+    },
+    {
+      "id": "Q5416$8MF1N28U-D2J5-961C-D2D6-76YH080M6733",
+      "rank": "normal",
+      "qualifiers": [],
+      "references": [],
+      "property": {
+        "id": "P106",
+        "data_type": "wikibase-item"
+      },
+      "value": {
+        "type": "value",
+        "content": "Q3014296"
+      }
+    }
+  ]
+}

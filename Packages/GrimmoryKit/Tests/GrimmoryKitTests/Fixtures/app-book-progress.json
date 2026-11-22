@@ -1,0 +1,17 @@
+{
+  "readProgress": 0.899,
+  "readStatus": "READING",
+  "lastReadTime": "2026-09-19T03:18:35Z",
+  "epubProgress": {
+    "cfi": "epubcfi(/6/114!/4[a278-1-170-15587-7]/2/460)",
+    "href": null,
+    "percentage": 89.9,
+    "updatedAt": "2026-09-19T03:18:35Z"
+  },
+  "koreaderProgress": {
+    "percentage": 0.899,
+    "device": null,
+    "deviceId": null,
+    "lastSyncTime": "2026-09-19T03:18:35Z"
+  }
+}

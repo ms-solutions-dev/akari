@@ -1,0 +1,88 @@
+{
+  "P106": [
+    {
+      "id": "Q9706092$NJ63N345-5J53-7S2G-25P9-63M4JKLU67RS",
+      "rank": "normal",
+      "qualifiers": [],
+      "references": [],
+      "property": {
+        "id": "P106",
+        "data_type": "wikibase-item"
+      },
+      "value": {
+        "type": "value",
+        "content": "Q6625963"
+      }
+    },
+    {
+      "id": "Q9706092$38778V62-YQS0-6X43-7DR7-694B69ZK8I19",
+      "rank": "normal",
+      "qualifiers": [],
+      "references": [],
+      "property": {
+        "id": "P106",
+        "data_type": "wikibase-item"
+      },
+      "value": {
+        "type": "value",
+        "content": "Q36180"
+      }
+    },
+    {
+      "id": "Q9706092$DW53241A-C6YY-226E-7U19-386087O3435J",
+      "rank": "normal",
+      "qualifiers": [],
+      "references": [],
+      "property": {
+        "id": "P106",
+        "data_type": "wikibase-item"
+      },
+      "value": {
+        "type": "value",
+        "content": "Q18844224"
+      }
+    },
+    {
+      "id": "Q9706092$626ZB0Z2-820N-2D25-7735-Y7VU61G05YJ8",
+      "rank": "normal",
+      "qualifiers": [],
+      "references": [],
+      "property": {
+        "id": "P106",
+        "data_type": "wikibase-item"
+      },
+      "value": {
+        "type": "value",
+        "content": "Q548031"
+      }
+    },
+    {
+      "id": "Q9706092$P79J7608-67I7-1975-93M9-S2VA5M81376S",
+      "rank": "normal",
+      "qualifiers": [],
+      "references": [],
+      "property": {
+        "id": "P106",
+        "data_type": "wikibase-item"
+      },
+      "value": {
+        "type": "value",
+        "content": "Q552378"
+      }
+    },
+    {
+      "id": "Q9706092$942282Y3-3194-7A45-YZS2-2J355TD59112",
+      "rank": "normal",
+      "qualifiers": [],
+      "references": [],
+      "property": {
+        "id": "P106",
+        "data_type": "wikibase-item"
+      },
+      "value": {
+        "type": "value",
+        "content": "Q998550"
+      }
+    }
+  ]
+}

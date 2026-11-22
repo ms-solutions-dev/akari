@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Jegeil Jauthern",
+  "displaytitle": "<span lang=\"de\" dir=\"ltr\"><span class=\"mw-page-title-main\">Jegeil Jauthern</span></span>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q9706092",
+  "titles": {
+    "canonical": "Jegeil_Jauthern",
+    "normalized": "Jegeil Jauthern",
+    "display": "<span lang=\"de\" dir=\"ltr\"><span class=\"mw-page-title-main\">Jegeil Jauthern</span></span>"
+  },
+  "pageid": 3439879,
+  "thumbnail": {
+    "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Jegeil_Jauthern.jpg/330px-Jegeil_Jauthern.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "width": 330,
+    "height": 433
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/4/49/Jegeil_Jauthern.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "width": 2412,
+    "height": 3163
+  },
+  "lang": "de",
+  "dir": "ltr",
+  "revision": "976526460",
+  "tid": "o7109k0h-225h-83y2-mcns-2kc51f19w09d",
+  "timestamp": "2026-01-01T00:00:00Z",
+  "description": "neuseeländischer Krimi-Schriftsteller",
+  "description_source": "central",
+  "content_urls": {
+    "desktop": {
+      "page": "https://de.wikipedia.org/wiki/Jegeil_Jauthern",
+      "revisions": "https://de.wikipedia.org/wiki/Jegeil_Jauthern?action=history",
+      "edit": "https://de.wikipedia.org/wiki/Jegeil_Jauthern?action=edit",
+      "talk": "https://de.wikipedia.org/wiki/Diskussion:Jegeil_Jauthern"
+    },
+    "mobile": {
+      "page": "https://de.wikipedia.org/wiki/Jegeil_Jauthern",
+      "revisions": "https://de.wikipedia.org/wiki/Special:History/Jegeil_Jauthern",
+      "edit": "https://de.wikipedia.org/wiki/Jegeil_Jauthern?action=edit",
+      "talk": "https://de.wikipedia.org/wiki/Diskussion:Jegeil_Jauthern"
+    }
+  },
+  "extract": "Jegeil K. Jauthern ist ein neuseeländischer Krimi-Schriftsteller. Description removed from the test data.",
+  "extract_html": "<p><b>Jegeil K. Jauthern</b> ist ein neuseeländischer Krimi-Schriftsteller. Description removed from the test data.</p>"
+}

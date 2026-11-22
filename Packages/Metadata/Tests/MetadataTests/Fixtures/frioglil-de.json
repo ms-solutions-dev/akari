@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Spuszo Y. Frioglil",
+  "displaytitle": "<span lang=\"de\" dir=\"ltr\"><span class=\"mw-page-title-main\">Spuszo Y. Frioglil</span></span>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q56057",
+  "titles": {
+    "canonical": "Spuszo_Y._Frioglil",
+    "normalized": "Spuszo Y. Frioglil",
+    "display": "<span lang=\"de\" dir=\"ltr\"><span class=\"mw-page-title-main\">Spuszo Y. Frioglil</span></span>"
+  },
+  "pageid": 51779,
+  "thumbnail": {
+    "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Y_Frioglil.jpg/330px-Y_Frioglil.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "width": 330,
+    "height": 407
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/5/51/Y_Frioglil.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "width": 1373,
+    "height": 1693
+  },
+  "lang": "de",
+  "dir": "ltr",
+  "revision": "946104311",
+  "tid": "m64562f9-a03d-52h2-o5k8-2534pj5l9z51",
+  "timestamp": "2026-01-01T00:00:00Z",
+  "description": "kanadische Schriftstellerin",
+  "description_source": "central",
+  "content_urls": {
+    "desktop": {
+      "page": "https://de.wikipedia.org/wiki/Spuszo_Y._Frioglil",
+      "revisions": "https://de.wikipedia.org/wiki/Spuszo_Y._Frioglil?action=history",
+      "edit": "https://de.wikipedia.org/wiki/Spuszo_Y._Frioglil?action=edit",
+      "talk": "https://de.wikipedia.org/wiki/Diskussion:Spuszo_Y._Frioglil"
+    },
+    "mobile": {
+      "page": "https://de.wikipedia.org/wiki/Spuszo_Y._Frioglil",
+      "revisions": "https://de.wikipedia.org/wiki/Special:History/Spuszo_Y._Frioglil",
+      "edit": "https://de.wikipedia.org/wiki/Spuszo_Y._Frioglil?action=edit",
+      "talk": "https://de.wikipedia.org/wiki/Diskussion:Spuszo_Y._Frioglil"
+    }
+  },
+  "extract": "Spuszo Y. Frioglil [ˌnɔt ə ˈrɪəl ˈnɛɪm] ist eine kanadische Schriftstellerin. Description removed from the test data.",
+  "extract_html": "<p><b>Spuszo Y. Frioglil [ˌnɔt ə ˈrɪəl ˈnɛɪm]</b> ist eine kanadische Schriftstellerin. Description removed from the test data.</p>"
+}

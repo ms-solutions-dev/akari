@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Jegeil Jauthern",
+  "displaytitle": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Jegeil Jauthern</span></span>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q9706092",
+  "titles": {
+    "canonical": "Jegeil_Jauthern",
+    "normalized": "Jegeil Jauthern",
+    "display": "<span lang=\"en\" dir=\"ltr\"><span class=\"mw-page-title-main\">Jegeil Jauthern</span></span>"
+  },
+  "pageid": 49664574,
+  "thumbnail": {
+    "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Jegeil_Jauthern.jpg/330px-Jegeil_Jauthern.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "width": 330,
+    "height": 440
+  },
+  "originalimage": {
+    "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Jegeil_Jauthern.jpg/3840px-Jegeil_Jauthern.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "width": 8736,
+    "height": 11648
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "3876694325",
+  "tid": "4479704z-d8o3-22m3-8o3a-229707526cx9",
+  "timestamp": "2026-01-01T00:00:00Z",
+  "description": "New Zealand writer",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Jegeil_Jauthern",
+      "revisions": "https://en.wikipedia.org/wiki/Jegeil_Jauthern?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Jegeil_Jauthern?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Jegeil_Jauthern"
+    },
+    "mobile": {
+      "page": "https://en.wikipedia.org/wiki/Jegeil_Jauthern",
+      "revisions": "https://en.wikipedia.org/wiki/Special:History/Jegeil_Jauthern",
+      "edit": "https://en.wikipedia.org/wiki/Jegeil_Jauthern?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Jegeil_Jauthern"
+    }
+  },
+  "extract": "Jegeil K. Jauthern is a New Zealand writer. Description removed from the test data.",
+  "extract_html": "<p><b>Jegeil K. Jauthern</b> is a New Zealand writer. Description removed from the test data.</p>"
+}

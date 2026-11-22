@@ -1,0 +1,15 @@
+# Xcode-Projekt wird von XcodeGen aus project.yml erzeugt (xcodegen generate)
+*.xcodeproj
+*.xcworkspace
+.build/
+build/
+DerivedData/
+.DS_Store
+__pycache__/
+# Bau- und Simulatorstände (Skripte im privaten Repo)
+.dd/
+App/Info.plist
+Widget/Info.plist
+*.xcuserstate
+# Agenten-Arbeitsbäume (Claude Code)
+.claude/worktrees/

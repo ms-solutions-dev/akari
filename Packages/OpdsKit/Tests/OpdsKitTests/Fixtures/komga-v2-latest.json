@@ -1,0 +1,7 @@
+{
+  "timestamp": "2026-09-19T06:53:01.301+00:00",
+  "status": 404,
+  "error": "Not Found",
+  "message": "404 NOT_FOUND",
+  "path": "/opds/v2/series/latest"
+}

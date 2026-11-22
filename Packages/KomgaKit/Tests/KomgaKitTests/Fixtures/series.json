@@ -1,0 +1,3959 @@
+{
+  "content": [
+    {
+      "id": "0RM6ZZJWZS971",
+      "libraryId": "0RM392RM9XMC6",
+      "name": "Fiahot slem Wani",
+      "url": "/data/Fiahot slem Wani",
+      "created": "2026-09-14T21:50:57Z",
+      "lastModified": "2026-09-14T21:50:57Z",
+      "fileLastModified": "2026-09-14T23:50:42Z",
+      "booksCount": 6,
+      "booksReadCount": 0,
+      "booksUnreadCount": 6,
+      "booksInProgressCount": 0,
+      "metadata": {
+        "status": "ENDED",
+        "statusLock": false,
+        "title": "Fiahot slem Wani",
+        "titleLock": false,
+        "titleSort": "Fiahot slem Wani",
+        "titleSortLock": false,
+        "summary": "Description removed from the test data.",
+        "summaryLock": false,
+        "readingDirection": "RIGHT_TO_LEFT",
+        "readingDirectionLock": false,
+        "publisher": "Hivurn",
+        "publisherLock": false,
+        "ageRating": 16,
+        "ageRatingLock": true,
+        "language": "de",
+        "languageLock": false,
+        "genres": [
+          "psychological",
+          "action",
+          "adventure",
+          "horror",
+          "shounen",
+          "isekai",
+          "tragedy",
+          "drama",
+          "thriller",
+          "crime",
+          "slice of life",
+          "comedy",
+          "mystery",
+          "supernatural"
+        ],
+        "genresLock": false,
+        "tags": [
+          "wahatnas",
+          "keifreflu",
+          "dutbroto jo slus bretraga",
+          "pebroprond dand dinaund",
+          "frolaind giblai",
+          "neivuntrou",
+          "score: 8",
+          "kleikle",
+          "hesspaum nauplau",
+          "bujopail spilepro",
+          "wedruklur",
+          "fiahot kran zepledurn",
+          "plaifreisglot",
+          "stesio hi pliahiada / kliogrou",
+          "druspind drisketwul",
+          "zeskaitos caugodraum",
+          "stesio skou leipu",
+          "praduklo caugodraum",
+          "stesio pria nodrei",
+          "deco kraugogind",
+          "tiblefaul",
+          "skispou",
+          "ceiplei",
+          "klaispaibrour kliabramak/g",
+          "skispou drisketwul",
+          "koniaskio-druspind brouso",
+          "kliabramak vaspai",
+          "trionprioscei",
+          "baifrus kliabramak/g",
+          "prusmem hiamal",
+          "jionuplout",
+          "houwuboul"
+        ],
+        "tagsLock": false,
+        "totalBookCount": 12,
+        "totalBookCountLock": false,
+        "sharingLabels": [],
+        "sharingLabelsLock": false,
+        "links": [
+          {
+            "label": "AniList",
+            "url": "https://anilist.co/manga/42665"
+          },
+          {
+            "label": "MangaUpdates",
+            "url": "https://www.mangaupdates.com/series/8ncybyj/bekauk-frul-steslesfer-frul-fiahot"
+          },
+          {
+            "label": "Kitsu",
+            "url": "https://kitsu.app/manga/507996g4-468j-3c31-q17p-un3o35g0w62y"
+          },
+          {
+            "label": "Anime-Planet",
+            "url": "https://www.anime-planet.com/manga/fiahot-brur-wani"
+          },
+          {
+            "label": "Kitsu",
+            "url": "https://kitsu.app/manga/8062"
+          },
+          {
+            "label": "MyAnimeList",
+            "url": "https://myanimelist.net/manga/36683"
+          },
+          {
+            "label": "Official English",
+            "url": "https://www.hivurn.com/fiahot-brur-wani"
+          }
+        ],
+        "linksLock": false,
+        "alternateTitles": [
+          {
+            "label": "en",
+            "title": "Fiahot slem Wani"
+          },
+          {
+            "label": "Native",
+            "title": "馆涝"
+          },
+          {
+            "label": "Native",
+            "title": "馆涝 Fiahot slem Wani"
+          },
+          {
+            "label": "Romaji",
+            "title": "Bekauk pe Steslesfer plau Fiahot"
+          },
+          {
+            "label": "Romaji",
+            "title": "Bekauk pe Steslesfer plau Fiahot: Fiahot slem Wani"
+          }
+        ],
+        "alternateTitlesLock": false,
+        "created": "2026-09-14T21:50:57Z",
+        "lastModified": "2026-09-16T20:26:03Z"
+      },
+      "booksMetadata": {
+        "authors": [
+          {
+            "name": "Triadroflur Binsiojiarn",
+            "role": "colorist"
+          },
+          {
+            "name": "Triadroflur Binsiojiarn",
+            "role": "cover"
+          },
+          {
+            "name": "Triadroflur Binsiojiarn",
+            "role": "inker"
+          },
+          {
+            "name": "Triadroflur Binsiojiarn",
+            "role": "letterer"
+          },
+          {
+            "name": "Triadroflur Binsiojiarn",
+            "role": "penciller"
+          },
+          {
+            "name": "Triadroflur Binsiojiarn",
+            "role": "writer"
+          }
+        ],
+        "tags": [],
+        "releaseDate": null,
+        "summary": "",
+        "summaryNumber": "",
+        "created": "2026-09-14T21:50:57Z",
+        "lastModified": "2026-09-16T20:19:28Z"
+      },
+      "deleted": false,
+      "oneshot": false
+    },
+    {
+      "id": "0RMQDN74T3N6F",
+      "libraryId": "0RM392RM9XMC6",
+      "name": "Fliodel Bepleslik",
+      "url": "/data/Fliodel Bepleslik",
+      "created": "2026-09-16T12:07:39Z",
+      "lastModified": "2026-09-16T12:07:39Z",
+      "fileLastModified": "2026-09-16T14:07:25Z",
+      "booksCount": 22,
+      "booksReadCount": 0,
+      "booksUnreadCount": 22,
+      "booksInProgressCount": 0,
+      "metadata": {
+        "status": "ONGOING",
+        "statusLock": false,
+        "title": "Fliodel Bepleslik",
+        "titleLock": false,
+        "titleSort": "Fliodel Bepleslik",
+        "titleSortLock": false,
+        "summary": "Description removed from the test data.",
+        "summaryLock": false,
+        "readingDirection": "RIGHT_TO_LEFT",
+        "readingDirectionLock": false,
+        "publisher": "Gunwond Branslaum",
+        "publisherLock": false,
+        "ageRating": 18,
+        "ageRatingLock": true,
+        "language": "de",
+        "languageLock": false,
+        "genres": [
+          "psychological",
+          "action",
+          "seinen",
+          "adventure",
+          "drama",
+          "horror",
+          "fantasy",
+          "mature",
+          "philosophical",
+          "supernatural",
+          "tragedy"
+        ],
+        "genresLock": false,
+        "tags": [
+          "gioskaund spen wedruklur",
+          "sloslind hesmair",
+          "gahu",
+          "foten plofraidu",
+          "jisu",
+          "piagawaul",
+          "score: 8",
+          "kaskaurn / jublaiske",
+          "gliospo/g",
+          "wedruklur",
+          "skou/g",
+          "fraunotskin/pribri",
+          "stesio skou leipu",
+          "neinze",
+          "fropla/fral",
+          "bouspauprirn glianmeirn",
+          "praduklo caugodraum",
+          "blafuk",
+          "bicemis",
+          "kroplot",
+          "draipunfaund/g",
+          "skunprand pigu",
+          "skispou",
+          "ceiplei",
+          "spisdrirn",
+          "prisbrein/g",
+          "gunwond plofraidu",
+          "sliadrou",
+          "zosga-friondiala",
+          "plioblei",
+          "flimoublal",
+          "houwuboul"
+        ],
+        "tagsLock": false,
+        "totalBookCount": null,
+        "totalBookCountLock": false,
+        "sharingLabels": [],
+        "sharingLabelsLock": false,
+        "links": [
+          {
+            "label": "MangaUpdates",
+            "url": "https://www.mangaupdates.com/series/staibrand/fliodel"
+          },
+          {
+            "label": "AniList",
+            "url": "https://anilist.co/manga/85176"
+          },
+          {
+            "label": "Kitsu",
+            "url": "https://kitsu.app/manga/428201yi-v502-113x-6j40-kfw75m58tm18"
+          },
+          {
+            "label": "Anime-Planet",
+            "url": "https://www.anime-planet.com/manga/fliodel"
+          },
+          {
+            "label": "BookWalkerJp",
+            "url": "https://bookwalker.jp/series/46585/truhu"
+          },
+          {
+            "label": "Kitsu",
+            "url": "https://kitsu.app/manga/5"
+          },
+          {
+            "label": "Amazon",
+            "url": "https://www.amazon.co.jp/-/frai/nis/J784D800F8"
+          },
+          {
+            "label": "CDJapan",
+            "url": "https://www.cdjapan.co.jp/neipi/BRABAS-9599110"
+          },
+          {
+            "label": "eBookJapan",
+            "url": "https://ebookjapan.yahoo.co.jp/books/812296/"
+          },
+          {
+            "label": "MyAnimeList",
+            "url": "https://myanimelist.net/manga/6"
+          },
+          {
+            "label": "Official Raw",
+            "url": "https://juflair.com/series/c27b425i580u6/"
+          },
+          {
+            "label": "Official English",
+            "url": "https://www.steifrobirn.com/niohiakrok/fliodel-zeslesan-volume-books"
+          }
+        ],
+        "linksLock": false,
+        "alternateTitles": [
+          {
+            "label": "en",
+            "title": "Fliodel"
+          },
+          {
+            "label": "Native",
+            "title": "カダッテョ"
+          }
+        ],
+        "alternateTitlesLock": false,
+        "created": "2026-09-16T12:07:39Z",
+        "lastModified": "2026-09-16T20:26:04Z"
+      },
+      "booksMetadata": {
+        "authors": [
+          {
+            "name": "SPIARET Neikroves",
+            "role": "colorist"
+          },
+          {
+            "name": "SPIARET Neikroves",
+            "role": "cover"
+          },
+          {
+            "name": "SPIARET Neikroves",
+            "role": "inker"
+          },
+          {
+            "name": "SPIARET Neikroves",
+            "role": "letterer"
+          },
+          {
+            "name": "SPIARET Neikroves",
+            "role": "penciller"
+          },
+          {
+            "name": "SPIARET Neikroves",
+            "role": "writer"
+          },
+          {
+            "name": "PEKEIBREIRN Flasluglourn",
+            "role": "writer"
+          },
+          {
+            "name": "Wiomu Blaido",
+            "role": "colorist"
+          },
+          {
+            "name": "Wiomu Blaido",
+            "role": "cover"
+          },
+          {
+            "name": "Wiomu Blaido",
+            "role": "inker"
+          },
+          {
+            "name": "Wiomu Blaido",
+            "role": "letterer"
+          },
+          {
+            "name": "Wiomu Blaido",
+            "role": "penciller"
+          }
+        ],
+        "tags": [],
+        "releaseDate": null,
+        "summary": "",
+        "summaryNumber": "",
+        "created": "2026-09-16T12:07:39Z",
+        "lastModified": "2026-09-16T20:25:01Z"
+      },
+      "deleted": false,
+      "oneshot": false
+    },
+    {
+      "id": "0RM6ZZJKKS33K",
+      "libraryId": "0RM392RM9XMC6",
+      "name": "Bopema",
+      "url": "/data/Bopema",
+      "created": "2026-09-14T21:50:56Z",
+      "lastModified": "2026-09-14T21:50:56Z",
+      "fileLastModified": "2026-09-14T23:50:42Z",
+      "booksCount": 82,
+      "booksReadCount": 0,
+      "booksUnreadCount": 82,
+      "booksInProgressCount": 0,
+      "metadata": {
+        "status": "ENDED",
+        "statusLock": false,
+        "title": "Bopema",
+        "titleLock": false,
+        "titleSort": "Bopema",
+        "titleSortLock": false,
+        "summary": "Description removed from the test data.",
+        "summaryLock": false,
+        "readingDirection": "RIGHT_TO_LEFT",
+        "readingDirectionLock": false,
+        "publisher": "MANGA SKAIGO",
+        "publisherLock": false,
+        "ageRating": 12,
+        "ageRatingLock": true,
+        "language": "de",
+        "languageLock": false,
+        "genres": [
+          "action",
+          "adventure",
+          "drama",
+          "comedy",
+          "shounen",
+          "supernatural"
+        ],
+        "genresLock": false,
+        "tags": [
+          "skonlowau/gloviblo stinhakau",
+          "slufliklo",
+          "routkrutu gliospo/g",
+          "keifreflu",
+          "wuncozem/g",
+          "skou",
+          "nileiglo",
+          "kleikle spudriontraut",
+          "nonstan/g",
+          "briosvasbeind nodrau pebaidus",
+          "trotvos pi spoukre",
+          "zouflern graiveihei",
+          "stesio skou leipu",
+          "praduklo caugodraum",
+          "skibrol sleisjei",
+          "slioklefir segon",
+          "special flogloupio/pribri",
+          "tiblefaul",
+          "ziosliapau kiaziva/g",
+          "ceiplei",
+          "score: 7",
+          "stesio vum ceidusti",
+          "feiker-prepropri cafreikliam",
+          "trotroro",
+          "trotroro/g",
+          "plautbion pebaidus",
+          "nossedriand praduklo benkriorn",
+          "jionuplout",
+          "brinira",
+          "laklou/g",
+          "spediope gragle"
+        ],
+        "tagsLock": false,
+        "totalBookCount": 82,
+        "totalBookCountLock": false,
+        "sharingLabels": [],
+        "sharingLabelsLock": false,
+        "links": [
+          {
+            "label": "MangaUpdates",
+            "url": "https://www.mangaupdates.com/series/bv85kzf/bopema"
+          },
+          {
+            "label": "AniList",
+            "url": "https://anilist.co/manga/18278"
+          },
+          {
+            "label": "Kitsu",
+            "url": "https://kitsu.app/manga/51w44423-u4ff-1t20-mq3l-85d1134j7b19"
+          },
+          {
+            "label": "Anime-Planet",
+            "url": "https://www.anime-planet.com/manga/bopema-zotuprei"
+          },
+          {
+            "label": "MyAnimeList",
+            "url": "https://myanimelist.net/manga/51695"
+          }
+        ],
+        "linksLock": false,
+        "alternateTitles": [
+          {
+            "label": "en",
+            "title": "Bopema"
+          },
+          {
+            "label": "en",
+            "title": "Bopema 0"
+          },
+          {
+            "label": "en",
+            "title": "Bopema Zotuprei"
+          },
+          {
+            "label": "en",
+            "title": "Bopema Mutouhiond Skiaprosgliot Edition"
+          },
+          {
+            "label": "en",
+            "title": "Bopema Festidrei Kliabramak Book Laudoubrak"
+          },
+          {
+            "label": "en",
+            "title": "Bopema (Zotuprei)"
+          },
+          {
+            "label": "Romaji",
+            "title": "Bopema (Flepiomer-Haisstopa)"
+          }
+        ],
+        "alternateTitlesLock": false,
+        "created": "2026-09-14T21:50:56Z",
+        "lastModified": "2026-09-16T20:26:02Z"
+      },
+      "booksMetadata": {
+        "authors": [
+          {
+            "name": "SODIOSEI Kroustife",
+            "role": "colorist"
+          },
+          {
+            "name": "SODIOSEI Kroustife",
+            "role": "cover"
+          },
+          {
+            "name": "SODIOSEI Kroustife",
+            "role": "inker"
+          },
+          {
+            "name": "SODIOSEI Kroustife",
+            "role": "letterer"
+          },
+          {
+            "name": "SODIOSEI Kroustife",
+            "role": "penciller"
+          },
+          {
+            "name": "SODIOSEI Kroustife",
+            "role": "writer"
+          }
+        ],
+        "tags": [],
+        "releaseDate": null,
+        "summary": "",
+        "summaryNumber": "",
+        "created": "2026-09-14T21:50:56Z",
+        "lastModified": "2026-09-16T20:18:37Z"
+      },
+      "deleted": false,
+      "oneshot": false
+    },
+    {
+      "id": "0RMQDN6YA3Q32",
+      "libraryId": "0RM392RM9XMC6",
+      "name": "Skaibleit Ceilistuk",
+      "url": "/data/Skaibleit Ceilistuk",
+      "created": "2026-09-16T12:07:39Z",
+      "lastModified": "2026-09-16T12:07:39Z",
+      "fileLastModified": "2026-09-16T14:07:25Z",
+      "booksCount": 27,
+      "booksReadCount": 0,
+      "booksUnreadCount": 27,
+      "booksInProgressCount": 0,
+      "metadata": {
+        "status": "ENDED",
+        "statusLock": false,
+        "title": "Skaibleit Ceilistuk",
+        "titleLock": false,
+        "titleSort": "Skaibleit Ceilistuk",
+        "titleSortLock": false,
+        "summary": "Description removed from the test data.",
+        "summaryLock": false,
+        "readingDirection": "RIGHT_TO_LEFT",
+        "readingDirectionLock": false,
+        "publisher": "MANGA Fainpo",
+        "publisherLock": false,
+        "ageRating": 16,
+        "ageRatingLock": true,
+        "language": "de",
+        "languageLock": false,
+        "genres": [
+          "psychological",
+          "action",
+          "drama",
+          "horror",
+          "comedy",
+          "mature",
+          "mystery",
+          "shounen",
+          "supernatural",
+          "tragedy"
+        ],
+        "genresLock": false,
+        "tags": [
+          "gioskaund spen wedruklur",
+          "jeisplalirn praduklo benkriorn",
+          "sloslind hesmair",
+          "gahu",
+          "ziotdo hesmair",
+          "glaustir/g",
+          "score: 8",
+          "lofluhaun/g",
+          "kleikle spudriontraut",
+          "donpaidren/g",
+          "kleikle",
+          "trotvos pi spoukre",
+          "wedruklur",
+          "gliospo donpaidren/g",
+          "baibretneis zaucetbra skauheirn",
+          "praduklo caugodraum",
+          "grousgeihiat broubok",
+          "skojiaflet",
+          "skunprand pigu",
+          "skispou",
+          "ceiplei",
+          "zautrind",
+          "skaibleit/g",
+          "gunwond plofraidu",
+          "siogliak nazu",
+          "habrifu",
+          "draipunfaund speiwe",
+          "baifrus kliabramak/g",
+          "sliadrou",
+          "jionuplout",
+          "laklou/g",
+          "nospowo-stostoufriond praduklo benkriorn"
+        ],
+        "tagsLock": false,
+        "totalBookCount": 32,
+        "totalBookCountLock": false,
+        "sharingLabels": [],
+        "sharingLabelsLock": false,
+        "links": [
+          {
+            "label": "MangaUpdates",
+            "url": "https://www.mangaupdates.com/series/qdq5vey/skaibleit-ceilistuk"
+          },
+          {
+            "label": "AniList",
+            "url": "https://anilist.co/manga/428329"
+          },
+          {
+            "label": "Kitsu",
+            "url": "https://kitsu.app/manga/t60365u5-tepreigern-88a8-ogn1-9gr5k8w6te7t"
+          },
+          {
+            "label": "Anime-Planet",
+            "url": "https://www.anime-planet.com/manga/skaibleit-ceilistuk"
+          },
+          {
+            "label": "BookWalkerJp",
+            "url": "https://bookwalker.jp/series/292209/truhu"
+          },
+          {
+            "label": "Kitsu",
+            "url": "https://kitsu.app/manga/94489"
+          },
+          {
+            "label": "Amazon",
+            "url": "https://www.amazon.co.jp/nis/R86LU084HF"
+          },
+          {
+            "label": "CDJapan",
+            "url": "https://www.cdjapan.co.jp/neipi/BRABAS-4525128"
+          },
+          {
+            "label": "eBookJapan",
+            "url": "https://ebookjapan.yahoo.co.jp/books/644233"
+          },
+          {
+            "label": "MyAnimeList",
+            "url": "https://myanimelist.net/manga/162116"
+          },
+          {
+            "label": "Official Raw",
+            "url": "https://www.jionjit.com/w/plunculol/skaibleit.html"
+          },
+          {
+            "label": "Official English",
+            "url": "https://flauglowu.buriorn.co.jp/kradouske/874654"
+          }
+        ],
+        "linksLock": false,
+        "alternateTitles": [
+          {
+            "label": "en",
+            "title": "Skaibleit Ceilistuk"
+          },
+          {
+            "label": "Native",
+            "title": "ヮロモィメ"
+          }
+        ],
+        "alternateTitlesLock": false,
+        "created": "2026-09-16T12:07:39Z",
+        "lastModified": "2026-09-16T20:26:04Z"
+      },
+      "booksMetadata": {
+        "authors": [
+          {
+            "name": "KRAUNFOM Plinwait",
+            "role": "colorist"
+          },
+          {
+            "name": "KRAUNFOM Plinwait",
+            "role": "cover"
+          },
+          {
+            "name": "KRAUNFOM Plinwait",
+            "role": "inker"
+          },
+          {
+            "name": "KRAUNFOM Plinwait",
+            "role": "letterer"
+          },
+          {
+            "name": "KRAUNFOM Plinwait",
+            "role": "penciller"
+          },
+          {
+            "name": "KRAUNFOM Plinwait",
+            "role": "writer"
+          }
+        ],
+        "tags": [],
+        "releaseDate": null,
+        "summary": "",
+        "summaryNumber": "",
+        "created": "2026-09-16T12:07:39Z",
+        "lastModified": "2026-09-16T20:19:39Z"
+      },
+      "deleted": false,
+      "oneshot": false
+    },
+    {
+      "id": "0RM6ZZJPBSD6C",
+      "libraryId": "0RM392RM9XMC6",
+      "name": "Druspind Gugeis",
+      "url": "/data/Druspind Gugeis",
+      "created": "2026-09-14T21:50:56Z",
+      "lastModified": "2026-09-14T21:50:56Z",
+      "fileLastModified": "2026-09-14T23:50:42Z",
+      "booksCount": 16,
+      "booksReadCount": 0,
+      "booksUnreadCount": 16,
+      "booksInProgressCount": 0,
+      "metadata": {
+        "status": "ENDED",
+        "statusLock": false,
+        "title": "Druspind Gugeis",
+        "titleLock": false,
+        "titleSort": "Druspind Gugeis",
+        "titleSortLock": false,
+        "summary": "Description removed from the test data.",
+        "summaryLock": false,
+        "readingDirection": "RIGHT_TO_LEFT",
+        "readingDirectionLock": false,
+        "publisher": "MANGA Fainpo",
+        "publisherLock": false,
+        "ageRating": 14,
+        "ageRatingLock": true,
+        "language": "de",
+        "languageLock": false,
+        "genres": [
+          "psychological",
+          "drama",
+          "thriller",
+          "crime",
+          "mystery",
+          "shounen",
+          "supernatural",
+          "tragedy"
+        ],
+        "genresLock": false,
+        "tags": [
+          "skonlowau/gloviblo stinhakau",
+          "fliosrugeil raukrigrel/g",
+          "slohere fleirare",
+          "score: 8",
+          "kleikle spudriontraut",
+          "grigli freblaiblus",
+          "tetaiflo",
+          "dretrin caugodraum",
+          "stesio skou leipu",
+          "praduklo caugodraum",
+          "datia caugodraum",
+          "traciklei",
+          "toswau",
+          "slioklefir segon",
+          "veitrotbri",
+          "plevioskur",
+          "tiblefaul",
+          "ceiplei",
+          "briosvasbeind praduklo pebaidus",
+          "sliabregrai/g",
+          "glitgrern",
+          "sleisno duklauslou",
+          "gloupriozil kriolen/g",
+          "sliabregrai",
+          "toliarn/fral",
+          "zosga-friondiala",
+          "satkaund paigliakle",
+          "stesio ski kloploflaik action",
+          "mususteirn",
+          "jionuplout",
+          "jaidrostut krulokrik",
+          "houwuboul"
+        ],
+        "tagsLock": false,
+        "totalBookCount": 16,
+        "totalBookCountLock": false,
+        "sharingLabels": [],
+        "sharingLabelsLock": false,
+        "links": [
+          {
+            "label": "MangaUpdates",
+            "url": "https://www.mangaupdates.com/series/9enz0me/druspind-gugeis"
+          },
+          {
+            "label": "AniList",
+            "url": "https://anilist.co/manga/16291"
+          },
+          {
+            "label": "Kitsu",
+            "url": "https://kitsu.app/manga/37gg84we-v1dy-9l55-jopli-yh948173074k"
+          },
+          {
+            "label": "BookWalkerJp",
+            "url": "https://bookwalker.jp/series/82584/truhu"
+          },
+          {
+            "label": "Amazon",
+            "url": "https://www.amazon.co.jp/nis/Q62853IQPM"
+          },
+          {
+            "label": "eBookJapan",
+            "url": "https://ebookjapan.yahoo.co.jp/books/443698/"
+          },
+          {
+            "label": "MyAnimeList",
+            "url": "https://myanimelist.net/manga/61"
+          },
+          {
+            "label": "Official English",
+            "url": "https://flauglowu.buriorn.co.jp/kradouske/311249"
+          }
+        ],
+        "linksLock": false,
+        "alternateTitles": [
+          {
+            "label": "en",
+            "title": "Druspind Gugeis"
+          },
+          {
+            "label": "Native",
+            "title": "ケリバカ"
+          }
+        ],
+        "alternateTitlesLock": false,
+        "created": "2026-09-14T21:50:56Z",
+        "lastModified": "2026-09-16T20:26:02Z"
+      },
+      "booksMetadata": {
+        "authors": [
+          {
+            "name": "SIARI Spaisla",
+            "role": "colorist"
+          },
+          {
+            "name": "SIARI Spaisla",
+            "role": "cover"
+          },
+          {
+            "name": "SIARI Spaisla",
+            "role": "inker"
+          },
+          {
+            "name": "SIARI Spaisla",
+            "role": "letterer"
+          },
+          {
+            "name": "SIARI Spaisla",
+            "role": "penciller"
+          },
+          {
+            "name": "GIHOUSGLO Flanplias",
+            "role": "writer"
+          }
+        ],
+        "tags": [],
+        "releaseDate": null,
+        "summary": "",
+        "summaryNumber": "",
+        "created": "2026-09-14T21:50:56Z",
+        "lastModified": "2026-09-16T20:18:43Z"
+      },
+      "deleted": false,
+      "oneshot": false
+    },
+    {
+      "id": "0RM6ZZJSFS2BK",
+      "libraryId": "0RM392RM9XMC6",
+      "name": "Miazul Kiastewou",
+      "url": "/data/Miazul Kiastewou",
+      "created": "2026-09-14T21:50:57Z",
+      "lastModified": "2026-09-14T21:50:57Z",
+      "fileLastModified": "2026-09-14T23:50:42Z",
+      "booksCount": 102,
+      "booksReadCount": 0,
+      "booksUnreadCount": 102,
+      "booksInProgressCount": 0,
+      "metadata": {
+        "status": "ONGOING",
+        "statusLock": false,
+        "title": "Miazul Kiastewou",
+        "titleLock": false,
+        "titleSort": "Miazul Kiastewou",
+        "titleSortLock": false,
+        "summary": "Description removed from the test data.",
+        "summaryLock": false,
+        "readingDirection": "RIGHT_TO_LEFT",
+        "readingDirectionLock": false,
+        "publisher": "Cuslin Pranslel",
+        "publisherLock": false,
+        "ageRating": 10,
+        "ageRatingLock": true,
+        "language": "de",
+        "languageLock": false,
+        "genres": [
+          "psychological",
+          "action",
+          "adventure",
+          "drama",
+          "crime",
+          "romance",
+          "comedy",
+          "mystery",
+          "school life",
+          "shounen"
+        ],
+        "genresLock": false,
+        "tags": [
+          "slufliklo",
+          "behapra wiprias",
+          "spoukre laklou",
+          "spikligrur",
+          "kazal sleklou/sluflaik",
+          "score: 8",
+          "goudrou fru jeisplalirn",
+          "veitrotbri/g",
+          "woprisspand",
+          "grigli freblaiblus",
+          "brusloujo/g",
+          "stesio skou leipu",
+          "praduklo caugodraum",
+          "sowauklum/gleblel",
+          "deco kraugogind",
+          "veitrotbri",
+          "plevioskur",
+          "tiblefaul",
+          "ceiplei",
+          "feiker-prepropri cafreikliam",
+          "sliabregrai/g",
+          "sliabregrai",
+          "stesio ski kloploflaik action",
+          "touslo sliabregrai",
+          "jaidrostut krulokrik",
+          "spoukre gosleind"
+        ],
+        "tagsLock": false,
+        "totalBookCount": null,
+        "totalBookCountLock": false,
+        "sharingLabels": [],
+        "sharingLabelsLock": false,
+        "links": [
+          {
+            "label": "Kitsu",
+            "url": "https://kitsu.app/manga/8n56xgl6-4e74-9sic-y6p5-3ft447iwq964"
+          },
+          {
+            "label": "AniList",
+            "url": "https://anilist.co/manga/79726"
+          },
+          {
+            "label": "Anime-Planet",
+            "url": "https://www.anime-planet.com/manga/sakireirn-prefrond"
+          },
+          {
+            "label": "Kitsu",
+            "url": "https://kitsu.app/manga/1494"
+          },
+          {
+            "label": "MangaUpdates",
+            "url": "https://www.mangaupdates.com/series/2sas7sy"
+          },
+          {
+            "label": "MyAnimeList",
+            "url": "https://myanimelist.net/manga/8451"
+          },
+          {
+            "label": "Official Raw",
+            "url": "https://doki.net/cafreikliam/103/"
+          },
+          {
+            "label": "Official English",
+            "url": "https://www.hivurn.com/sakireirn-prefrond"
+          }
+        ],
+        "linksLock": false,
+        "alternateTitles": [
+          {
+            "label": "en",
+            "title": "Veitrotbri Kiastewou"
+          },
+          {
+            "label": "en",
+            "title": "Sakireirn Prefrond"
+          },
+          {
+            "label": "Native",
+            "title": "致勔脶炀"
+          },
+          {
+            "label": "Romaji",
+            "title": "Zikroubaurn Kiastewou"
+          }
+        ],
+        "alternateTitlesLock": false,
+        "created": "2026-09-14T21:50:57Z",
+        "lastModified": "2026-09-16T20:26:02Z"
+      },
+      "booksMetadata": {
+        "authors": [
+          {
+            "name": "Wubabern Skiasko",
+            "role": "colorist"
+          },
+          {
+            "name": "Wubabern Skiasko",
+            "role": "cover"
+          },
+          {
+            "name": "Wubabern Skiasko",
+            "role": "inker"
+          },
+          {
+            "name": "Wubabern Skiasko",
+            "role": "letterer"
+          },
+          {
+            "name": "Wubabern Skiasko",
+            "role": "penciller"
+          },
+          {
+            "name": "Wubabern Skiasko",
+            "role": "writer"
+          }
+        ],
+        "tags": [],
+        "releaseDate": null,
+        "summary": "",
+        "summaryNumber": "",
+        "created": "2026-09-14T21:50:57Z",
+        "lastModified": "2026-09-16T20:19:03Z"
+      },
+      "deleted": false,
+      "oneshot": false
+    },
+    {
+      "id": "0RM4VTYGRPVSM",
+      "libraryId": "0RM392RM9XMC6",
+      "name": "Tarakem Rostaisbeim",
+      "url": "/data/Tarakem Rostaisbeim",
+      "created": "2026-09-14T16:53:12Z",
+      "lastModified": "2026-09-14T16:53:12Z",
+      "fileLastModified": "2026-09-14T18:52:56Z",
+      "booksCount": 25,
+      "booksReadCount": 0,
+      "booksUnreadCount": 25,
+      "booksInProgressCount": 0,
+      "metadata": {
+        "status": "ENDED",
+        "statusLock": false,
+        "title": "Tarakem Rostaisbeim",
+        "titleLock": false,
+        "titleSort": "Tarakem Rostaisbeim",
+        "titleSortLock": false,
+        "summary": "Description removed from the test data.",
+        "summaryLock": false,
+        "readingDirection": "RIGHT_TO_LEFT",
+        "readingDirectionLock": false,
+        "publisher": "MANGA Fainpo",
+        "publisherLock": false,
+        "ageRating": 14,
+        "ageRatingLock": true,
+        "language": "de",
+        "languageLock": false,
+        "genres": [
+          "drama",
+          "slice of life",
+          "comedy",
+          "school life",
+          "shounen",
+          "ecchi"
+        ],
+        "genresLock": false,
+        "tags": [
+          "praduklo caugodraum",
+          "triobliorn",
+          "gloupriozil praduklo benkriorn",
+          "gogias nossedriand praduklo benkriorn",
+          "klukra",
+          "metspizaur ziosliapau benkriorn",
+          "drewisla",
+          "deco kraugogind",
+          "tiblefaul",
+          "folaswia teflaude",
+          "score: 8",
+          "laglidarn",
+          "deco",
+          "laugria/g",
+          "slatriklu/g",
+          "tarakem/wionwe",
+          "toliarn/fral",
+          "stohia deco",
+          "kreinguki mutflei/g",
+          "triobliorn deco",
+          "spediope gragle",
+          "veprorn ziosliapau benkriorn",
+          "tarakem",
+          "skaitdriflion kliabramak/g"
+        ],
+        "tagsLock": false,
+        "totalBookCount": 25,
+        "totalBookCountLock": false,
+        "sharingLabels": [],
+        "sharingLabelsLock": false,
+        "links": [
+          {
+            "label": "MangaUpdates",
+            "url": "https://www.mangaupdates.com/series/sjb57j6/pujiri-frul-friozous"
+          },
+          {
+            "label": "AniList",
+            "url": "https://anilist.co/manga/50791"
+          },
+          {
+            "label": "Kitsu",
+            "url": "https://kitsu.app/manga/5d21825r-5153-1zq8-njv3-s40g1ni63o06"
+          },
+          {
+            "label": "Anime-Planet",
+            "url": "https://www.anime-planet.com/manga/tarakem-rostaisbeim-pujiri-frul-friozous"
+          },
+          {
+            "label": "BookWalkerJp",
+            "url": "https://bookwalker.jp/series/80129/truhu"
+          },
+          {
+            "label": "Kitsu",
+            "url": "https://kitsu.app/manga/9351"
+          },
+          {
+            "label": "MyAnimeList",
+            "url": "https://myanimelist.net/manga/70629"
+          },
+          {
+            "label": "Official English",
+            "url": "https://flauglowu.buriorn.co.jp/kradouske/673138"
+          }
+        ],
+        "linksLock": false,
+        "alternateTitles": [
+          {
+            "label": "en",
+            "title": "Tarakem Rostaisbeim!: Pujiri plel Cutbou"
+          },
+          {
+            "label": "en",
+            "title": "Tarakem Daneil Friozous"
+          },
+          {
+            "label": "Native",
+            "title": "焤傔鈋糲隃"
+          },
+          {
+            "label": "Romaji",
+            "title": "Pujiri zeir Friozous"
+          }
+        ],
+        "alternateTitlesLock": false,
+        "created": "2026-09-14T16:53:12Z",
+        "lastModified": "2026-09-16T20:26:01Z"
+      },
+      "booksMetadata": {
+        "authors": [
+          {
+            "name": "FOHIWIOM Niafia",
+            "role": "writer"
+          },
+          {
+            "name": "VETBAITSIRN Gaistuvim",
+            "role": "colorist"
+          },
+          {
+            "name": "VETBAITSIRN Gaistuvim",
+            "role": "cover"
+          },
+          {
+            "name": "VETBAITSIRN Gaistuvim",
+            "role": "inker"
+          },
+          {
+            "name": "VETBAITSIRN Gaistuvim",
+            "role": "letterer"
+          },
+          {
+            "name": "VETBAITSIRN Gaistuvim",
+            "role": "penciller"
+          },
+          {
+            "name": "CAJOKRAS Glentaklo",
+            "role": "writer"
+          }
+        ],
+        "tags": [],
+        "releaseDate": null,
+        "summary": "",
+        "summaryNumber": "",
+        "created": "2026-09-14T16:53:12Z",
+        "lastModified": "2026-09-16T20:25:08Z"
+      },
+      "deleted": false,
+      "oneshot": false
+    },
+    {
+      "id": "0RM6ZZJWVS6E1",
+      "libraryId": "0RM392RM9XMC6",
+      "name": "Kanfligreit!",
+      "url": "/data/Kanfligreit!",
+      "created": "2026-09-14T21:50:57Z",
+      "lastModified": "2026-09-14T21:50:57Z",
+      "fileLastModified": "2026-09-14T23:50:42Z",
+      "booksCount": 6,
+      "booksReadCount": 0,
+      "booksUnreadCount": 6,
+      "booksInProgressCount": 0,
+      "metadata": {
+        "status": "ENDED",
+        "statusLock": false,
+        "title": "Kanfligreit!",
+        "titleLock": false,
+        "titleSort": "Kanfligreit!",
+        "titleSortLock": false,
+        "summary": "Description removed from the test data.",
+        "summaryLock": false,
+        "readingDirection": "RIGHT_TO_LEFT",
+        "readingDirectionLock": false,
+        "publisher": "Hulaun",
+        "publisherLock": false,
+        "ageRating": 12,
+        "ageRatingLock": true,
+        "language": "de",
+        "languageLock": false,
+        "genres": [
+          "drama",
+          "slice of life",
+          "romance",
+          "comedy",
+          "school life",
+          "shounen",
+          "ecchi"
+        ],
+        "genresLock": false,
+        "tags": [
+          "defreir te t novel",
+          "praduklo caugodraum",
+          "speispekleil kliabramak/g",
+          "griohios rounas",
+          "saunern/g",
+          "deco kraugogind",
+          "ziosliapau benkriorn slibrurn glou glohe menor",
+          "banmonturn noundrelaus/g",
+          "bohe ziosliapau benkriorn",
+          "score: 6",
+          "mogles/g",
+          "deco",
+          "krecaige jauzir kliabramak/g",
+          "woprisspand",
+          "zialowis/g",
+          "deco doupraund/g",
+          "flatriadra praduklo benkriorn",
+          "flouplus deco kuve/g",
+          "jetkligrer drisketwul/g"
+        ],
+        "tagsLock": false,
+        "totalBookCount": 6,
+        "totalBookCountLock": false,
+        "sharingLabels": [],
+        "sharingLabelsLock": false,
+        "links": [
+          {
+            "label": "MangaUpdates",
+            "url": "https://www.mangaupdates.com/series/eqf2kbz/kanfligreit"
+          },
+          {
+            "label": "AniList",
+            "url": "https://anilist.co/manga/91552"
+          },
+          {
+            "label": "Kitsu",
+            "url": "https://kitsu.app/manga/2wv18nxs-q975-32w4-49v1-453j3gp2ev41"
+          },
+          {
+            "label": "Anime-Planet",
+            "url": "https://www.anime-planet.com/manga/kanfligreit"
+          },
+          {
+            "label": "Kitsu",
+            "url": "https://kitsu.app/manga/91117"
+          },
+          {
+            "label": "MyAnimeList",
+            "url": "https://myanimelist.net/manga/815517"
+          },
+          {
+            "label": "Official Raw",
+            "url": "http://www.kanfligreit-leipu.com/books/cenplet.html"
+          }
+        ],
+        "linksLock": false,
+        "alternateTitles": [
+          {
+            "label": "en",
+            "title": "Kanfligreit!"
+          },
+          {
+            "label": "en",
+            "title": "Spocauk!"
+          },
+          {
+            "label": "Native",
+            "title": "ホレテ！"
+          }
+        ],
+        "alternateTitlesLock": false,
+        "created": "2026-09-14T21:50:57Z",
+        "lastModified": "2026-09-16T20:26:03Z"
+      },
+      "booksMetadata": {
+        "authors": [
+          {
+            "name": "PRETOSKUND Griager",
+            "role": "writer"
+          },
+          {
+            "name": "STASBRUFI Kutja",
+            "role": "colorist"
+          },
+          {
+            "name": "STASBRUFI Kutja",
+            "role": "cover"
+          },
+          {
+            "name": "STASBRUFI Kutja",
+            "role": "inker"
+          },
+          {
+            "name": "STASBRUFI Kutja",
+            "role": "letterer"
+          },
+          {
+            "name": "STASBRUFI Kutja",
+            "role": "penciller"
+          }
+        ],
+        "tags": [],
+        "releaseDate": null,
+        "summary": "",
+        "summaryNumber": "",
+        "created": "2026-09-14T21:50:57Z",
+        "lastModified": "2026-09-16T20:19:23Z"
+      },
+      "deleted": false,
+      "oneshot": false
+    },
+    {
+      "id": "0RMQDN7323QHC",
+      "libraryId": "0RM392RM9XMC6",
+      "name": "Donpaidren l Donpaidren",
+      "url": "/data/Donpaidren l Donpaidren",
+      "created": "2026-09-16T12:07:39Z",
+      "lastModified": "2026-09-16T12:07:39Z",
+      "fileLastModified": "2026-09-16T14:07:25Z",
+      "booksCount": 32,
+      "booksReadCount": 0,
+      "booksUnreadCount": 32,
+      "booksInProgressCount": 0,
+      "metadata": {
+        "status": "HIATUS",
+        "statusLock": false,
+        "title": "Donpaidren l Donpaidren",
+        "titleLock": false,
+        "titleSort": "Donpaidren l Donpaidren",
+        "titleSortLock": false,
+        "summary": "Description removed from the test data.",
+        "summaryLock": false,
+        "readingDirection": "RIGHT_TO_LEFT",
+        "readingDirectionLock": false,
+        "publisher": "MANGA Fainpo",
+        "publisherLock": false,
+        "ageRating": 12,
+        "ageRatingLock": true,
+        "language": "de",
+        "languageLock": false,
+        "genres": [
+          "psychological",
+          "action",
+          "adventure",
+          "horror",
+          "shounen",
+          "tragedy",
+          "drama",
+          "fantasy",
+          "comedy",
+          "mature",
+          "mystery",
+          "philosophical",
+          "supernatural"
+        ],
+        "genresLock": false,
+        "tags": [
+          "plankrupuk neispoun",
+          "skauborn/g",
+          "cistovai sle greplufrian",
+          "skou",
+          "jisu",
+          "niwas spisdrirn",
+          "score: 8",
+          "nuslable",
+          "kleikle spudriontraut",
+          "dotwi/g",
+          "nahuhas donpaidren/g",
+          "zouflern graiveihei",
+          "grigli blenzio/g",
+          "stesio skou leipu",
+          "praduklo caugodraum",
+          "krasliot",
+          "flaispem meisspoflio-prusmem rounas/g",
+          "blanaspe",
+          "special flogloupio/pribri",
+          "tiblefaul",
+          "ceiplei",
+          "briosvasbeind praduklo pebaidus",
+          "spisdrirn",
+          "gunwond plofraidu",
+          "liokupror",
+          "kliabramak vaspai",
+          "plautbion pebaidus",
+          "druglim",
+          "driowautbles",
+          "brokousi degouzern",
+          "jaidrostut krulokrik",
+          "houwuboul",
+          "kusbraund"
+        ],
+        "tagsLock": false,
+        "totalBookCount": null,
+        "totalBookCountLock": false,
+        "sharingLabels": [],
+        "sharingLabelsLock": false,
+        "links": [
+          {
+            "label": "MangaUpdates",
+            "url": "https://www.mangaupdates.com/series/lid5n1k/donpaidren-g-donpaidren"
+          },
+          {
+            "label": "AniList",
+            "url": "https://anilist.co/manga/69346"
+          },
+          {
+            "label": "Kitsu",
+            "url": "https://kitsu.app/manga/kq120v78-3w98-1890-xj5o-31d665l5365h"
+          },
+          {
+            "label": "Anime-Planet",
+            "url": "https://www.anime-planet.com/manga/donpaidren-g-donpaidren"
+          },
+          {
+            "label": "BookWalkerJp",
+            "url": "https://bookwalker.jp/series/72296/truhu"
+          },
+          {
+            "label": "Kitsu",
+            "url": "https://kitsu.app/manga/23"
+          },
+          {
+            "label": "MyAnimeList",
+            "url": "https://myanimelist.net/manga/17"
+          },
+          {
+            "label": "Official English",
+            "url": "https://flauglowu.buriorn.co.jp/kradouske/375052"
+          }
+        ],
+        "linksLock": false,
+        "alternateTitles": [
+          {
+            "label": "en",
+            "title": "Donpaidren l Donpaidren"
+          },
+          {
+            "label": "Native",
+            "title": "DONPAIDREN×DONPAIDREN"
+          },
+          {
+            "label": "Native",
+            "title": "ムヅヲロゼ×ムヅヲロゼ"
+          }
+        ],
+        "alternateTitlesLock": false,
+        "created": "2026-09-16T12:07:39Z",
+        "lastModified": "2026-09-16T20:26:04Z"
+      },
+      "booksMetadata": {
+        "authors": [
+          {
+            "name": "KOUFORN Jaugraun",
+            "role": "colorist"
+          },
+          {
+            "name": "KOUFORN Jaugraun",
+            "role": "cover"
+          },
+          {
+            "name": "KOUFORN Jaugraun",
+            "role": "inker"
+          },
+          {
+            "name": "KOUFORN Jaugraun",
+            "role": "letterer"
+          },
+          {
+            "name": "KOUFORN Jaugraun",
+            "role": "penciller"
+          },
+          {
+            "name": "KOUFORN Jaugraun",
+            "role": "writer"
+          }
+        ],
+        "tags": [],
+        "releaseDate": null,
+        "summary": "",
+        "summaryNumber": "",
+        "created": "2026-09-16T12:07:39Z",
+        "lastModified": "2026-09-16T20:19:43Z"
+      },
+      "deleted": false,
+      "oneshot": false
+    },
+    {
+      "id": "0RM6ZZJW3SB30",
+      "libraryId": "0RM392RM9XMC6",
+      "name": "Flapajiam-blaukrio - Glohe lam Tru",
+      "url": "/data/Flapajiam-blaukrio - Glohe lam Tru",
+      "created": "2026-09-14T21:50:57Z",
+      "lastModified": "2026-09-14T21:50:57Z",
+      "fileLastModified": "2026-09-14T23:50:42Z",
+      "booksCount": 26,
+      "booksReadCount": 0,
+      "booksUnreadCount": 26,
+      "booksInProgressCount": 0,
+      "metadata": {
+        "status": "ENDED",
+        "statusLock": false,
+        "title": "Flapajiam-blaukrio - Glohe lam Tru",
+        "titleLock": false,
+        "titleSort": "Flapajiam-blaukrio - Glohe lam Tru",
+        "titleSortLock": false,
+        "summary": "Description removed from the test data.",
+        "summaryLock": false,
+        "readingDirection": "RIGHT_TO_LEFT",
+        "readingDirectionLock": false,
+        "publisher": "HIVURN Stoglaik",
+        "publisherLock": false,
+        "ageRating": 12,
+        "ageRatingLock": true,
+        "language": "de",
+        "languageLock": false,
+        "genres": [
+          "psychological",
+          "seinen",
+          "drama",
+          "slice of life",
+          "romance",
+          "comedy",
+          "school life"
+        ],
+        "genresLock": false,
+        "tags": [
+          "dreiklem",
+          "ziosliapau caugodraum",
+          "seitwei praduklo benkriorn",
+          "glohe pamenaund",
+          "metspizaur ziosliapau benkriorn",
+          "nobrugrau-blaukrio",
+          "hojansti nispuzul disbriplir",
+          "score: 8",
+          "prafreitrio",
+          "deco",
+          "woprisspand",
+          "briosvasbeind nodrau pebaidus",
+          "kuve priastuplund",
+          "stimia fraiplowe",
+          "trotvos pi spoukre",
+          "specauskol huje",
+          "flouplus deco kuve/g",
+          "deco doupraund",
+          "cerifrond deco",
+          "stesio skou leipu",
+          "hiothencun ziosliapau benkriorn",
+          "skaitdriflion",
+          "praduklo caugodraum",
+          "bicemis",
+          "deco kraugogind",
+          "tuco kuve/g",
+          "hesspaum do fluglausbi",
+          "zujaustat",
+          "zeskaitos praduklo benkriorn",
+          "veprorn caugodraum",
+          "plautbion pebaidus",
+          "nuheit"
+        ],
+        "tagsLock": false,
+        "totalBookCount": 26,
+        "totalBookCountLock": false,
+        "sharingLabels": [],
+        "sharingLabelsLock": false,
+        "links": [
+          {
+            "label": "AniList",
+            "url": "https://anilist.co/manga/99678"
+          },
+          {
+            "label": "MangaUpdates",
+            "url": "https://www.mangaupdates.com/series/fl44h3a/flapajiam-blaukrio-lu-nezei-griweinfek-tropland-frul-sluflaik-ke-flaiblaiwirn"
+          },
+          {
+            "label": "Kitsu",
+            "url": "https://kitsu.app/manga/7lek0c50-cie9-2d43-w05n-770v447006kl"
+          },
+          {
+            "label": "BookWalkerJp",
+            "url": "https://bookwalker.jp/series/866200/truhu"
+          }
+        ],
+        "linksLock": false,
+        "alternateTitles": [
+          {
+            "label": "en",
+            "title": "Flapajiam-blaukrio: Glohe lam Tru"
+          },
+          {
+            "label": "en",
+            "title": "Flapajiam-blaukrio: Glohe Lam Tru (Festidrei Plihi)"
+          },
+          {
+            "label": "en",
+            "title": "Flapajiam Brofeiprei ze Mu Slesleim Fram"
+          },
+          {
+            "label": "en",
+            "title": "Flapajiam Brofeiprei ze mu Slesleim Fram: Rik Tesskunzei' Mouk kund Glohe re Kreifranei"
+          },
+          {
+            "label": "en",
+            "title": "Flapajiam-blaukrio: Glohe Lam Tru - Bleistor Plihi Comics"
+          },
+          {
+            "label": "Native",
+            "title": "どぬう～厤謷鮴～"
+          },
+          {
+            "label": "Native",
+            "title": "どぬう　～厤謷鮴～"
+          },
+          {
+            "label": "Native",
+            "title": "どぬう～厤謷鮴～ ホジラカベ"
+          },
+          {
+            "label": "Romaji",
+            "title": "Flapajiam-blaukrio kum Nezei: Tresout jiak Briabrai Flaiblaiwirn"
+          },
+          {
+            "label": "Romaji",
+            "title": "Flapajiam-blaukrio kum Nezei: Griweinfek-tropland klio Sluflaik'ble Flaiblaiwirn"
+          },
+          {
+            "label": "Romaji",
+            "title": "Flapajiam-blaukrio kum Nezei: Griweinfek-tropland zaur Briabrai Flaiblaiwirn  (Festidrei Plihi)"
+          },
+          {
+            "label": "Romaji",
+            "title": "Flapajiam-blaukrio kum Nezei: Griweinfek-tropland zaur Briabrai Flaiblaiwirn  [Festidrei Plihi]"
+          }
+        ],
+        "alternateTitlesLock": false,
+        "created": "2026-09-14T21:50:57Z",
+        "lastModified": "2026-09-16T20:26:03Z"
+      },
+      "booksMetadata": {
+        "authors": [
+          {
+            "name": "Hahe Rioskio",
+            "role": "colorist"
+          },
+          {
+            "name": "Hahe Rioskio",
+            "role": "cover"
+          },
+          {
+            "name": "Hahe Rioskio",
+            "role": "inker"
+          },
+          {
+            "name": "Hahe Rioskio",
+            "role": "letterer"
+          },
+          {
+            "name": "Hahe Rioskio",
+            "role": "penciller"
+          },
+          {
+            "name": "Hahe Rioskio",
+            "role": "writer"
+          }
+        ],
+        "tags": [],
+        "releaseDate": null,
+        "summary": "",
+        "summaryNumber": "",
+        "created": "2026-09-14T21:50:57Z",
+        "lastModified": "2026-09-16T20:19:15Z"
+      },
+      "deleted": false,
+      "oneshot": false
+    },
+    {
+      "id": "0RMTPY99KY55M",
+      "libraryId": "0RM392RM9XMC6",
+      "name": "Speistatpre zagri s Rugat",
+      "url": "/data/Speistatpre zagri s Rugat",
+      "created": "2026-09-16T19:47:38Z",
+      "lastModified": "2026-09-16T19:47:38Z",
+      "fileLastModified": "2026-09-16T21:47:36Z",
+      "booksCount": 17,
+      "booksReadCount": 0,
+      "booksUnreadCount": 17,
+      "booksInProgressCount": 0,
+      "metadata": {
+        "status": "ENDED",
+        "statusLock": false,
+        "title": "Speistatpre zagri s Rugat",
+        "titleLock": false,
+        "titleSort": "Speistatpre zagri s Rugat",
+        "titleSortLock": false,
+        "summary": "Description removed from the test data.",
+        "summaryLock": false,
+        "readingDirection": "RIGHT_TO_LEFT",
+        "readingDirectionLock": false,
+        "publisher": "Manga VX! Frianfoujais",
+        "publisherLock": false,
+        "ageRating": 16,
+        "ageRatingLock": true,
+        "language": "de",
+        "languageLock": false,
+        "genres": [
+          "seinen",
+          "drama",
+          "slice of life",
+          "romance",
+          "comedy",
+          "school life",
+          "ecchi"
+        ],
+        "genresLock": false,
+        "tags": [
+          "hotraskal gragle",
+          "ziosliapau caugodraum",
+          "wihi caugodraum",
+          "bruwioklind/pribri",
+          "glagiabri",
+          "gisdris hojansti ha trotsla",
+          "praduklo pliblour klai kaurouva",
+          "score: 8",
+          "krusflaisnek/g",
+          "hupria floniopiat",
+          "woprisspand",
+          "briosvasbeind nodrau pebaidus",
+          "henfispe ziosliapau benkriorn",
+          "flouplus deco kuve/g",
+          "praduklo caugodraum",
+          "bicemis",
+          "spaisiorn",
+          "hupria",
+          "drewisla",
+          "deco kraugogind",
+          "ziosliapau benkriorn slibrurn glou glohe menor",
+          "bohe ziosliapau benkriorn",
+          "hugrotvei",
+          "joublei",
+          "diplo",
+          "krowaum ziosliapau benkriorn",
+          "kloslekus",
+          "rugat todabou"
+        ],
+        "tagsLock": false,
+        "totalBookCount": 14,
+        "totalBookCountLock": false,
+        "sharingLabels": [],
+        "sharingLabelsLock": false,
+        "links": [
+          {
+            "label": "Kitsu",
+            "url": "https://kitsu.app/manga/gk3s34e3-7y7u-14d7-b304-966834l27j6h"
+          },
+          {
+            "label": "AniList",
+            "url": "https://anilist.co/manga/465852"
+          },
+          {
+            "label": "Anime-Planet",
+            "url": "https://www.anime-planet.com/manga/tru-putatrun-tu-skeinglukre"
+          },
+          {
+            "label": "BookWalkerJp",
+            "url": "https://bookwalker.jp/series/758176/truhu"
+          },
+          {
+            "label": "Kitsu",
+            "url": "https://kitsu.app/manga/43178"
+          },
+          {
+            "label": "MangaUpdates",
+            "url": "https://www.mangaupdates.com/series/5ww6pso"
+          },
+          {
+            "label": "Amazon",
+            "url": "https://www.amazon.co.jp/nis/W46F6GAROS"
+          },
+          {
+            "label": "CDJapan",
+            "url": "https://www.cdjapan.co.jp/neipi/BRABAS-2528482"
+          },
+          {
+            "label": "eBookJapan",
+            "url": "https://ebookjapan.yahoo.co.jp/books/632385"
+          },
+          {
+            "label": "MyAnimeList",
+            "url": "https://myanimelist.net/manga/407521"
+          },
+          {
+            "label": "Official Raw",
+            "url": "https://spoje.jp.vuwepei-nadiaskiand.com/plus/datrotra/trairenbia"
+          },
+          {
+            "label": "Official English",
+            "url": "https://frianfoujais.manga-up.com/manga/932"
+          }
+        ],
+        "linksLock": false,
+        "alternateTitles": [
+          {
+            "label": "en",
+            "title": "Fran Putatrun-Lind Skeinglukre"
+          },
+          {
+            "label": "en",
+            "title": "Ren Blainjisrik Rugat Slibrurn Plio Glohe"
+          },
+          {
+            "label": "en",
+            "title": "Ren Blainjisrik Rugat Blu Madrit Mus Glohe"
+          },
+          {
+            "label": "Native",
+            "title": "よべぇゐ"
+          },
+          {
+            "label": "Romaji",
+            "title": "Licol Blainjisrik Rugat riar Plisein w Dritjiomil"
+          },
+          {
+            "label": "Romaji",
+            "title": "Licol Blainjisrik Rugat nut Plisein dail Dritjiomil"
+          },
+          {
+            "label": "Romaji",
+            "title": "Licol Blainjisrik Rugat baim Plisein dail Dritjiomil"
+          }
+        ],
+        "alternateTitlesLock": false,
+        "created": "2026-09-16T19:47:38Z",
+        "lastModified": "2026-09-16T20:26:04Z"
+      },
+      "booksMetadata": {
+        "authors": [
+          {
+            "name": "Ciokritbo Pliograutfrot",
+            "role": "colorist"
+          },
+          {
+            "name": "Ciokritbo Pliograutfrot",
+            "role": "cover"
+          },
+          {
+            "name": "Ciokritbo Pliograutfrot",
+            "role": "inker"
+          },
+          {
+            "name": "Ciokritbo Pliograutfrot",
+            "role": "letterer"
+          },
+          {
+            "name": "Ciokritbo Pliograutfrot",
+            "role": "penciller"
+          },
+          {
+            "name": "Ciokritbo Pliograutfrot",
+            "role": "writer"
+          }
+        ],
+        "tags": [],
+        "releaseDate": null,
+        "summary": "",
+        "summaryNumber": "",
+        "created": "2026-09-16T19:47:38Z",
+        "lastModified": "2026-09-16T20:19:49Z"
+      },
+      "deleted": false,
+      "oneshot": false
+    },
+    {
+      "id": "0RM6ZZJQBS2X5",
+      "libraryId": "0RM392RM9XMC6",
+      "name": "Bokraisik Branbros",
+      "url": "/data/Bokraisik Branbros",
+      "created": "2026-09-14T21:50:57Z",
+      "lastModified": "2026-09-14T21:50:57Z",
+      "fileLastModified": "2026-09-14T23:50:42Z",
+      "booksCount": 147,
+      "booksReadCount": 0,
+      "booksUnreadCount": 147,
+      "booksInProgressCount": 0,
+      "metadata": {
+        "status": "ONGOING",
+        "statusLock": false,
+        "title": "Bokraisik Branbros",
+        "titleLock": false,
+        "titleSort": "Bokraisik Branbros",
+        "titleSortLock": false,
+        "summary": "Description removed from the test data.",
+        "summaryLock": false,
+        "readingDirection": "RIGHT_TO_LEFT",
+        "readingDirectionLock": false,
+        "publisher": "MANGA Fainpo",
+        "publisherLock": false,
+        "ageRating": 10,
+        "ageRatingLock": true,
+        "language": "de",
+        "languageLock": false,
+        "genres": [
+          "action",
+          "sci-fi",
+          "adventure",
+          "drama",
+          "fantasy",
+          "comedy",
+          "shounen"
+        ],
+        "genresLock": false,
+        "tags": [
+          "slufliklo",
+          "coukus",
+          "niwas spisdrirn",
+          "score: 8",
+          "glewaiflo",
+          "krouglit",
+          "fleklancaut bukrail",
+          "krigron",
+          "zouflern graiveihei",
+          "stesio skou leipu",
+          "neinze",
+          "liscu",
+          "praduklo caugodraum",
+          "breziajar rafin",
+          "flaispem meisspoflio-prusmem rounas/g",
+          "slioklefir segon",
+          "special flogloupio/pribri",
+          "tiblefaul",
+          "skunprand pigu",
+          "ceiplei",
+          "tuporal lenaik",
+          "stesio vum ceidusti",
+          "spisdrirn",
+          "sliafi",
+          "liokupror",
+          "gloupriozil kriolen/g",
+          "sliabregrai",
+          "sliadrou",
+          "plautbion pebaidus",
+          "nunpliarn",
+          "druglim",
+          "driowautbles",
+          "praispaingar/g"
+        ],
+        "tagsLock": false,
+        "totalBookCount": null,
+        "totalBookCountLock": false,
+        "sharingLabels": [],
+        "sharingLabelsLock": false,
+        "links": [
+          {
+            "label": "MangaUpdates",
+            "url": "https://www.mangaupdates.com/series/wr0tmip/bokraisik-branbros"
+          },
+          {
+            "label": "AniList",
+            "url": "https://anilist.co/manga/39129"
+          },
+          {
+            "label": "Kitsu",
+            "url": "https://kitsu.app/manga/k7c0a605-8q07-51k2-1188-48235l662n7t"
+          },
+          {
+            "label": "Anime-Planet",
+            "url": "https://www.anime-planet.com/manga/bokraisik-branbros"
+          },
+          {
+            "label": "BookWalkerJp",
+            "url": "https://bookwalker.jp/series/91879/truhu"
+          },
+          {
+            "label": "Kitsu",
+            "url": "https://kitsu.app/manga/bokraisik-branbros"
+          },
+          {
+            "label": "Amazon",
+            "url": "https://www.amazon.co.jp/nis/C72TPIPMIN"
+          },
+          {
+            "label": "CDJapan",
+            "url": "https://www.cdjapan.co.jp/neipi/BRABAS-3387059"
+          },
+          {
+            "label": "eBookJapan",
+            "url": "https://ebookjapan.yahoo.co.jp/books/688321/"
+          },
+          {
+            "label": "MyAnimeList",
+            "url": "https://myanimelist.net/manga/63"
+          },
+          {
+            "label": "Official Raw",
+            "url": "https://manfatrul.com/episode/87018024062310114168"
+          },
+          {
+            "label": "Official English",
+            "url": "https://flauglowu.buriorn.co.jp/kradouske/222415"
+          }
+        ],
+        "linksLock": false,
+        "alternateTitles": [
+          {
+            "label": "en",
+            "title": "Bokraisik Branbros"
+          },
+          {
+            "label": "Native",
+            "title": "ネザシヘ"
+          }
+        ],
+        "alternateTitlesLock": false,
+        "created": "2026-09-14T21:50:57Z",
+        "lastModified": "2026-09-16T20:26:02Z"
+      },
+      "booksMetadata": {
+        "authors": [
+          {
+            "name": "SECAN Greinstenau",
+            "role": "colorist"
+          },
+          {
+            "name": "SECAN Greinstenau",
+            "role": "cover"
+          },
+          {
+            "name": "SECAN Greinstenau",
+            "role": "inker"
+          },
+          {
+            "name": "SECAN Greinstenau",
+            "role": "letterer"
+          },
+          {
+            "name": "SECAN Greinstenau",
+            "role": "penciller"
+          },
+          {
+            "name": "SECAN Greinstenau",
+            "role": "writer"
+          }
+        ],
+        "tags": [
+          "comics & blaiplirn naigem",
+          "manga",
+          "joubloste",
+          "action & gaude"
+        ],
+        "releaseDate": "2023-04-01",
+        "summary": "Description removed from the test data.",
+        "summaryNumber": "108",
+        "created": "2026-09-14T21:50:57Z",
+        "lastModified": "2026-09-16T20:18:55Z"
+      },
+      "deleted": false,
+      "oneshot": false
+    },
+    {
+      "id": "0RM6ZZJWQS9GW",
+      "libraryId": "0RM392RM9XMC6",
+      "name": "Kuspriotus 5",
+      "url": "/data/Kuspriotus 5",
+      "created": "2026-09-14T21:50:57Z",
+      "lastModified": "2026-09-14T21:50:57Z",
+      "fileLastModified": "2026-09-14T23:50:42Z",
+      "booksCount": 13,
+      "booksReadCount": 0,
+      "booksUnreadCount": 13,
+      "booksInProgressCount": 0,
+      "metadata": {
+        "status": "ONGOING",
+        "statusLock": false,
+        "title": "Kuspriotus 5",
+        "titleLock": false,
+        "titleSort": "Kuspriotus 5",
+        "titleSortLock": false,
+        "summary": "Description removed from the test data.",
+        "summaryLock": false,
+        "readingDirection": "RIGHT_TO_LEFT",
+        "readingDirectionLock": false,
+        "publisher": "Hivurn",
+        "publisherLock": false,
+        "ageRating": 14,
+        "ageRatingLock": true,
+        "language": "de",
+        "languageLock": false,
+        "genres": [
+          "psychological",
+          "action",
+          "school life",
+          "shounen",
+          "tragedy",
+          "drama",
+          "thriller",
+          "crime",
+          "fantasy",
+          "comedy",
+          "mystery",
+          "philosophical",
+          "supernatural"
+        ],
+        "genresLock": false,
+        "tags": [
+          "flifrun/g",
+          "tregoubruk glourais",
+          "gahu",
+          "kiaplioklil/g",
+          "klorauzeit",
+          "21st kiablesgour",
+          "gupohend-flaurou praduklo benkriorn",
+          "deco kraugogind",
+          "flouplus deco",
+          "glela",
+          "score: 6",
+          "bunlaspir caugodraum",
+          "liokupror",
+          "gupohend-flaurou caugodraum",
+          "bunlaspir praduklo benkriorn",
+          "bujopail lotdom",
+          "jetkligrer paigliakle",
+          "defreir skut d jetkligrer drisketwul",
+          "sliadrou",
+          "frihekim/g",
+          "plediapre kliabramak/g",
+          "gliospo/g",
+          "jionuplout"
+        ],
+        "tagsLock": false,
+        "totalBookCount": null,
+        "totalBookCountLock": false,
+        "sharingLabels": [],
+        "sharingLabelsLock": false,
+        "links": [
+          {
+            "label": "MangaUpdates",
+            "url": "https://www.mangaupdates.com/series/6q0ai0t/kuspriotus-3"
+          },
+          {
+            "label": "AniList",
+            "url": "https://anilist.co/manga/45205"
+          },
+          {
+            "label": "Kitsu",
+            "url": "https://kitsu.app/manga/2e7avqv6-196c-7sw7-vlm1-62778q10343h"
+          },
+          {
+            "label": "Anime-Planet",
+            "url": "https://www.anime-planet.com/manga/kuspriotus-3"
+          },
+          {
+            "label": "BookWalkerJp",
+            "url": "https://bookwalker.jp/series/202547/truhu"
+          },
+          {
+            "label": "Kitsu",
+            "url": "https://kitsu.app/manga/63205"
+          },
+          {
+            "label": "Amazon",
+            "url": "https://www.amazon.co.jp/nis/J650GATIB9?dussek=blefoutei_edition&pliklaikom=1751093708&nirn=4-4&klowikes=peiskauklur_nis_kriacosblen_blis_slo_mialiste"
+          },
+          {
+            "label": "MyAnimeList",
+            "url": "https://myanimelist.net/manga/47280"
+          },
+          {
+            "label": "Official English",
+            "url": "https://www.hivurn.com/kuspriotus-3"
+          }
+        ],
+        "linksLock": false,
+        "alternateTitles": [
+          {
+            "label": "en",
+            "title": "Kuspriotus 5"
+          },
+          {
+            "label": "en",
+            "title": "X5"
+          },
+          {
+            "label": "Native",
+            "title": "ペルソナ5"
+          }
+        ],
+        "alternateTitlesLock": false,
+        "created": "2026-09-14T21:50:57Z",
+        "lastModified": "2026-09-16T20:26:03Z"
+      },
+      "booksMetadata": {
+        "authors": [
+          {
+            "name": "Slangautvu",
+            "role": "writer"
+          },
+          {
+            "name": "BROBIS Bicufind",
+            "role": "colorist"
+          },
+          {
+            "name": "BROBIS Bicufind",
+            "role": "cover"
+          },
+          {
+            "name": "BROBIS Bicufind",
+            "role": "inker"
+          },
+          {
+            "name": "BROBIS Bicufind",
+            "role": "letterer"
+          },
+          {
+            "name": "BROBIS Bicufind",
+            "role": "penciller"
+          },
+          {
+            "name": "BROBIS Bicufind",
+            "role": "writer"
+          }
+        ],
+        "tags": [],
+        "releaseDate": null,
+        "summary": "",
+        "summaryNumber": "",
+        "created": "2026-09-14T21:50:57Z",
+        "lastModified": "2026-09-16T20:19:18Z"
+      },
+      "deleted": false,
+      "oneshot": false
+    },
+    {
+      "id": "0RM6ZZJPKSFNA",
+      "libraryId": "0RM392RM9XMC6",
+      "name": "Fugalau",
+      "url": "/data/Fugalau",
+      "created": "2026-09-14T21:50:56Z",
+      "lastModified": "2026-09-14T21:50:56Z",
+      "fileLastModified": "2026-09-14T23:50:42Z",
+      "booksCount": 10,
+      "booksReadCount": 0,
+      "booksUnreadCount": 10,
+      "booksInProgressCount": 0,
+      "metadata": {
+        "status": "ENDED",
+        "statusLock": false,
+        "title": "Fugalau",
+        "titleLock": false,
+        "titleSort": "Fugalau",
+        "titleSortLock": false,
+        "summary": "Description removed from the test data.",
+        "summaryLock": false,
+        "readingDirection": "RIGHT_TO_LEFT",
+        "readingDirectionLock": false,
+        "publisher": "Hivurn",
+        "publisherLock": false,
+        "ageRating": 14,
+        "ageRatingLock": true,
+        "language": "de",
+        "languageLock": false,
+        "genres": [
+          "psychological",
+          "action",
+          "seinen",
+          "mecha",
+          "tragedy",
+          "superhero",
+          "sci-fi",
+          "drama",
+          "thriller",
+          "crime",
+          "mystery"
+        ],
+        "genresLock": false,
+        "tags": [
+          "slufliklo",
+          "slohere fleirare",
+          "score: 8",
+          "veitrotbri/g",
+          "glajeinkli",
+          "gioji",
+          "neinze",
+          "tispial",
+          "bicemis",
+          "fliavu pruviorn",
+          "defreir sker h flavot",
+          "slufliklo/pribri",
+          "naisjak henslaut",
+          "jeisflom",
+          "veitrotbri",
+          "plevioskur",
+          "pruviorn/g",
+          "ceiplei",
+          "feiker-prepropri cafreikliam",
+          "sliabregrai/g",
+          "zeskaitos praduklo benkriorn",
+          "kliabramak vaspai",
+          "sikrar flu baibretneis pitsliot",
+          "braibarn-vousaut",
+          "zosga-friondiala",
+          "plautbion pebaidus",
+          "druglim",
+          "mususteirn",
+          "houwuboul"
+        ],
+        "tagsLock": false,
+        "totalBookCount": 10,
+        "totalBookCountLock": false,
+        "sharingLabels": [],
+        "sharingLabelsLock": false,
+        "links": [
+          {
+            "label": "MangaUpdates",
+            "url": "https://www.mangaupdates.com/series/am1stbv/fugalau"
+          },
+          {
+            "label": "AniList",
+            "url": "https://anilist.co/manga/57060"
+          },
+          {
+            "label": "Kitsu",
+            "url": "https://kitsu.app/manga/r236l958-6638-147c-99ix-tv75267718qv"
+          },
+          {
+            "label": "Anime-Planet",
+            "url": "https://www.anime-planet.com/manga/fugalau"
+          },
+          {
+            "label": "BookWalkerJp",
+            "url": "https://bookwalker.jp/series/368471/truhu"
+          },
+          {
+            "label": "Kitsu",
+            "url": "https://kitsu.app/manga/2726"
+          },
+          {
+            "label": "MyAnimeList",
+            "url": "https://myanimelist.net/manga/256"
+          },
+          {
+            "label": "Official English",
+            "url": "https://www.hivurn.com/fugalau-rosskiapliam-g-krelous"
+          }
+        ],
+        "linksLock": false,
+        "alternateTitles": [
+          {
+            "label": "en",
+            "title": "Fugalau"
+          },
+          {
+            "label": "Native",
+            "title": "ソノマ"
+          }
+        ],
+        "alternateTitlesLock": false,
+        "created": "2026-09-14T21:50:56Z",
+        "lastModified": "2026-09-16T20:26:02Z"
+      },
+      "booksMetadata": {
+        "authors": [
+          {
+            "name": "KRAUTTRAUTKLAU Viogrut",
+            "role": "writer"
+          },
+          {
+            "name": "KRELOUS Kofras",
+            "role": "writer"
+          },
+          {
+            "name": "ROSSKIAPLIAM Gionfrot",
+            "role": "colorist"
+          },
+          {
+            "name": "ROSSKIAPLIAM Gionfrot",
+            "role": "cover"
+          },
+          {
+            "name": "ROSSKIAPLIAM Gionfrot",
+            "role": "inker"
+          },
+          {
+            "name": "ROSSKIAPLIAM Gionfrot",
+            "role": "letterer"
+          },
+          {
+            "name": "ROSSKIAPLIAM Gionfrot",
+            "role": "penciller"
+          },
+          {
+            "name": "ROSSKIAPLIAM Gionfrot",
+            "role": "writer"
+          }
+        ],
+        "tags": [],
+        "releaseDate": null,
+        "summary": "",
+        "summaryNumber": "",
+        "created": "2026-09-14T21:50:56Z",
+        "lastModified": "2026-09-16T20:18:47Z"
+      },
+      "deleted": false,
+      "oneshot": false
+    },
+    {
+      "id": "0RM6ZZJNFSCXJ",
+      "libraryId": "0RM392RM9XMC6",
+      "name": "Braupri Pliasni",
+      "url": "/data/Braupri Pliasni",
+      "created": "2026-09-14T21:50:56Z",
+      "lastModified": "2026-09-14T21:50:56Z",
+      "fileLastModified": "2026-09-14T23:50:42Z",
+      "booksCount": 31,
+      "booksReadCount": 0,
+      "booksUnreadCount": 31,
+      "booksInProgressCount": 0,
+      "metadata": {
+        "status": "ONGOING",
+        "statusLock": false,
+        "title": "Braupri Pliasni",
+        "titleLock": false,
+        "titleSort": "Braupri Pliasni",
+        "titleSortLock": false,
+        "summary": "Description removed from the test data.",
+        "summaryLock": false,
+        "readingDirection": "RIGHT_TO_LEFT",
+        "readingDirectionLock": false,
+        "publisher": "C Manga",
+        "publisherLock": false,
+        "ageRating": 14,
+        "ageRatingLock": true,
+        "language": "de",
+        "languageLock": false,
+        "genres": [
+          "drama",
+          "harem",
+          "slice of life",
+          "romance",
+          "comedy",
+          "school life",
+          "shounen",
+          "ecchi"
+        ],
+        "genresLock": false,
+        "tags": [
+          "fraflai",
+          "wahatnas",
+          "spousglem",
+          "glohe pamenaund/g",
+          "glohe pamenaund",
+          "figiolai blijiatra",
+          "rouslovus glohe",
+          "kesdripleis praduklo jeikarn ziosliapau",
+          "mogles/g",
+          "woprisspand",
+          "grigli freblaiblus",
+          "cafreikliam",
+          "nokren rounas",
+          "stesio skou leipu",
+          "skaitdriflion",
+          "praduklo caugodraum",
+          "braupri bretbion/pliasni",
+          "zaingriage",
+          "briosvasbeind meistiorn pebaidus",
+          "briosvasbeind ziosliapau pebaidus",
+          "deco kraugogind",
+          "klotol/g",
+          "tiblefaul",
+          "denbreigol",
+          "bohe ziosliapau benkriorn",
+          "score: 5",
+          "klestor/fral",
+          "ziosliapau spousglem",
+          "kraublinklol/braibarn-blifrafrauk kuve/g",
+          "skapaklund",
+          "stadum/g"
+        ],
+        "tagsLock": false,
+        "totalBookCount": null,
+        "totalBookCountLock": false,
+        "sharingLabels": [],
+        "sharingLabelsLock": false,
+        "links": [
+          {
+            "label": "AniList",
+            "url": "https://anilist.co/manga/36734"
+          },
+          {
+            "label": "MangaUpdates",
+            "url": "https://www.mangaupdates.com/series/2gjo69q/dresgra-klouklogrem"
+          },
+          {
+            "label": "Kitsu",
+            "url": "https://kitsu.app/manga/eqdj3623-m966-99es-8981-3kb492650s51"
+          },
+          {
+            "label": "Anime-Planet",
+            "url": "https://www.anime-planet.com/manga/doubau-r-pliasni"
+          },
+          {
+            "label": "Kitsu",
+            "url": "https://kitsu.app/manga/55424"
+          },
+          {
+            "label": "MyAnimeList",
+            "url": "https://myanimelist.net/manga/168567"
+          },
+          {
+            "label": "Official Raw",
+            "url": "https://triblas.dreifidru.com/episode/79043002359073766494"
+          }
+        ],
+        "linksLock": false,
+        "alternateTitles": [
+          {
+            "label": "en",
+            "title": "Doubau-L-Pliasni"
+          },
+          {
+            "label": "Native",
+            "title": "bu、こすんくう"
+          },
+          {
+            "label": "Romaji",
+            "title": "Dresgra, Klouklogrem"
+          },
+          {
+            "label": "Romaji",
+            "title": "Dresgra, Klouklogrem (Gouklagloun Plihi)"
+          }
+        ],
+        "alternateTitlesLock": false,
+        "created": "2026-09-14T21:50:56Z",
+        "lastModified": "2026-09-16T20:26:02Z"
+      },
+      "booksMetadata": {
+        "authors": [
+          {
+            "name": "Trikrugras Slelandiat",
+            "role": "colorist"
+          },
+          {
+            "name": "Trikrugras Slelandiat",
+            "role": "cover"
+          },
+          {
+            "name": "Trikrugras Slelandiat",
+            "role": "inker"
+          },
+          {
+            "name": "Trikrugras Slelandiat",
+            "role": "letterer"
+          },
+          {
+            "name": "Trikrugras Slelandiat",
+            "role": "penciller"
+          },
+          {
+            "name": "Trikrugras Slelandiat",
+            "role": "writer"
+          }
+        ],
+        "tags": [],
+        "releaseDate": null,
+        "summary": "",
+        "summaryNumber": "",
+        "created": "2026-09-14T21:50:56Z",
+        "lastModified": "2026-09-16T20:18:41Z"
+      },
+      "deleted": false,
+      "oneshot": false
+    },
+    {
+      "id": "0RM6ZZJVVS53R",
+      "libraryId": "0RM392RM9XMC6",
+      "name": "Broprut Flaplot",
+      "url": "/data/Broprut Flaplot",
+      "created": "2026-09-14T21:50:57Z",
+      "lastModified": "2026-09-14T21:50:57Z",
+      "fileLastModified": "2026-09-14T23:50:42Z",
+      "booksCount": 12,
+      "booksReadCount": 0,
+      "booksUnreadCount": 12,
+      "booksInProgressCount": 0,
+      "metadata": {
+        "status": "ONGOING",
+        "statusLock": false,
+        "title": "Broprut Flaplot",
+        "titleLock": false,
+        "titleSort": "Broprut Flaplot",
+        "titleSortLock": false,
+        "summary": "Description removed from the test data.",
+        "summaryLock": false,
+        "readingDirection": "RIGHT_TO_LEFT",
+        "readingDirectionLock": false,
+        "publisher": "MANGA Fainpo",
+        "publisherLock": false,
+        "ageRating": 12,
+        "ageRatingLock": true,
+        "language": "de",
+        "languageLock": false,
+        "genres": [
+          "action",
+          "sci-fi",
+          "drama",
+          "thriller",
+          "slice of life",
+          "comedy",
+          "mature",
+          "shounen",
+          "supernatural"
+        ],
+        "genresLock": false,
+        "tags": [
+          "plankrupuk neispoun",
+          "skauborn/g",
+          "klorauzeit",
+          "fritsor griafudous",
+          "grabiamus/g",
+          "meistiorn praduklo benkriorn",
+          "kleikle spudriontraut",
+          "steiblaivan praduklo benkriorn",
+          "tetaiflo",
+          "wedruklur",
+          "steiblaivan caugodraum",
+          "jiatve zesas/g",
+          "praduklo caugodraum",
+          "dru-skauborn",
+          "briosvasbeind meistiorn pebaidus",
+          "grousgeihiat broubok",
+          "pigu kraugogind",
+          "jionuplout fliamaiglio/g",
+          "blanaspe",
+          "gupohend-flaurou praduklo benkriorn",
+          "tousledraus",
+          "tiblefaul",
+          "skunprand pigu",
+          "briosvasbeind praduklo pebaidus",
+          "draupliom caugodraum",
+          "score: 7",
+          "griatjirout",
+          "kliabramak/g meisut sta kloploflaik n vesroucar kraugogind",
+          "grudoble",
+          "sliatbive praduklo benkriorn",
+          "slukak",
+          "sliabregrai",
+          "pigu",
+          "jionuplout"
+        ],
+        "tagsLock": false,
+        "totalBookCount": null,
+        "totalBookCountLock": false,
+        "sharingLabels": [],
+        "sharingLabelsLock": false,
+        "links": [
+          {
+            "label": "MangaUpdates",
+            "url": "https://www.mangaupdates.com/series/ozf9dcf/broprut-flaplot"
+          },
+          {
+            "label": "AniList",
+            "url": "https://anilist.co/manga/195202"
+          },
+          {
+            "label": "Kitsu",
+            "url": "https://kitsu.app/manga/7l0o05bh-7l23-96k1-9um6-n2v6272kt7p1"
+          },
+          {
+            "label": "Anime-Planet",
+            "url": "https://www.anime-planet.com/manga/broprut-flaplot"
+          },
+          {
+            "label": "BookWalkerJp",
+            "url": "https://bookwalker.jp/series/969028/truhu"
+          },
+          {
+            "label": "Kitsu",
+            "url": "https://kitsu.app/manga/65691"
+          },
+          {
+            "label": "Amazon",
+            "url": "https://www.amazon.co.jp/-/frai/nis/U647U808X6"
+          },
+          {
+            "label": "CDJapan",
+            "url": "https://www.cdjapan.co.jp/neipi/BRABAS-7127213"
+          },
+          {
+            "label": "eBookJapan",
+            "url": "https://ebookjapan.yahoo.co.jp/books/697135/"
+          },
+          {
+            "label": "MyAnimeList",
+            "url": "https://myanimelist.net/manga/104269"
+          },
+          {
+            "label": "Official Raw",
+            "url": "https://manfatrul.com/episode/2813663594197972800"
+          },
+          {
+            "label": "Official English",
+            "url": "https://flauglowu.buriorn.co.jp/kradouske/834969"
+          }
+        ],
+        "linksLock": false,
+        "alternateTitles": [
+          {
+            "label": "en",
+            "title": "Broprut Flaplot"
+          },
+          {
+            "label": "Native",
+            "title": "ズニァド ルアネ"
+          }
+        ],
+        "alternateTitlesLock": false,
+        "created": "2026-09-14T21:50:57Z",
+        "lastModified": "2026-09-16T20:26:03Z"
+      },
+      "booksMetadata": {
+        "authors": [
+          {
+            "name": "JIHEDUND Glentaklo",
+            "role": "colorist"
+          },
+          {
+            "name": "JIHEDUND Glentaklo",
+            "role": "cover"
+          },
+          {
+            "name": "JIHEDUND Glentaklo",
+            "role": "inker"
+          },
+          {
+            "name": "JIHEDUND Glentaklo",
+            "role": "letterer"
+          },
+          {
+            "name": "JIHEDUND Glentaklo",
+            "role": "penciller"
+          },
+          {
+            "name": "JIHEDUND Glentaklo",
+            "role": "writer"
+          }
+        ],
+        "tags": [],
+        "releaseDate": null,
+        "summary": "",
+        "summaryNumber": "",
+        "created": "2026-09-14T21:50:57Z",
+        "lastModified": "2026-09-16T20:19:07Z"
+      },
+      "deleted": false,
+      "oneshot": false
+    },
+    {
+      "id": "0RM4VTYHRPJ2Z",
+      "libraryId": "0RM392RM9XMC6",
+      "name": "Skagrausge-Pau Briatvainkiand",
+      "url": "/data/Skagrausge-Pau Briatvainkiand",
+      "created": "2026-09-14T16:53:13Z",
+      "lastModified": "2026-09-14T16:53:13Z",
+      "fileLastModified": "2026-09-14T18:52:56Z",
+      "booksCount": 17,
+      "booksReadCount": 0,
+      "booksUnreadCount": 16,
+      "booksInProgressCount": 1,
+      "metadata": {
+        "status": "ONGOING",
+        "statusLock": false,
+        "title": "Skagrausge-Pau Briatvainkiand",
+        "titleLock": false,
+        "titleSort": "Skagrausge-Pau Briatvainkiand",
+        "titleSortLock": false,
+        "summary": "Description removed from the test data.",
+        "summaryLock": false,
+        "readingDirection": "RIGHT_TO_LEFT",
+        "readingDirectionLock": false,
+        "publisher": "C Manga",
+        "publisherLock": false,
+        "ageRating": 12,
+        "ageRatingLock": true,
+        "language": "de",
+        "languageLock": false,
+        "genres": [
+          "action",
+          "sci-fi",
+          "adventure",
+          "drama",
+          "fantasy",
+          "comedy",
+          "shounen"
+        ],
+        "genresLock": false,
+        "tags": [
+          "drisketwul/g",
+          "fliasam",
+          "stesio bo drisketwul",
+          "lodromeik",
+          "pruboudior drisketwul niwas",
+          "score: 8",
+          "zialowis/g",
+          "jetkligrer paigliakle",
+          "reiwum",
+          "jetkligrer drisketwul/g",
+          "stesio skou leipu",
+          "feiker-coudraslail cafreikliam",
+          "drisketwul fliasam kliabramak/skeiblek",
+          "praduklo caugodraum",
+          "naisjak henslaut",
+          "kroplot",
+          "jutisfle",
+          "tiblefaul",
+          "ziosliapau benkriorn slibrurn glou glohe menor",
+          "pruboudior niwas",
+          "feiker-prepropri cafreikliam",
+          "spisdrirn",
+          "plediapre kliabramak/g",
+          "haudispia",
+          "brinira",
+          "sipogom",
+          "drisketwul niwas"
+        ],
+        "tagsLock": false,
+        "totalBookCount": null,
+        "totalBookCountLock": false,
+        "sharingLabels": [],
+        "sharingLabelsLock": false,
+        "links": [
+          {
+            "label": "AniList",
+            "url": "https://anilist.co/manga/916414"
+          },
+          {
+            "label": "MangaUpdates",
+            "url": "https://www.mangaupdates.com/series/fgjd8ew/skagrausge-ve-briatvainkiand-mudumen-donpaidren-flapu-tronis-wi-zebriatkrin-prai-krus"
+          }
+        ],
+        "linksLock": false,
+        "alternateTitles": [
+          {
+            "label": "en",
+            "title": "Skagrausge-Pau Briatvainkiand"
+          },
+          {
+            "label": "Native",
+            "title": "ゴィッ・ニヮォャ〜ジドクャム, 蓆帣唦〜"
+          },
+          {
+            "label": "Romaji",
+            "title": "Skagrausge-Pau Briatvainkiand: Mudumen Donpaidren, Flapu ze ku Zebriatkrin skau spei"
+          },
+          {
+            "label": "Romaji",
+            "title": "Skagrausge-Pau Briatvainkiand: Mudumen Donpaidren, Flapu-tronis voul Zebriatkrin skau spei"
+          }
+        ],
+        "alternateTitlesLock": false,
+        "created": "2026-09-14T16:53:13Z",
+        "lastModified": "2026-09-16T20:26:01Z"
+      },
+      "booksMetadata": {
+        "authors": [
+          {
+            "name": "Spitreblas",
+            "role": "writer"
+          },
+          {
+            "name": "Fave Cegra",
+            "role": "colorist"
+          },
+          {
+            "name": "Fave Cegra",
+            "role": "cover"
+          },
+          {
+            "name": "Fave Cegra",
+            "role": "inker"
+          },
+          {
+            "name": "Fave Cegra",
+            "role": "letterer"
+          },
+          {
+            "name": "Fave Cegra",
+            "role": "penciller"
+          },
+          {
+            "name": "Fave Cegra",
+            "role": "writer"
+          }
+        ],
+        "tags": [],
+        "releaseDate": null,
+        "summary": "",
+        "summaryNumber": "",
+        "created": "2026-09-14T16:53:13Z",
+        "lastModified": "2026-09-16T20:18:28Z"
+      },
+      "deleted": false,
+      "oneshot": false
+    },
+    {
+      "id": "0RMQDN6Y63RSA",
+      "libraryId": "0RM392RM9XMC6",
+      "name": "Drouzi Vestrubo",
+      "url": "/data/Drouzi Vestrubo",
+      "created": "2026-09-16T12:07:39Z",
+      "lastModified": "2026-09-16T12:07:39Z",
+      "fileLastModified": "2026-09-16T14:07:25Z",
+      "booksCount": 14,
+      "booksReadCount": 0,
+      "booksUnreadCount": 14,
+      "booksInProgressCount": 0,
+      "metadata": {
+        "status": "ENDED",
+        "statusLock": false,
+        "title": "Drouzi Vestrubo",
+        "titleLock": false,
+        "titleSort": "Drouzi Vestrubo",
+        "titleSortLock": false,
+        "summary": "Description removed from the test data.",
+        "summaryLock": false,
+        "readingDirection": "RIGHT_TO_LEFT",
+        "readingDirectionLock": false,
+        "publisher": "MIAHO Griogais",
+        "publisherLock": false,
+        "ageRating": 14,
+        "ageRatingLock": true,
+        "language": "de",
+        "languageLock": false,
+        "genres": [
+          "action",
+          "adventure",
+          "drama",
+          "fantasy",
+          "shounen"
+        ],
+        "genresLock": false,
+        "tags": [
+          "defreir te t novel",
+          "gahu",
+          "skou",
+          "tidaho drialem",
+          "drisketwul koscejind",
+          "sleiskond/g luba",
+          "score: 8",
+          "nossedriand-broklas praduklo benkriorn",
+          "kleikle spudriontraut",
+          "plaugam stoklovaun",
+          "pustim",
+          "kleindrihal",
+          "sleiskond",
+          "zouflern graiveihei",
+          "frispeislia caugodraum",
+          "desubre friosek",
+          "praduklo caugodraum",
+          "briosvasbeind meistiorn pebaidus",
+          "kroplot",
+          "wauwoukiom glegond",
+          "gluzior glefi",
+          "kliabramak vaspai",
+          "sleiskond/g",
+          "glitgrern",
+          "sliadrou",
+          "braibarn-vousaut",
+          "kleila dria nossedriand",
+          "groufrilan caugodraum",
+          "druglim",
+          "jionuplout",
+          "pliamou/blastei"
+        ],
+        "tagsLock": false,
+        "totalBookCount": 14,
+        "totalBookCountLock": false,
+        "sharingLabels": [],
+        "sharingLabelsLock": false,
+        "links": [
+          {
+            "label": "MangaUpdates",
+            "url": "https://www.mangaupdates.com/series/9h9hqh2/drouzi-vestrubo"
+          },
+          {
+            "label": "AniList",
+            "url": "https://anilist.co/manga/779646"
+          },
+          {
+            "label": "Kitsu",
+            "url": "https://kitsu.app/manga/71w37b99-7x32-5xi6-7au9-l6y9044yb4e0"
+          },
+          {
+            "label": "Anime-Planet",
+            "url": "https://www.anime-planet.com/manga/drouzi-vestrubo"
+          },
+          {
+            "label": "Kitsu",
+            "url": "https://kitsu.app/manga/81848"
+          },
+          {
+            "label": "MyAnimeList",
+            "url": "https://myanimelist.net/manga/545048"
+          },
+          {
+            "label": "Official Raw",
+            "url": "https://page.preideiblio.com/baunaprion/35173556"
+          }
+        ],
+        "linksLock": false,
+        "alternateTitles": [
+          {
+            "label": "en",
+            "title": "Drouzi Vestrubo"
+          },
+          {
+            "label": "en",
+            "title": "I plaugam spe laipeigra"
+          },
+          {
+            "label": "en",
+            "title": "I doum kle taigraina slai bokraisik spoukri ploukipliot tei"
+          },
+          {
+            "label": "en",
+            "title": "I Laipeigra Plaugam-Sli"
+          },
+          {
+            "label": "en",
+            "title": "Taigraina I Plaugam stum"
+          },
+          {
+            "label": "Native",
+            "title": "z 꿟먒횴쿔탴 먣뼎"
+          },
+          {
+            "label": "ja",
+            "title": "桁樴"
+          },
+          {
+            "label": "ja",
+            "title": "桁樴〜glio〜"
+          },
+          {
+            "label": "Romaji",
+            "title": "Cen Graunstodiol Plaugam Stum"
+          },
+          {
+            "label": "Romaji",
+            "title": "Glipreji Jiaflotei Plaugam Blan trau Loutei"
+          }
+        ],
+        "alternateTitlesLock": false,
+        "created": "2026-09-16T12:07:39Z",
+        "lastModified": "2026-09-16T20:26:04Z"
+      },
+      "booksMetadata": {
+        "authors": [
+          {
+            "name": "Beprauni",
+            "role": "writer"
+          },
+          {
+            "name": "WENREM (Bretrouhaul Wiomu)",
+            "role": "colorist"
+          },
+          {
+            "name": "WENREM (Bretrouhaul Wiomu)",
+            "role": "cover"
+          },
+          {
+            "name": "WENREM (Bretrouhaul Wiomu)",
+            "role": "inker"
+          },
+          {
+            "name": "WENREM (Bretrouhaul Wiomu)",
+            "role": "letterer"
+          },
+          {
+            "name": "WENREM (Bretrouhaul Wiomu)",
+            "role": "penciller"
+          },
+          {
+            "name": "GRONAUR (Bretrouhaul Wiomu)",
+            "role": "colorist"
+          },
+          {
+            "name": "GRONAUR (Bretrouhaul Wiomu)",
+            "role": "cover"
+          },
+          {
+            "name": "GRONAUR (Bretrouhaul Wiomu)",
+            "role": "inker"
+          },
+          {
+            "name": "GRONAUR (Bretrouhaul Wiomu)",
+            "role": "letterer"
+          },
+          {
+            "name": "GRONAUR (Bretrouhaul Wiomu)",
+            "role": "penciller"
+          },
+          {
+            "name": "U-totraund",
+            "role": "writer"
+          },
+          {
+            "name": "YO Hustet",
+            "role": "writer"
+          },
+          {
+            "name": "Bretrouhaul Wiomu",
+            "role": "colorist"
+          },
+          {
+            "name": "Bretrouhaul Wiomu",
+            "role": "cover"
+          },
+          {
+            "name": "Bretrouhaul Wiomu",
+            "role": "inker"
+          },
+          {
+            "name": "Bretrouhaul Wiomu",
+            "role": "letterer"
+          },
+          {
+            "name": "Bretrouhaul Wiomu",
+            "role": "penciller"
+          }
+        ],
+        "tags": [],
+        "releaseDate": null,
+        "summary": "",
+        "summaryNumber": "",
+        "created": "2026-09-16T12:07:39Z",
+        "lastModified": "2026-09-16T20:19:34Z"
+      },
+      "deleted": false,
+      "oneshot": false
+    },
+    {
+      "id": "0RM6ZZJX3SFDJ",
+      "libraryId": "0RM392RM9XMC6",
+      "name": "Spinflawem b Pigu",
+      "url": "/data/Spinflawem b Pigu",
+      "created": "2026-09-14T21:50:57Z",
+      "lastModified": "2026-09-14T21:50:57Z",
+      "fileLastModified": "2026-09-14T23:50:42Z",
+      "booksCount": 17,
+      "booksReadCount": 0,
+      "booksUnreadCount": 17,
+      "booksInProgressCount": 0,
+      "metadata": {
+        "status": "ONGOING",
+        "statusLock": false,
+        "title": "Spinflawem b Pigu",
+        "titleLock": false,
+        "titleSort": "Spinflawem b Pigu",
+        "titleSortLock": false,
+        "summary": "Description removed from the test data.",
+        "summaryLock": false,
+        "readingDirection": "RIGHT_TO_LEFT",
+        "readingDirectionLock": false,
+        "publisher": "Manga Fainpo",
+        "publisherLock": false,
+        "ageRating": 10,
+        "ageRatingLock": true,
+        "language": "de",
+        "languageLock": false,
+        "genres": [
+          "action",
+          "adventure",
+          "drama",
+          "slice of life",
+          "romance",
+          "comedy",
+          "school life",
+          "shounen",
+          "supernatural"
+        ],
+        "genresLock": false,
+        "tags": [
+          "plankrupuk neispoun",
+          "figiolai pigu",
+          "skauborn/g",
+          "ziosliapau caugodraum",
+          "kiostiobend pramezio",
+          "foten plofraidu",
+          "skou",
+          "nokren baizaislor",
+          "score: 8",
+          "deco",
+          "grigli freblaiblus",
+          "tetaiflo",
+          "cafreikliam",
+          "nokren rounas",
+          "baizaislor",
+          "roglousteind",
+          "spinflawem/pribri",
+          "praduklo caugodraum",
+          "lenobrel",
+          "klagospoul sleklou/sluflaik",
+          "blasblo",
+          "slaskra",
+          "pigu kraugogind",
+          "nossedriand ziosliapau benkriorn",
+          "blanaspe",
+          "deco kraugogind",
+          "plevioskur",
+          "skunprand pigu",
+          "liokupror",
+          "zeskaitos praduklo benkriorn",
+          "domei priflios",
+          "satkaund braihihin",
+          "druglim",
+          "nossedriand praduklo benkriorn",
+          "jionuplout",
+          "sliatbive kaskonmi"
+        ],
+        "tagsLock": false,
+        "totalBookCount": null,
+        "totalBookCountLock": false,
+        "sharingLabels": [],
+        "sharingLabelsLock": false,
+        "links": [
+          {
+            "label": "MangaUpdates",
+            "url": "https://www.mangaupdates.com/series/n8ia4bc/spinflawem-g-pigu"
+          },
+          {
+            "label": "AniList",
+            "url": "https://anilist.co/manga/678861"
+          },
+          {
+            "label": "Kitsu",
+            "url": "https://kitsu.app/manga/9l439606-t656-8947-4406-37rz13xkyu2c"
+          },
+          {
+            "label": "Anime-Planet",
+            "url": "https://www.anime-planet.com/manga/spinflawem-g-pigu"
+          },
+          {
+            "label": "BookWalkerJp",
+            "url": "https://bookwalker.jp/series/748749/truhu"
+          },
+          {
+            "label": "Kitsu",
+            "url": "https://kitsu.app/manga/68230"
+          },
+          {
+            "label": "MyAnimeList",
+            "url": "https://myanimelist.net/manga/682254"
+          },
+          {
+            "label": "Official Raw",
+            "url": "https://manfatrul.com/episode/16288607258218540108"
+          },
+          {
+            "label": "Official English",
+            "url": "https://flauglowu.buriorn.co.jp/kradouske/968618"
+          }
+        ],
+        "linksLock": false,
+        "alternateTitles": [
+          {
+            "label": "en",
+            "title": "SPINFLAWEM b PIGU"
+          },
+          {
+            "label": "en",
+            "title": "SPINFLAWEM×PIGU"
+          },
+          {
+            "label": "Native",
+            "title": "ホパジラ ォォモルソ"
+          }
+        ],
+        "alternateTitlesLock": false,
+        "created": "2026-09-14T21:50:57Z",
+        "lastModified": "2026-09-16T20:26:03Z"
+      },
+      "booksMetadata": {
+        "authors": [
+          {
+            "name": "CEDAN Tepomu",
+            "role": "colorist"
+          },
+          {
+            "name": "CEDAN Tepomu",
+            "role": "cover"
+          },
+          {
+            "name": "CEDAN Tepomu",
+            "role": "inker"
+          },
+          {
+            "name": "CEDAN Tepomu",
+            "role": "letterer"
+          },
+          {
+            "name": "CEDAN Tepomu",
+            "role": "penciller"
+          },
+          {
+            "name": "CEDAN Tepomu",
+            "role": "writer"
+          }
+        ],
+        "tags": [],
+        "releaseDate": null,
+        "summary": "",
+        "summaryNumber": "",
+        "created": "2026-09-14T21:50:57Z",
+        "lastModified": "2026-09-16T20:19:30Z"
+      },
+      "deleted": false,
+      "oneshot": false
+    },
+    {
+      "id": "0RM6ZZJHVS2ZF",
+      "libraryId": "0RM392RM9XMC6",
+      "name": "Glou Pliozuflias Stespu",
+      "url": "/data/Glou Pliozuflias Stespu",
+      "created": "2026-09-14T21:50:56Z",
+      "lastModified": "2026-09-14T21:50:56Z",
+      "fileLastModified": "2026-09-14T23:50:42Z",
+      "booksCount": 16,
+      "booksReadCount": 0,
+      "booksUnreadCount": 16,
+      "booksInProgressCount": 0,
+      "metadata": {
+        "status": "ENDED",
+        "statusLock": false,
+        "title": "Glou Pliozuflias Stespu",
+        "titleLock": false,
+        "titleSort": "Glou Pliozuflias Stespu",
+        "titleSortLock": false,
+        "summary": "Description removed from the test data.",
+        "summaryLock": false,
+        "readingDirection": "RIGHT_TO_LEFT",
+        "readingDirectionLock": false,
+        "publisher": "Niograr STIHOFU",
+        "publisherLock": false,
+        "ageRating": 12,
+        "ageRatingLock": true,
+        "language": "de",
+        "languageLock": false,
+        "genres": [
+          "psychological",
+          "action",
+          "adventure",
+          "drama",
+          "fantasy",
+          "mystery",
+          "shounen",
+          "supernatural",
+          "tragedy"
+        ],
+        "genresLock": false,
+        "tags": [
+          "cistovai sle greplufrian",
+          "sloslind hesmair",
+          "dratjeilu caugodraum",
+          "score: 8",
+          "treitblout-klojaklauk/g",
+          "kleikle spudriontraut",
+          "bunlaspir caugodraum",
+          "toret",
+          "trotvos pi spoukre",
+          "kliabramak druspind/g",
+          "blioblou kliabramak/g",
+          "dreibrionjio kestet",
+          "slioklefir prufli",
+          "grousgeihiat broubok",
+          "slioklefir segon",
+          "feiviha caugodraum",
+          "tiblefaul",
+          "skispou",
+          "ceiplei",
+          "spisdrirn/gronplogla",
+          "druspind wund viaklouk bokraisik/g",
+          "glaista",
+          "cislotprarn ve kla stiorespok bretraga",
+          "trotroro",
+          "graunklund",
+          "plautbion pebaidus",
+          "mususteirn",
+          "nuslasni",
+          "jionuplout",
+          "verajarn sleklou/sluflaik",
+          "houwuboul",
+          "kralaurn"
+        ],
+        "tagsLock": false,
+        "totalBookCount": 19,
+        "totalBookCountLock": false,
+        "sharingLabels": [],
+        "sharingLabelsLock": false,
+        "links": [
+          {
+            "label": "AniList",
+            "url": "https://anilist.co/manga/37452"
+          },
+          {
+            "label": "MangaUpdates",
+            "url": "https://www.mangaupdates.com/series/cmn0x4n/ploupeitou-frul-frautfe-r"
+          },
+          {
+            "label": "Kitsu",
+            "url": "https://kitsu.app/manga/43n52d06-l4s8-6o3k-n77n-2i2212428it7"
+          },
+          {
+            "label": "Anime-Planet",
+            "url": "https://www.anime-planet.com/manga/prai-pliozuflias-stespu"
+          },
+          {
+            "label": "BookWalkerJp",
+            "url": "https://bookwalker.jp/series/69199/truhu"
+          },
+          {
+            "label": "Kitsu",
+            "url": "https://kitsu.app/manga/28080"
+          },
+          {
+            "label": "Amazon",
+            "url": "https://www.amazon.co.jp/nis/O126VVPV8S"
+          },
+          {
+            "label": "CDJapan",
+            "url": "https://www.cdjapan.co.jp/niagluflum?grin.tuloslou=VB:54&flopreme=trobia&c=%N9%F4%7P%K8%QB%82%G4%35%FP%G4%35%64%G4%35%FF%G4%35%6L%G4%35%F4+(%L0%55%A8%Y8%90%9J%Y8%O3%32%Y8%Y2%C1%G4%47%8N%G4%64%FK%G4%64%F4%G4%47%H2EY)&liotherau.gleinle_kliwaisglarn=trai"
+          },
+          {
+            "label": "eBookJapan",
+            "url": "https://ebookjapan.yahoo.co.jp/books/593915"
+          },
+          {
+            "label": "MyAnimeList",
+            "url": "https://myanimelist.net/manga/133375"
+          },
+          {
+            "label": "Official Raw",
+            "url": "https://triblas.dreifidru.com/episode/15616475893076139541"
+          },
+          {
+            "label": "Official English",
+            "url": "https://niograr.us/series/prai-pliozuflias-stespu"
+          }
+        ],
+        "linksLock": false,
+        "alternateTitles": [
+          {
+            "label": "en",
+            "title": "Glou Pliozuflias Stespu"
+          },
+          {
+            "label": "en",
+            "title": "Biar Nekraumiarn, Nain Blioblou"
+          },
+          {
+            "label": "Native",
+            "title": "踫訋訶"
+          },
+          {
+            "label": "Romaji",
+            "title": "Ploupeitou klou Frautfe t"
+          },
+          {
+            "label": "Romaji",
+            "title": "Ploupeitou dai Frautfe drau"
+          }
+        ],
+        "alternateTitlesLock": false,
+        "created": "2026-09-14T21:50:56Z",
+        "lastModified": "2026-09-16T20:26:02Z"
+      },
+      "booksMetadata": {
+        "authors": [
+          {
+            "name": "Poni Stogia",
+            "role": "colorist"
+          },
+          {
+            "name": "Poni Stogia",
+            "role": "cover"
+          },
+          {
+            "name": "Poni Stogia",
+            "role": "inker"
+          },
+          {
+            "name": "Poni Stogia",
+            "role": "letterer"
+          },
+          {
+            "name": "Poni Stogia",
+            "role": "penciller"
+          },
+          {
+            "name": "Poni Stogia",
+            "role": "writer"
+          }
+        ],
+        "tags": [],
+        "releaseDate": null,
+        "summary": "",
+        "summaryNumber": "",
+        "created": "2026-09-14T21:50:56Z",
+        "lastModified": "2026-09-16T20:18:32Z"
+      },
+      "deleted": false,
+      "oneshot": false
+    },
+    {
+      "id": "0RM4VTYGMPYD6",
+      "libraryId": "0RM392RM9XMC6",
+      "name": "Krafruk - Daudrin Edition",
+      "url": "/data/Krafruk - Daudrin Edition",
+      "created": "2026-09-14T16:53:12Z",
+      "lastModified": "2026-09-14T16:53:12Z",
+      "fileLastModified": "2026-09-14T18:52:56Z",
+      "booksCount": 4,
+      "booksReadCount": 0,
+      "booksUnreadCount": 4,
+      "booksInProgressCount": 0,
+      "metadata": {
+        "status": "HIATUS",
+        "statusLock": false,
+        "title": "Krafruk - Daudrin Edition",
+        "titleLock": false,
+        "titleSort": "Krafruk - Daudrin Edition",
+        "titleSortLock": false,
+        "summary": "Description removed from the test data.",
+        "summaryLock": false,
+        "readingDirection": "RIGHT_TO_LEFT",
+        "readingDirectionLock": false,
+        "publisher": "Hivurn",
+        "publisherLock": false,
+        "ageRating": 16,
+        "ageRatingLock": true,
+        "language": "de",
+        "languageLock": false,
+        "genres": [
+          "martial arts",
+          "psychological",
+          "action",
+          "seinen",
+          "adventure",
+          "drama",
+          "romance",
+          "comedy",
+          "mature",
+          "tragedy",
+          "historical"
+        ],
+        "genresLock": false,
+        "tags": [
+          "plankrupuk neispoun",
+          "defreir te t novel",
+          "bialuwu diaplu/g",
+          "wihi caugodraum",
+          "fliosrugeil raukrigrel/g",
+          "wuncozem/g",
+          "score: 8",
+          "skavutraund",
+          "trotvos pi spoukre",
+          "bouspauprirn glianmeirn",
+          "kiattair wihi",
+          "praduklo caugodraum",
+          "bicemis",
+          "krasliot",
+          "skegrond",
+          "rotdeizion skegrond",
+          "stiojeiland glegond",
+          "spiobrem",
+          "hitekros/zutkrumai",
+          "draupriako",
+          "skispou",
+          "ceiplei",
+          "feiker-prepropri cafreikliam",
+          "spisdrirn",
+          "kliabramak vaspai",
+          "prusmem hiamal",
+          "flimoublal",
+          "brinira",
+          "jepen",
+          "houwuboul"
+        ],
+        "tagsLock": false,
+        "totalBookCount": null,
+        "totalBookCountLock": false,
+        "sharingLabels": [],
+        "sharingLabelsLock": false,
+        "links": [
+          {
+            "label": "MangaUpdates",
+            "url": "https://www.mangaupdates.com/series/os4bjqp/krafruk"
+          },
+          {
+            "label": "AniList",
+            "url": "https://anilist.co/manga/39871"
+          },
+          {
+            "label": "Kitsu",
+            "url": "https://kitsu.app/manga/9p9xyuz1-diowai-51jd-r8kf-61600oa4215b"
+          }
+        ],
+        "linksLock": false,
+        "alternateTitles": [
+          {
+            "label": "en",
+            "title": "Krafruk"
+          },
+          {
+            "label": "en",
+            "title": "Krafruk (Slidra Stislowai Plihi Dautkliapes)"
+          },
+          {
+            "label": "Native",
+            "title": "ガヅデ"
+          },
+          {
+            "label": "ja",
+            "title": "ガヅデ (Festidrei Plihi)"
+          }
+        ],
+        "alternateTitlesLock": false,
+        "created": "2026-09-14T16:53:12Z",
+        "lastModified": "2026-09-16T20:26:01Z"
+      },
+      "booksMetadata": {
+        "authors": [
+          {
+            "name": "FLAJAPRAU Graugraugior",
+            "role": "colorist"
+          },
+          {
+            "name": "FLAJAPRAU Graugraugior",
+            "role": "cover"
+          },
+          {
+            "name": "FLAJAPRAU Graugraugior",
+            "role": "inker"
+          },
+          {
+            "name": "FLAJAPRAU Graugraugior",
+            "role": "letterer"
+          },
+          {
+            "name": "FLAJAPRAU Graugraugior",
+            "role": "penciller"
+          },
+          {
+            "name": "FLAJAPRAU Graugraugior",
+            "role": "writer"
+          },
+          {
+            "name": "BIBLEIPRON Meskrur",
+            "role": "writer"
+          }
+        ],
+        "tags": [],
+        "releaseDate": null,
+        "summary": "",
+        "summaryNumber": "",
+        "created": "2026-09-14T16:53:12Z",
+        "lastModified": "2026-09-16T20:25:05Z"
+      },
+      "deleted": false,
+      "oneshot": false
+    },
+    {
+      "id": "0RM4VTYF8PGER",
+      "libraryId": "0RM392RM9XMC6",
+      "name": "Blawosfil Saga",
+      "url": "/data/Blawosfil Saga",
+      "created": "2026-09-14T16:53:12Z",
+      "lastModified": "2026-09-14T16:53:12Z",
+      "fileLastModified": "2026-09-14T18:52:56Z",
+      "booksCount": 26,
+      "booksReadCount": 0,
+      "booksUnreadCount": 26,
+      "booksInProgressCount": 1,
+      "metadata": {
+        "status": "ENDED",
+        "statusLock": false,
+        "title": "Blawosfil Saga",
+        "titleLock": false,
+        "titleSort": "Blawosfil Saga",
+        "titleSortLock": false,
+        "summary": "Description removed from the test data.",
+        "summaryLock": false,
+        "readingDirection": "RIGHT_TO_LEFT",
+        "readingDirectionLock": false,
+        "publisher": "SLETO",
+        "publisherLock": false,
+        "ageRating": 16,
+        "ageRatingLock": true,
+        "language": "de",
+        "languageLock": false,
+        "genres": [
+          "psychological",
+          "action",
+          "seinen",
+          "adventure",
+          "drama",
+          "mature",
+          "philosophical",
+          "tragedy",
+          "historical"
+        ],
+        "genresLock": false,
+        "tags": [
+          "graiblonveil",
+          "wuncozem/g",
+          "skou",
+          "jisu",
+          "score: 8",
+          "zobrowi",
+          "nitvouniom/klugiansus",
+          "frutglotu/g",
+          "trotvos pi spoukre",
+          "skou/g",
+          "tispial",
+          "bouspauprirn glianmeirn",
+          "skagu/g",
+          "praduklo caugodraum",
+          "bicemis",
+          "breziajar rafin",
+          "briosvasbeind meistiorn pebaidus",
+          "slioklefir segon",
+          "kitriond/g",
+          "skunprand pigu",
+          "skispou",
+          "ceiplei",
+          "briosvasbeind praduklo pebaidus",
+          "feiker-prepropri cafreikliam",
+          "spisdrirn",
+          "kliabramak vaspai",
+          "mupra pigu spetfisslait/g",
+          "flimoublal",
+          "nossedriand praduklo benkriorn",
+          "jepen",
+          "houwuboul"
+        ],
+        "tagsLock": false,
+        "totalBookCount": 28,
+        "totalBookCountLock": false,
+        "sharingLabels": [],
+        "sharingLabelsLock": false,
+        "links": [
+          {
+            "label": "MangaUpdates",
+            "url": "https://www.mangaupdates.com/series/alk9v79/blawosfil-saga"
+          },
+          {
+            "label": "AniList",
+            "url": "https://anilist.co/manga/35460"
+          },
+          {
+            "label": "Kitsu",
+            "url": "https://kitsu.app/manga/5u2wc76z-385q-9sk4-tyq2-502h8jd0920m"
+          },
+          {
+            "label": "Anime-Planet",
+            "url": "https://www.anime-planet.com/manga/blawosfil-saga"
+          },
+          {
+            "label": "BookWalkerJp",
+            "url": "https://bookwalker.jp/series/3721/truhu"
+          },
+          {
+            "label": "Kitsu",
+            "url": "https://kitsu.app/manga/7216"
+          },
+          {
+            "label": "Amazon",
+            "url": "https://www.amazon.co.jp/nis/B874G2OU86"
+          },
+          {
+            "label": "CDJapan",
+            "url": "https://www.cdjapan.co.jp/neipi/BRABAS-7054876"
+          },
+          {
+            "label": "eBookJapan",
+            "url": "https://ebookjapan.yahoo.co.jp/books/310735"
+          },
+          {
+            "label": "MyAnimeList",
+            "url": "https://myanimelist.net/manga/986"
+          },
+          {
+            "label": "Official Raw",
+            "url": "https://triblas.dreifidru.com/episode/97027344806581889123"
+          },
+          {
+            "label": "Official English",
+            "url": "https://brunjau.niograr.com/bialal/62406/episode/667475"
+          }
+        ],
+        "linksLock": false,
+        "alternateTitles": [
+          {
+            "label": "en",
+            "title": "Blawosfil Saga"
+          },
+          {
+            "label": "Native",
+            "title": "マニキネ・krai"
+          }
+        ],
+        "alternateTitlesLock": false,
+        "created": "2026-09-14T16:53:12Z",
+        "lastModified": "2026-09-16T20:26:01Z"
+      },
+      "booksMetadata": {
+        "authors": [
+          {
+            "name": "PAKLOLOND Kuklantou",
+            "role": "colorist"
+          },
+          {
+            "name": "PAKLOLOND Kuklantou",
+            "role": "cover"
+          },
+          {
+            "name": "PAKLOLOND Kuklantou",
+            "role": "inker"
+          },
+          {
+            "name": "PAKLOLOND Kuklantou",
+            "role": "letterer"
+          },
+          {
+            "name": "PAKLOLOND Kuklantou",
+            "role": "penciller"
+          },
+          {
+            "name": "PAKLOLOND Kuklantou",
+            "role": "writer"
+          }
+        ],
+        "tags": [],
+        "releaseDate": null,
+        "summary": "",
+        "summaryNumber": "",
+        "created": "2026-09-14T16:53:12Z",
+        "lastModified": "2026-09-16T20:18:17Z"
+      },
+      "deleted": false,
+      "oneshot": false
+    }
+  ],
+  "pageable": {
+    "pageNumber": 0,
+    "pageSize": 1000,
+    "sort": {
+      "empty": false,
+      "sorted": true,
+      "unsorted": false
+    },
+    "offset": 0,
+    "paged": true,
+    "unpaged": false
+  },
+  "totalElements": 22,
+  "totalPages": 1,
+  "last": true,
+  "size": 1000,
+  "number": 0,
+  "sort": {
+    "empty": false,
+    "sorted": true,
+    "unsorted": false
+  },
+  "numberOfElements": 22,
+  "first": true,
+  "empty": false
+}

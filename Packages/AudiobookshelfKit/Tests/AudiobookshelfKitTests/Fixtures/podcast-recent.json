@@ -1,0 +1,63 @@
+{
+  "episodes": [
+    {
+      "libraryItemId": "bb35dcfe-665b-4a4c-ae49-8fdb0500d6e6",
+      "podcastId": "d63a828b-76b1-4c6a-8d86-4ef0c8239d65",
+      "id": "dfd34ec4-906e-4089-98de-992d442190bd",
+      "episode": "1920",
+      "title": "Skai flioskutglou Glouskai ste YO-Zaugridi | Blioslogre Seliograi",
+      "publishedAt": 1790134200000,
+      "addedAt": 1790136148948,
+      "duration": 2969.385542,
+      "libraryId": "5c96f269-169a-4608-8e0b-5c2f12c60a8d",
+      "podcast": {
+        "id": "d63a828b-76b1-4c6a-8d86-4ef0c8239d65",
+        "libraryItemId": "bb35dcfe-665b-4a4c-ae49-8fdb0500d6e6",
+        "metadata": {
+          "title": "Glireis ko Lefreru",
+          "author": "KRAN CANSPEN"
+        }
+      }
+    },
+    {
+      "libraryItemId": "bb35dcfe-665b-4a4c-ae49-8fdb0500d6e6",
+      "podcastId": "d63a828b-76b1-4c6a-8d86-4ef0c8239d65",
+      "id": "b2821bbd-773e-478f-9154-50965a36ff32",
+      "episode": "1918",
+      "title": "Kra Picoucon fliattrouzia Spatpre brau blio Stoudokrein grebrubrot",
+      "publishedAt": 1790047800000,
+      "addedAt": 1790021287033,
+      "duration": 1700.722688,
+      "libraryId": "5c96f269-169a-4608-8e0b-5c2f12c60a8d",
+      "podcast": {
+        "id": "d63a828b-76b1-4c6a-8d86-4ef0c8239d65",
+        "libraryItemId": "bb35dcfe-665b-4a4c-ae49-8fdb0500d6e6",
+        "metadata": {
+          "title": "Glireis ko Lefreru",
+          "author": "KRAN CANSPEN"
+        }
+      }
+    },
+    {
+      "libraryItemId": "4a0859ec-3b82-47a8-96ca-043776bdc9dc",
+      "podcastId": "5f54f766-561c-45af-85af-3112e94e6e31",
+      "id": "80afaefc-1fd5-41a5-bbc3-e0a3926fb4cc",
+      "episode": "",
+      "title": "Ginpeil Riojaislei Slesdriglau Floblis Spapiok Sken Lospo? | Kaispo Frestublis",
+      "publishedAt": 1790008985000,
+      "addedAt": 1790094643019,
+      "duration": 1892.551479,
+      "libraryId": "5c96f269-169a-4608-8e0b-5c2f12c60a8d",
+      "podcast": {
+        "id": "5f54f766-561c-45af-85af-3112e94e6e31",
+        "libraryItemId": "4a0859ec-3b82-47a8-96ca-043776bdc9dc",
+        "metadata": {
+          "title": "Moonlit Tales Podcast",
+          "author": "Moonlit Tales"
+        }
+      }
+    }
+  ],
+  "limit": "3",
+  "page": 0
+}

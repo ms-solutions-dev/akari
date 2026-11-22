@@ -1,0 +1,39 @@
+# OpdsKit — aufgenommen 2026-09-19 08:52
+# Datei | Status | Inhaltstyp | Bytes | Anfrage
+komga-catalog.xml | 200 | application/atom+xml | 3331 | GET /opds/v1.2/catalog
+komga-libraries.xml | 200 | application/atom+xml | 771 | GET /opds/v1.2/libraries
+komga-series.xml | 200 | application/atom+xml | 6025 | GET /opds/v1.2/series?page=0&size=20
+komga-latest.xml | 404 | application/json | 152 | GET /opds/v1.2/latest
+komga-search.xml | 200 | application/atom+xml | 380 | GET /opds/v1.2/search?q=Plinpro
+komga-opensearch.xml | 200 | application/atom+xml | 380 | GET /opds/v1.2/search
+komga-serie.xml | 200 | application/atom+xml | 10167 | GET /opds/v1.2/series/0RM6ZZJWZS971
+komga-buch-datei.headers | 200 | — | 0 | HEAD /opds/v1.2/books/0RM6ZZJX3SFDH/file/Fiahot_zi_Wani__Doppelband-Edition_1__-_Triadroflur_Binsiojiarn.cbr
+komga-buch-seite.headers | 200 | — | 0 | HEAD /opds/v1.2/books/0RM6ZZJX3SFDH/pages/1
+komga-buch-bild.headers | 200 | — | 0 | HEAD /opds/v1.2/books/0RM6ZZJX3SFDH/thumbnail/small
+komga-401.xml | 401 | application/json | 134 | GET /opds/v1.2/catalog
+komga-v2-catalog.json | 200 | application/opds+json | 13487 | GET /opds/v2/catalog
+komga-v2-browse.json | 200 | application/opds+json | 5589 | GET /opds/v2/libraries/browse
+komga-v2-bibliothek.json | 200 | application/opds+json | 5589 | GET /opds/v2/libraries/browse
+komga-v2-serie.json | 200 | application/opds+json | 15445 | GET /opds/v2/series/0RM6ZZJWZS971
+komga-v2-buch-datei.headers | 200 | — | 0 | HEAD /opds/v2/books/0RM6ZZJX3SFDH/file
+komga-v2-buch-bild.headers | 200 | — | 0 | HEAD /opds/v2/books/0RM6ZZJX3SFDH/thumbnail
+komga-v2-latest.json | 404 | application/json | 136 | GET /opds/v2/series/latest
+komga-v2-search.json | 200 | application/opds+json | 339 | GET /opds/v2/search?query=Plinpro
+komga-v2-401.json | 401 | application/json | 132 | GET /opds/v2/catalog
+# Die drei folgenden sind NICHT aufgenommen, sondern nach Spezifikation und Komga-Quelltext gebaut
+# (Readium Web Publication Manifest, Profil Divina; `WebPubGenerator.toManifestDivina`,
+# `CommonBookController.getBookProgression`, `R2Progression`/`R2Locator`). Ersetzen, sobald
+# `fixtures-holen.sh opds` sie aufzeichnet.
+komga-v2-manifest.json | 200 | application/divina+json | — | GET /opds/v2/books/0RM6ZZJX3SFDH/manifest (nach Spezifikation gebaut: vier Seiten, Seite 3 quer)
+komga-v2-progression.json | 200 | application/vnd.readium.progression+json | — | GET /opds/v2/books/0RM6ZZJX3SFDH/progression (nach Spezifikation gebaut: Stand dieser App, Seite 12)
+komga-v2-progression-web.json | 200 | application/vnd.readium.progression+json | — | GET /opds/v2/books/0RM6ZZJX3SFDH/progression (nach Komga-Quelltext gebaut: Stand aus dem Gedro-Reader, Locator leer)
+grimmory-catalog.xml | 200 | application/atom+xml;profile=opds-catalog;kind=navigation;charset=utf-8 | 3288 | GET /api/v1/opds
+grimmory-libraries.xml | 200 | application/atom+xml;profile=opds-catalog;kind=navigation;charset=utf-8 | 914 | GET /api/v1/opds/libraries
+grimmory-series.xml | 200 | application/atom+xml;profile=opds-catalog;kind=navigation;charset=utf-8 | 20220 | GET /api/v1/opds/series
+grimmory-authors.xml | 200 | application/atom+xml;profile=opds-catalog;kind=navigation;charset=utf-8 | 19221 | GET /api/v1/opds/authors
+grimmory-recent.xml | 200 | application/atom+xml;profile=opds-catalog;kind=acquisition;charset=utf-8 | 77828 | GET /api/v1/opds/recent?page=1&size=50
+grimmory-search.xml | 200 | application/opensearchdescription+xml;charset=utf-8 | 350 | GET /api/v1/opds/search.opds
+grimmory-serie.xml | 200 | application/atom+xml;profile=opds-catalog;kind=acquisition;charset=utf-8 | 3444 | GET /api/v1/opds/catalog?series=Venpaimul+Jibiozir
+grimmory-buch-datei.headers | 200 | — | 0 | HEAD /api/v1/opds/34/download?fileId=50
+grimmory-buch-bild.headers | 200 | — | 0 | HEAD /api/v1/opds/34/cover?2026-09-14T16:54:10Z
+grimmory-401.xml | 401 | — | 33 | GET /api/v1/opds

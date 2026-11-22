@@ -1,0 +1,695 @@
+{
+  "content": [
+    {
+      "id": "0RM6ZZJX3SFDH",
+      "seriesId": "0RM6ZZJWZS971",
+      "seriesTitle": "Fiahot slem Wani",
+      "libraryId": "0RM392RM9XMC6",
+      "name": "Fiahot_zi_Wani__Doppelband-Edition_1__-_Triadroflur_Binsiojiarn",
+      "url": "/data/Fiahot slem Wani/Fiahot_zi_Wani__Doppelband-Edition_1__-_Triadroflur_Binsiojiarn.cbr",
+      "number": 1,
+      "created": "2026-09-14T21:50:57Z",
+      "lastModified": "2026-09-14T21:51:00Z",
+      "fileLastModified": "2026-09-14T20:33:59Z",
+      "sizeBytes": 479349933,
+      "size": "457.1 MiB",
+      "media": {
+        "status": "READY",
+        "mediaType": "application/zip",
+        "pagesCount": 333,
+        "comment": "",
+        "epubDivinaCompatible": false,
+        "epubIsKepub": false,
+        "mediaProfile": "DIVINA"
+      },
+      "metadata": {
+        "title": "Fiahot_zi_Wani__Doppelband-Edition_1__-_Triadroflur_Binsiojiarn",
+        "titleLock": false,
+        "summary": "",
+        "summaryLock": false,
+        "number": "1",
+        "numberLock": false,
+        "numberSort": 1.0,
+        "numberSortLock": false,
+        "releaseDate": null,
+        "releaseDateLock": false,
+        "authors": [
+          {
+            "name": "Triadroflur Binsiojiarn",
+            "role": "penciller"
+          },
+          {
+            "name": "Triadroflur Binsiojiarn",
+            "role": "inker"
+          },
+          {
+            "name": "Triadroflur Binsiojiarn",
+            "role": "colorist"
+          },
+          {
+            "name": "Triadroflur Binsiojiarn",
+            "role": "letterer"
+          },
+          {
+            "name": "Triadroflur Binsiojiarn",
+            "role": "cover"
+          },
+          {
+            "name": "Triadroflur Binsiojiarn",
+            "role": "writer"
+          }
+        ],
+        "authorsLock": false,
+        "tags": [],
+        "tagsLock": false,
+        "isbn": "",
+        "isbnLock": false,
+        "links": [],
+        "linksLock": false,
+        "created": "2026-09-14T21:50:57Z",
+        "lastModified": "2026-09-16T20:19:28Z"
+      },
+      "readProgress": null,
+      "deleted": false,
+      "fileHash": "",
+      "oneshot": false
+    },
+    {
+      "id": "0RM6ZZJX3SFDF",
+      "seriesId": "0RM6ZZJWZS971",
+      "seriesTitle": "Fiahot slem Wani",
+      "libraryId": "0RM392RM9XMC6",
+      "name": "Fiahot_zi_Wani__Doppelband-Edition_2__-_Triadroflur_Binsiojiarn",
+      "url": "/data/Fiahot slem Wani/Fiahot_zi_Wani__Doppelband-Edition_2__-_Triadroflur_Binsiojiarn.cbz",
+      "number": 2,
+      "created": "2026-09-14T21:50:57Z",
+      "lastModified": "2026-09-14T21:51:00Z",
+      "fileLastModified": "2026-09-14T20:33:59Z",
+      "sizeBytes": 483412366,
+      "size": "461 MiB",
+      "media": {
+        "status": "READY",
+        "mediaType": "application/zip",
+        "pagesCount": 335,
+        "comment": "",
+        "epubDivinaCompatible": false,
+        "epubIsKepub": false,
+        "mediaProfile": "DIVINA"
+      },
+      "metadata": {
+        "title": "Fiahot_zi_Wani__Doppelband-Edition_2__-_Triadroflur_Binsiojiarn",
+        "titleLock": false,
+        "summary": "",
+        "summaryLock": false,
+        "number": "2",
+        "numberLock": false,
+        "numberSort": 2.0,
+        "numberSortLock": false,
+        "releaseDate": null,
+        "releaseDateLock": false,
+        "authors": [
+          {
+            "name": "Triadroflur Binsiojiarn",
+            "role": "penciller"
+          },
+          {
+            "name": "Triadroflur Binsiojiarn",
+            "role": "inker"
+          },
+          {
+            "name": "Triadroflur Binsiojiarn",
+            "role": "colorist"
+          },
+          {
+            "name": "Triadroflur Binsiojiarn",
+            "role": "letterer"
+          },
+          {
+            "name": "Triadroflur Binsiojiarn",
+            "role": "cover"
+          },
+          {
+            "name": "Triadroflur Binsiojiarn",
+            "role": "writer"
+          }
+        ],
+        "authorsLock": false,
+        "tags": [],
+        "tagsLock": false,
+        "isbn": "",
+        "isbnLock": false,
+        "links": [],
+        "linksLock": false,
+        "created": "2026-09-14T21:50:57Z",
+        "lastModified": "2026-09-16T20:19:28Z"
+      },
+      "readProgress": null,
+      "deleted": false,
+      "fileHash": "",
+      "oneshot": false
+    },
+    {
+      "id": "0RM6ZZJWZS977",
+      "seriesId": "0RM6ZZJWZS971",
+      "seriesTitle": "Fiahot slem Wani",
+      "libraryId": "0RM392RM9XMC6",
+      "name": "Fiahot_zi_Wani__Doppelband-Edition_3__-_Triadroflur_Binsiojiarn",
+      "url": "/data/Fiahot slem Wani/Fiahot_zi_Wani__Doppelband-Edition_3__-_Triadroflur_Binsiojiarn.cbz",
+      "number": 3,
+      "created": "2026-09-14T21:50:57Z",
+      "lastModified": "2026-09-14T21:51:00Z",
+      "fileLastModified": "2026-09-14T20:33:59Z",
+      "sizeBytes": 461677432,
+      "size": "440.3 MiB",
+      "media": {
+        "status": "READY",
+        "mediaType": "application/zip",
+        "pagesCount": 334,
+        "comment": "",
+        "epubDivinaCompatible": false,
+        "epubIsKepub": false,
+        "mediaProfile": "DIVINA"
+      },
+      "metadata": {
+        "title": "Fiahot_zi_Wani__Doppelband-Edition_3__-_Triadroflur_Binsiojiarn",
+        "titleLock": false,
+        "summary": "",
+        "summaryLock": false,
+        "number": "3",
+        "numberLock": false,
+        "numberSort": 3.0,
+        "numberSortLock": false,
+        "releaseDate": null,
+        "releaseDateLock": false,
+        "authors": [
+          {
+            "name": "Triadroflur Binsiojiarn",
+            "role": "penciller"
+          },
+          {
+            "name": "Triadroflur Binsiojiarn",
+            "role": "inker"
+          },
+          {
+            "name": "Triadroflur Binsiojiarn",
+            "role": "colorist"
+          },
+          {
+            "name": "Triadroflur Binsiojiarn",
+            "role": "letterer"
+          },
+          {
+            "name": "Triadroflur Binsiojiarn",
+            "role": "cover"
+          },
+          {
+            "name": "Triadroflur Binsiojiarn",
+            "role": "writer"
+          }
+        ],
+        "authorsLock": false,
+        "tags": [],
+        "tagsLock": false,
+        "isbn": "",
+        "isbnLock": false,
+        "links": [],
+        "linksLock": false,
+        "created": "2026-09-14T21:50:57Z",
+        "lastModified": "2026-09-16T20:19:28Z"
+      },
+      "readProgress": null,
+      "deleted": false,
+      "fileHash": "",
+      "oneshot": false
+    },
+    {
+      "id": "0RM6ZZJWZS972",
+      "seriesId": "0RM6ZZJWZS971",
+      "seriesTitle": "Fiahot slem Wani",
+      "libraryId": "0RM392RM9XMC6",
+      "name": "Fiahot_zi_Wani__Doppelband-Edition_4__-_Triadroflur_Binsiojiarn",
+      "url": "/data/Fiahot slem Wani/Fiahot_zi_Wani__Doppelband-Edition_4__-_Triadroflur_Binsiojiarn.cbz",
+      "number": 4,
+      "created": "2026-09-14T21:50:57Z",
+      "lastModified": "2026-09-14T21:51:00Z",
+      "fileLastModified": "2026-09-14T20:34:00Z",
+      "sizeBytes": 485333630,
+      "size": "462.9 MiB",
+      "media": {
+        "status": "READY",
+        "mediaType": "application/zip",
+        "pagesCount": 329,
+        "comment": "",
+        "epubDivinaCompatible": false,
+        "epubIsKepub": false,
+        "mediaProfile": "DIVINA"
+      },
+      "metadata": {
+        "title": "Fiahot_zi_Wani__Doppelband-Edition_4__-_Triadroflur_Binsiojiarn",
+        "titleLock": false,
+        "summary": "",
+        "summaryLock": false,
+        "number": "4",
+        "numberLock": false,
+        "numberSort": 4.0,
+        "numberSortLock": false,
+        "releaseDate": null,
+        "releaseDateLock": false,
+        "authors": [
+          {
+            "name": "Triadroflur Binsiojiarn",
+            "role": "penciller"
+          },
+          {
+            "name": "Triadroflur Binsiojiarn",
+            "role": "inker"
+          },
+          {
+            "name": "Triadroflur Binsiojiarn",
+            "role": "colorist"
+          },
+          {
+            "name": "Triadroflur Binsiojiarn",
+            "role": "letterer"
+          },
+          {
+            "name": "Triadroflur Binsiojiarn",
+            "role": "cover"
+          },
+          {
+            "name": "Triadroflur Binsiojiarn",
+            "role": "writer"
+          }
+        ],
+        "authorsLock": false,
+        "tags": [],
+        "tagsLock": false,
+        "isbn": "",
+        "isbnLock": false,
+        "links": [],
+        "linksLock": false,
+        "created": "2026-09-14T21:50:57Z",
+        "lastModified": "2026-09-16T20:19:28Z"
+      },
+      "readProgress": null,
+      "deleted": false,
+      "fileHash": "",
+      "oneshot": false
+    },
+    {
+      "id": "0RM6ZZJWZS973",
+      "seriesId": "0RM6ZZJWZS971",
+      "seriesTitle": "Fiahot slem Wani",
+      "libraryId": "0RM392RM9XMC6",
+      "name": "Fiahot_zi_Wani__Doppelband-Edition_5__-_Triadroflur_Binsiojiarn",
+      "url": "/data/Fiahot slem Wani/Fiahot_zi_Wani__Doppelband-Edition_5__-_Triadroflur_Binsiojiarn.cbz",
+      "number": 5,
+      "created": "2026-09-14T21:50:57Z",
+      "lastModified": "2026-09-14T21:51:00Z",
+      "fileLastModified": "2026-09-14T20:34:06Z",
+      "sizeBytes": 454183967,
+      "size": "433.1 MiB",
+      "media": {
+        "status": "READY",
+        "mediaType": "application/zip",
+        "pagesCount": 324,
+        "comment": "",
+        "epubDivinaCompatible": false,
+        "epubIsKepub": false,
+        "mediaProfile": "DIVINA"
+      },
+      "metadata": {
+        "title": "Fiahot_zi_Wani__Doppelband-Edition_5__-_Triadroflur_Binsiojiarn",
+        "titleLock": false,
+        "summary": "",
+        "summaryLock": false,
+        "number": "5",
+        "numberLock": false,
+        "numberSort": 5.0,
+        "numberSortLock": false,
+        "releaseDate": null,
+        "releaseDateLock": false,
+        "authors": [
+          {
+            "name": "Triadroflur Binsiojiarn",
+            "role": "penciller"
+          },
+          {
+            "name": "Triadroflur Binsiojiarn",
+            "role": "inker"
+          },
+          {
+            "name": "Triadroflur Binsiojiarn",
+            "role": "colorist"
+          },
+          {
+            "name": "Triadroflur Binsiojiarn",
+            "role": "letterer"
+          },
+          {
+            "name": "Triadroflur Binsiojiarn",
+            "role": "cover"
+          },
+          {
+            "name": "Triadroflur Binsiojiarn",
+            "role": "writer"
+          }
+        ],
+        "authorsLock": false,
+        "tags": [],
+        "tagsLock": false,
+        "isbn": "",
+        "isbnLock": false,
+        "links": [],
+        "linksLock": false,
+        "created": "2026-09-14T21:50:57Z",
+        "lastModified": "2026-09-16T20:19:28Z"
+      },
+      "readProgress": null,
+      "deleted": false,
+      "fileHash": "",
+      "oneshot": false
+    },
+    {
+      "id": "0RM6ZZJWZS976",
+      "seriesId": "0RM6ZZJWZS971",
+      "seriesTitle": "Fiahot slem Wani",
+      "libraryId": "0RM392RM9XMC6",
+      "name": "Fiahot_zi_Wani__Doppelband-Edition_6__-_Triadroflur_Binsiojiarn",
+      "url": "/data/Fiahot slem Wani/Fiahot_zi_Wani__Doppelband-Edition_6__-_Triadroflur_Binsiojiarn.cbz",
+      "number": 6,
+      "created": "2026-09-14T21:50:57Z",
+      "lastModified": "2026-09-14T21:51:00Z",
+      "fileLastModified": "2026-09-14T20:34:20Z",
+      "sizeBytes": 495060470,
+      "size": "472.1 MiB",
+      "media": {
+        "status": "READY",
+        "mediaType": "application/zip",
+        "pagesCount": 324,
+        "comment": "",
+        "epubDivinaCompatible": false,
+        "epubIsKepub": false,
+        "mediaProfile": "DIVINA"
+      },
+      "metadata": {
+        "title": "Fiahot_zi_Wani__Doppelband-Edition_6__-_Triadroflur_Binsiojiarn",
+        "titleLock": false,
+        "summary": "",
+        "summaryLock": false,
+        "number": "6",
+        "numberLock": false,
+        "numberSort": 6.0,
+        "numberSortLock": false,
+        "releaseDate": null,
+        "releaseDateLock": false,
+        "authors": [
+          {
+            "name": "Triadroflur Binsiojiarn",
+            "role": "penciller"
+          },
+          {
+            "name": "Triadroflur Binsiojiarn",
+            "role": "inker"
+          },
+          {
+            "name": "Triadroflur Binsiojiarn",
+            "role": "colorist"
+          },
+          {
+            "name": "Triadroflur Binsiojiarn",
+            "role": "letterer"
+          },
+          {
+            "name": "Triadroflur Binsiojiarn",
+            "role": "cover"
+          },
+          {
+            "name": "Triadroflur Binsiojiarn",
+            "role": "writer"
+          }
+        ],
+        "authorsLock": false,
+        "tags": [],
+        "tagsLock": false,
+        "isbn": "",
+        "isbnLock": false,
+        "links": [],
+        "linksLock": false,
+        "created": "2026-09-14T21:50:57Z",
+        "lastModified": "2026-09-16T20:19:28Z"
+      },
+      "readProgress": null,
+      "deleted": false,
+      "fileHash": "",
+      "oneshot": false
+    },
+    {
+      "id": "0RM6ZZJX3SFDG",
+      "seriesId": "0RM6ZZJWZS971",
+      "seriesTitle": "Fiahot slem Wani",
+      "libraryId": "0RM392RM9XMC6",
+      "name": "Fiahot_zi_Wani__Doppelband-Edition_7__-_Triadroflur_Binsiojiarn",
+      "url": "/data/Fiahot slem Wani/Fiahot_zi_Wani__Doppelband-Edition_7__-_Triadroflur_Binsiojiarn.cbz",
+      "number": 7,
+      "created": "2026-09-14T21:50:57Z",
+      "lastModified": "2026-09-14T21:51:00Z",
+      "fileLastModified": "2026-09-14T20:34:37Z",
+      "sizeBytes": 506260891,
+      "size": "482.8 MiB",
+      "media": {
+        "status": "READY",
+        "mediaType": "application/zip",
+        "pagesCount": 336,
+        "comment": "",
+        "epubDivinaCompatible": false,
+        "epubIsKepub": false,
+        "mediaProfile": "DIVINA"
+      },
+      "metadata": {
+        "title": "Fiahot_zi_Wani__Doppelband-Edition_7__-_Triadroflur_Binsiojiarn",
+        "titleLock": false,
+        "summary": "",
+        "summaryLock": false,
+        "number": "7",
+        "numberLock": false,
+        "numberSort": 7.0,
+        "numberSortLock": false,
+        "releaseDate": null,
+        "releaseDateLock": false,
+        "authors": [
+          {
+            "name": "Triadroflur Binsiojiarn",
+            "role": "penciller"
+          },
+          {
+            "name": "Triadroflur Binsiojiarn",
+            "role": "inker"
+          },
+          {
+            "name": "Triadroflur Binsiojiarn",
+            "role": "colorist"
+          },
+          {
+            "name": "Triadroflur Binsiojiarn",
+            "role": "letterer"
+          },
+          {
+            "name": "Triadroflur Binsiojiarn",
+            "role": "cover"
+          },
+          {
+            "name": "Triadroflur Binsiojiarn",
+            "role": "writer"
+          }
+        ],
+        "authorsLock": false,
+        "tags": [],
+        "tagsLock": false,
+        "isbn": "",
+        "isbnLock": false,
+        "links": [],
+        "linksLock": false,
+        "created": "2026-09-14T21:50:57Z",
+        "lastModified": "2026-09-16T20:19:28Z"
+      },
+      "readProgress": null,
+      "deleted": false,
+      "fileHash": "",
+      "oneshot": false
+    },
+    {
+      "id": "0RM6ZZJWZS975",
+      "seriesId": "0RM6ZZJWZS971",
+      "seriesTitle": "Fiahot slem Wani",
+      "libraryId": "0RM392RM9XMC6",
+      "name": "Fiahot_zi_Wani__Doppelband-Edition_8__-_Triadroflur_Binsiojiarn",
+      "url": "/data/Fiahot slem Wani/Fiahot_zi_Wani__Doppelband-Edition_8__-_Triadroflur_Binsiojiarn.cbz",
+      "number": 8,
+      "created": "2026-09-14T21:50:57Z",
+      "lastModified": "2026-09-14T21:51:00Z",
+      "fileLastModified": "2026-09-14T20:34:53Z",
+      "sizeBytes": 453577712,
+      "size": "432.6 MiB",
+      "media": {
+        "status": "READY",
+        "mediaType": "application/zip",
+        "pagesCount": 347,
+        "comment": "",
+        "epubDivinaCompatible": false,
+        "epubIsKepub": false,
+        "mediaProfile": "DIVINA"
+      },
+      "metadata": {
+        "title": "Fiahot_zi_Wani__Doppelband-Edition_8__-_Triadroflur_Binsiojiarn",
+        "titleLock": false,
+        "summary": "",
+        "summaryLock": false,
+        "number": "8",
+        "numberLock": false,
+        "numberSort": 8.0,
+        "numberSortLock": false,
+        "releaseDate": null,
+        "releaseDateLock": false,
+        "authors": [
+          {
+            "name": "Triadroflur Binsiojiarn",
+            "role": "penciller"
+          },
+          {
+            "name": "Triadroflur Binsiojiarn",
+            "role": "inker"
+          },
+          {
+            "name": "Triadroflur Binsiojiarn",
+            "role": "colorist"
+          },
+          {
+            "name": "Triadroflur Binsiojiarn",
+            "role": "letterer"
+          },
+          {
+            "name": "Triadroflur Binsiojiarn",
+            "role": "cover"
+          },
+          {
+            "name": "Triadroflur Binsiojiarn",
+            "role": "writer"
+          }
+        ],
+        "authorsLock": false,
+        "tags": [],
+        "tagsLock": false,
+        "isbn": "",
+        "isbnLock": false,
+        "links": [],
+        "linksLock": false,
+        "created": "2026-09-14T21:50:57Z",
+        "lastModified": "2026-09-16T20:19:28Z"
+      },
+      "readProgress": null,
+      "deleted": false,
+      "fileHash": "",
+      "oneshot": false
+    },
+    {
+      "id": "0RM6ZZJWZS974",
+      "seriesId": "0RM6ZZJWZS971",
+      "seriesTitle": "Fiahot slem Wani",
+      "libraryId": "0RM392RM9XMC6",
+      "name": "Fiahot_zi_Wani__Doppelband-Edition_9__-_Triadroflur_Binsiojiarn",
+      "url": "/data/Fiahot slem Wani/Fiahot_zi_Wani__Doppelband-Edition_9__-_Triadroflur_Binsiojiarn.cbz",
+      "number": 9,
+      "created": "2026-09-14T21:50:57Z",
+      "lastModified": "2026-09-14T21:51:00Z",
+      "fileLastModified": "2026-09-14T20:35:07Z",
+      "sizeBytes": 528492327,
+      "size": "504 MiB",
+      "media": {
+        "status": "READY",
+        "mediaType": "application/zip",
+        "pagesCount": 373,
+        "comment": "",
+        "epubDivinaCompatible": false,
+        "epubIsKepub": false,
+        "mediaProfile": "DIVINA"
+      },
+      "metadata": {
+        "title": "Fiahot_zi_Wani__Doppelband-Edition_9__-_Triadroflur_Binsiojiarn",
+        "titleLock": false,
+        "summary": "",
+        "summaryLock": false,
+        "number": "9",
+        "numberLock": false,
+        "numberSort": 9.0,
+        "numberSortLock": false,
+        "releaseDate": null,
+        "releaseDateLock": false,
+        "authors": [
+          {
+            "name": "Triadroflur Binsiojiarn",
+            "role": "penciller"
+          },
+          {
+            "name": "Triadroflur Binsiojiarn",
+            "role": "inker"
+          },
+          {
+            "name": "Triadroflur Binsiojiarn",
+            "role": "colorist"
+          },
+          {
+            "name": "Triadroflur Binsiojiarn",
+            "role": "letterer"
+          },
+          {
+            "name": "Triadroflur Binsiojiarn",
+            "role": "cover"
+          },
+          {
+            "name": "Triadroflur Binsiojiarn",
+            "role": "writer"
+          }
+        ],
+        "authorsLock": false,
+        "tags": [],
+        "tagsLock": false,
+        "isbn": "",
+        "isbnLock": false,
+        "links": [],
+        "linksLock": false,
+        "created": "2026-09-14T21:50:57Z",
+        "lastModified": "2026-09-16T20:19:28Z"
+      },
+      "readProgress": null,
+      "deleted": false,
+      "fileHash": "",
+      "oneshot": false
+    }
+  ],
+  "pageable": {
+    "pageNumber": 0,
+    "pageSize": 1000,
+    "sort": {
+      "empty": false,
+      "sorted": true,
+      "unsorted": false
+    },
+    "offset": 0,
+    "paged": true,
+    "unpaged": false
+  },
+  "totalElements": 9,
+  "totalPages": 1,
+  "last": true,
+  "size": 1000,
+  "number": 0,
+  "sort": {
+    "empty": false,
+    "sorted": true,
+    "unsorted": false
+  },
+  "numberOfElements": 9,
+  "first": true,
+  "empty": false
+}

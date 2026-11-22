@@ -1,0 +1,129 @@
+{
+  "id": 1,
+  "username": "leser",
+  "name": "Alex",
+  "email": "leser@example.test",
+  "locale": "de",
+  "theme": "grimmory",
+  "themeAccent": null,
+  "themeSyncEnabled": true,
+  "uiFont": "default",
+  "provisioningMethod": "LOCAL",
+  "assignedLibraries": [],
+  "permissions": {
+    "admin": true,
+    "canAccessBookdrop": true,
+    "canAccessLibraryStats": true,
+    "canAccessOpds": true,
+    "canAccessTaskManager": true,
+    "canAccessUserStats": true,
+    "canBulkAutoFetchMetadata": true,
+    "canBulkCustomFetchMetadata": true,
+    "canBulkEditMetadata": true,
+    "canBulkLockUnlockMetadata": true,
+    "canBulkRegenerateCover": true,
+    "canBulkResetBookReadStatus": true,
+    "canBulkResetBookloreReadProgress": true,
+    "canBulkResetKoReaderReadProgress": true,
+    "canDeleteBook": true,
+    "canDownload": true,
+    "canEditMetadata": true,
+    "canEmailBook": true,
+    "canManageFonts": true,
+    "canManageGlobalPreferences": true,
+    "canManageIcons": true,
+    "canManageLibrary": true,
+    "canManageMetadataConfig": true,
+    "canMoveOrganizeFiles": true,
+    "canSyncKoReader": true,
+    "canSyncKobo": true,
+    "canUpload": true,
+    "demoUser": false
+  },
+  "userSettings": {
+    "autoSaveMetadata": false,
+    "cbxReaderSetting": {
+      "pageSpread": "ODD",
+      "pageViewMode": "SINGLE_PAGE",
+      "fitMode": "FIT_HEIGHT",
+      "scrollMode": "PAGINATED",
+      "backgroundColor": "GRAY",
+      "stripMaxWidthPercent": 100
+    },
+    "dashboardConfig": null,
+    "ebookReaderSetting": {
+      "fontFamily": "serif",
+      "fontSize": 16,
+      "gap": 0.05,
+      "hyphenate": false,
+      "isDark": false,
+      "justify": false,
+      "lineHeight": 1.5,
+      "maxBlockSize": 1440,
+      "maxColumnCount": 2,
+      "maxInlineSize": 720,
+      "theme": "gray",
+      "flow": "paginated"
+    },
+    "enableSeriesView": false,
+    "entityViewPreferences": {
+      "global": {
+        "sortKey": "title",
+        "sortDir": "ASC",
+        "sortCriteria": null,
+        "view": "GRID",
+        "coverSize": 1.0,
+        "seriesCollapsed": false,
+        "overlayBookType": true
+      },
+      "overrides": null
+    },
+    "epubReaderSetting": {
+      "theme": "white",
+      "font": null,
+      "fontSize": 100,
+      "letterSpacing": null,
+      "lineHeight": null,
+      "flow": "paginated",
+      "spread": "double"
+    },
+    "filterMode": "and",
+    "filterSortingMode": "count",
+    "koReaderEnabled": false,
+    "metadataCenterViewMode": "route",
+    "newPdfReaderSetting": {
+      "pageSpread": "ODD",
+      "pageViewMode": "SINGLE_PAGE",
+      "backgroundColor": "WHITE",
+      "fitMode": "FIT_HEIGHT",
+      "scrollMode": "PAGINATED"
+    },
+    "pdfReaderSetting": {
+      "pageSpread": "off",
+      "pageZoom": "page-fit",
+      "scrollLayout": null
+    },
+    "perBookSetting": {
+      "pdf": "Individual",
+      "epub": "Individual",
+      "cbx": "Individual",
+      "newPdf": "Individual"
+    },
+    "sidebarLibrarySorting": {
+      "field": "id",
+      "order": "asc"
+    },
+    "sidebarMagicShelfSorting": {
+      "field": "id",
+      "order": "asc"
+    },
+    "sidebarShelfSorting": {
+      "field": "id",
+      "order": "asc"
+    },
+    "tableColumnPreference": null,
+    "visibleFilters": null,
+    "visibleSortFields": null
+  },
+  "defaultPassword": false
+}

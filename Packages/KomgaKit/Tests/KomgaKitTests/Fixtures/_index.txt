@@ -1,0 +1,27 @@
+# KomgaKit — aufgenommen 2026-09-17 18:14
+# Datei | Status | Inhaltstyp | Bytes | Anfrage
+me.json | 200 | application/json | 224 | GET /api/v2/users/me
+libraries.json | 200 | application/json | 721 | GET /api/v1/libraries
+series.json | 200 | application/json | 90881 | POST /api/v1/series/list?size=1000&sort=metadata.titleSort,asc
+books.json | 200 | application/json | 804172 | POST /api/v1/books/list?size=1000&sort=seriesId,asc&sort=metadata.numberSort,asc
+books-in-progress.json | 200 | application/json | 3299 | GET /api/v1/books?read_status=IN_PROGRESS&size=100
+collections.json | 200 | application/json | 319 | GET /api/v1/collections?size=100
+readlists.json | 200 | application/json | 319 | GET /api/v1/readlists?size=100
+serie.json | 200 | application/json | 3488 | GET /api/v1/series/0RM6ZZJWZS971
+serie-books.json | 200 | application/json | 12107 | GET /api/v1/series/0RM6ZZJWZS971/books?size=1000&sort=metadata.numberSort,asc
+serie-tachiyomi.json | 200 | application/json | 136 | GET /api/v2/series/0RM6ZZJWZS971/read-progress/tachiyomi
+serie-thumbnail.headers | 200 | — | 0 | HEAD /api/v1/series/0RM6ZZJWZS971/thumbnail
+book.json | 200 | application/json | 1523 | GET /api/v1/books/0RM4VTYHRPJ30
+book-pages.json | 200 | application/json | 30925 | GET /api/v1/books/0RM4VTYHRPJ30/pages
+book-manifest.json | 200 | application/divina+json | 30700 | GET /api/v1/books/0RM4VTYHRPJ30/manifest
+book-thumbnail.headers | 200 | — | 0 | HEAD /api/v1/books/0RM4VTYHRPJ30/thumbnail
+book-page-1.headers | 200 | — | 0 | HEAD /api/v1/books/0RM4VTYHRPJ30/pages/1
+book-page-1-thumbnail.headers | 200 | — | 0 | HEAD /api/v1/books/0RM4VTYHRPJ30/pages/1/thumbnail
+api-key-anlegen.json | 200 | application/json | 217 | POST /api/v2/users/me/api-keys
+me-mit-api-key.json | 200 | application/json | 224 | GET /api/v2/users/me
+api-keys.json | 200 | application/json | 534 | GET /api/v2/users/me/api-keys
+api-key-loeschen.json | 204 | — | 0 | DELETE /api/v2/users/me/api-keys/0RN3FRQ4W4BYF
+401.json | 401 | application/json | 133 | GET /api/v1/libraries
+401-api-key.json | 401 | application/json | 133 | GET /api/v1/libraries
+404.json | 404 | — | 0 | GET /api/v1/books/gibt-es-nicht
+abgebrochen.json | — | — | 402086 | abgeschnitten aus books.json

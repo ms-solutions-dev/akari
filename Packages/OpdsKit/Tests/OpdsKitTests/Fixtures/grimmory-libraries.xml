@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog">
+  <id>urn:booklore:navigation:libraries</id>
+  <title>Libraries</title>
+  <updated>2026-09-19T06:53:02.677869798Z</updated>
+  <link rel="self" href="/api/v1/opds/libraries" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <link rel="start" href="/api/v1/opds" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <link rel="search" type="application/opensearchdescription+xml" title="Search" href="/api/v1/opds/search.opds"/>
+  <entry>
+    <title>Bücher</title>
+    <id>urn:booklore:library:1</id>
+    <updated>2026-09-19T06:53:02.678058679Z</updated>
+    <link rel="subsection" href="/api/v1/opds/catalog?libraryId=1" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+    <content type="text">Bücher</content>
+  </entry>
+</feed>

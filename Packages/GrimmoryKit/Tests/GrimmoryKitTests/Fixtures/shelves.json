@@ -1,0 +1,11 @@
+[
+  {
+    "id": 1,
+    "name": "Favorites",
+    "icon": "heart",
+    "iconType": "LUCIDE",
+    "userId": 1,
+    "publicShelf": false,
+    "bookCount": 5
+  }
+]

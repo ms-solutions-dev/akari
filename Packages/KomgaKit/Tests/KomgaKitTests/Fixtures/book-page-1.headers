@@ -1,0 +1,21 @@
+HTTP/2 200 
+cache-control: max-age=0, must-revalidate, private
+cache-control: max-age=0, must-revalidate, private
+content-disposition: inline; filename="=?UTF-8?Q?Skagrausge-Pau=5FBriatvainkiand=5F01=5F-1.jpg?="; filename*=UTF-8''Skagrausge-Pau_Briatvainkiand_01-1.jpg
+content-security-policy: default-src 'self'; script-src 'self' 'unsafe-inline' 'unsafe-eval' 'wasm-unsafe-eval' blob:; style-src 'self' 'unsafe-inline' blob:; img-src 'self' data: https: blob:; media-src 'self' blob: data:; worker-src 'self' blob:; child-src 'self' blob:; frame-src 'self' blob: data:; font-src 'self' data: blob:; connect-src 'self' wss: blob: data:; frame-ancestors 'self'
+content-type: image/jpeg
+date: Thu, 17 Sep 2026 16:14:34 GMT
+last-modified: Mon, 14 Sep 2026 19:11:01 GMT
+permissions-policy: geolocation=(), microphone=(), camera=()
+referrer-policy: strict-origin-when-cross-origin
+set-cookie: GESCHWAERZT
+strict-transport-security: max-age=31536000; includeSubDomains; preload
+vary: Origin
+vary: Access-Control-Request-Method
+vary: Access-Control-Request-Headers
+x-content-type-options: nosniff
+x-frame-options: DENY
+x-robots-tag: noindex,nofollow
+x-xss-protection: 1; mode=block
+content-length: 554612
+

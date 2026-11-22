@@ -1,0 +1,365 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
+  <id>urn:booklore:navigation:authors</id>
+  <title>Authors</title>
+  <updated>2026-09-19T06:53:03.471408770Z</updated>
+  <link rel="self" href="/api/v1/opds/authors?page=1&amp;size=50" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <link rel="start" href="/api/v1/opds" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <link rel="search" type="application/opensearchdescription+xml" title="Search" href="/api/v1/opds/search.opds"/>
+  <opensearch:totalResults>239</opensearch:totalResults>
+  <opensearch:startIndex>1</opensearch:startIndex>
+  <opensearch:itemsPerPage>50</opensearch:itemsPerPage>
+  <entry>
+    <title></title>
+    <id>urn:booklore:author:</id>
+    <updated>2026-09-19T06:53:03.471655481Z</updated>
+    <link rel="subsection" href="/api/v1/opds/catalog?author=" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+    <content type="text">Books by </content>
+  </entry>
+  <entry>
+    <title>F. Biskreirau Dofur</title>
+    <id>urn:booklore:author:F. Biskreirau Dofur</id>
+    <updated>2026-09-19T06:53:03.471884910Z</updated>
+    <link rel="subsection" href="/api/v1/opds/catalog?author=F.+Biskreirau+Dofur" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+    <content type="text">Books by F. Biskreirau Dofur</content>
+  </entry>
+  <entry>
+    <title>Babislem Deicoskiond</title>
+    <id>urn:booklore:author:Babislem Deicoskiond</id>
+    <updated>2026-09-19T06:53:03.472243955Z</updated>
+    <link rel="subsection" href="/api/v1/opds/catalog?author=Babislem+Deicoskiond" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+    <content type="text">Books by Babislem Deicoskiond</content>
+  </entry>
+  <entry>
+    <title>Deiwetrol Fukek</title>
+    <id>urn:booklore:author:Deiwetrol Fukek</id>
+    <updated>2026-09-19T06:53:03.472398060Z</updated>
+    <link rel="subsection" href="/api/v1/opds/catalog?author=Deiwetrol+Fukek" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+    <content type="text">Books by Deiwetrol Fukek</content>
+  </entry>
+  <entry>
+    <title>Deiwetrol Canouk</title>
+    <id>urn:booklore:author:Deiwetrol Canouk</id>
+    <updated>2026-09-19T06:53:03.472409111Z</updated>
+    <link rel="subsection" href="/api/v1/opds/catalog?author=Deiwetrol+Canouk" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+    <content type="text">Books by Deiwetrol Canouk</content>
+  </entry>
+  <entry>
+    <title>Deiwetrol Drago</title>
+    <id>urn:booklore:author:Deiwetrol Drago</id>
+    <updated>2026-09-19T06:53:03.472556512Z</updated>
+    <link rel="subsection" href="/api/v1/opds/catalog?author=Deiwetrol+Drago" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+    <content type="text">Books by Deiwetrol Drago</content>
+  </entry>
+  <entry>
+    <title>Klaflaika Krofriakrand</title>
+    <id>urn:booklore:author:Klaflaika Krofriakrand</id>
+    <updated>2026-09-19T06:53:03.472940636Z</updated>
+    <link rel="subsection" href="/api/v1/opds/catalog?author=Klaflaika+Krofriakrand" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+    <content type="text">Books by Klaflaika Krofriakrand</content>
+  </entry>
+  <entry>
+    <title>Hubru Ploglifil</title>
+    <id>urn:booklore:author:Hubru Ploglifil</id>
+    <updated>2026-09-19T06:53:03.472950134Z</updated>
+    <link rel="subsection" href="/api/v1/opds/catalog?author=Hubru+Ploglifil" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+    <content type="text">Books by Hubru Ploglifil</content>
+  </entry>
+  <entry>
+    <title>Priaser Skisglendek</title>
+    <id>urn:booklore:author:Priaser Skisglendek</id>
+    <updated>2026-09-19T06:53:03.473059012Z</updated>
+    <link rel="subsection" href="/api/v1/opds/catalog?author=Priaser+Skisglendek" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+    <content type="text">Books by Priaser Skisglendek</content>
+  </entry>
+  <entry>
+    <title>Manpraitbuk Stedei</title>
+    <id>urn:booklore:author:Manpraitbuk Stedei</id>
+    <updated>2026-09-19T06:53:03.473170495Z</updated>
+    <link rel="subsection" href="/api/v1/opds/catalog?author=Manpraitbuk+Stedei" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+    <content type="text">Books by Manpraitbuk Stedei</content>
+  </entry>
+  <entry>
+    <title>Manpraitbuk Sleklou</title>
+    <id>urn:booklore:author:Manpraitbuk Sleklou</id>
+    <updated>2026-09-19T06:53:03.473279804Z</updated>
+    <link rel="subsection" href="/api/v1/opds/catalog?author=Manpraitbuk+Sleklou" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+    <content type="text">Books by Manpraitbuk Sleklou</content>
+  </entry>
+  <entry>
+    <title>Mavo Sioslaihis</title>
+    <id>urn:booklore:author:Mavo Sioslaihis</id>
+    <updated>2026-09-19T06:53:03.473387199Z</updated>
+    <link rel="subsection" href="/api/v1/opds/catalog?author=Mavo+Sioslaihis" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+    <content type="text">Books by Mavo Sioslaihis</content>
+  </entry>
+  <entry>
+    <title>Pritrok P. Ceistia</title>
+    <id>urn:booklore:author:Pritrok P. Ceistia</id>
+    <updated>2026-09-19T06:53:03.473507319Z</updated>
+    <link rel="subsection" href="/api/v1/opds/catalog?author=Pritrok+P.+Ceistia" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+    <content type="text">Books by Pritrok P. Ceistia</content>
+  </entry>
+  <entry>
+    <title>Toswatreim Traunziorian</title>
+    <id>urn:booklore:author:Toswatreim Traunziorian</id>
+    <updated>2026-09-19T06:53:03.473805147Z</updated>
+    <link rel="subsection" href="/api/v1/opds/catalog?author=Toswatreim+Traunziorian" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+    <content type="text">Books by Toswatreim Traunziorian</content>
+  </entry>
+  <entry>
+    <title>Glutgel Hitluplia</title>
+    <id>urn:booklore:author:Glutgel Hitluplia</id>
+    <updated>2026-09-19T06:53:03.473899167Z</updated>
+    <link rel="subsection" href="/api/v1/opds/catalog?author=Glutgel+Hitluplia" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+    <content type="text">Books by Glutgel Hitluplia</content>
+  </entry>
+  <entry>
+    <title>SLIOJAUTOK LAUNZIATBLA</title>
+    <id>urn:booklore:author:SLIOJAUTOK LAUNZIATBLA</id>
+    <updated>2026-09-19T06:53:03.473993617Z</updated>
+    <link rel="subsection" href="/api/v1/opds/catalog?author=SLIOJAUTOK+LAUNZIATBLA" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+    <content type="text">Books by SLIOJAUTOK LAUNZIATBLA</content>
+  </entry>
+  <entry>
+    <title>Zetniapre Naiprairem</title>
+    <id>urn:booklore:author:Zetniapre Naiprairem</id>
+    <updated>2026-09-19T06:53:03.474090833Z</updated>
+    <link rel="subsection" href="/api/v1/opds/catalog?author=Zetniapre+Naiprairem" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+    <content type="text">Books by Zetniapre Naiprairem</content>
+  </entry>
+  <entry>
+    <title>Puprum Histislund</title>
+    <id>urn:booklore:author:Puprum Histislund</id>
+    <updated>2026-09-19T06:53:03.474191084Z</updated>
+    <link rel="subsection" href="/api/v1/opds/catalog?author=Puprum+Histislund" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+    <content type="text">Books by Puprum Histislund</content>
+  </entry>
+  <entry>
+    <title>M.N. Blukrujern</title>
+    <id>urn:booklore:author:M.N. Blukrujern</id>
+    <updated>2026-09-19T06:53:03.474287248Z</updated>
+    <link rel="subsection" href="/api/v1/opds/catalog?author=M.N.+Blukrujern" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+    <content type="text">Books by M.N. Blukrujern</content>
+  </entry>
+  <entry>
+    <title>Drikreigo Riokliogu</title>
+    <id>urn:booklore:author:Drikreigo Riokliogu</id>
+    <updated>2026-09-19T06:53:03.474386287Z</updated>
+    <link rel="subsection" href="/api/v1/opds/catalog?author=Drikreigo+Riokliogu" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+    <content type="text">Books by Drikreigo Riokliogu</content>
+  </entry>
+  <entry>
+    <title>Kajiakli Cufrum</title>
+    <id>urn:booklore:author:Kajiakli Cufrum</id>
+    <updated>2026-09-19T06:53:03.474489514Z</updated>
+    <link rel="subsection" href="/api/v1/opds/catalog?author=Kajiakli+Cufrum" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+    <content type="text">Books by Kajiakli Cufrum</content>
+  </entry>
+  <entry>
+    <title>Kluspebrur Frauburn</title>
+    <id>urn:booklore:author:Kluspebrur Frauburn</id>
+    <updated>2026-09-19T06:53:03.474498953Z</updated>
+    <link rel="subsection" href="/api/v1/opds/catalog?author=Kluspebrur+Frauburn" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+    <content type="text">Books by Kluspebrur Frauburn</content>
+  </entry>
+  <entry>
+    <title>Kuplil Krincei</title>
+    <id>urn:booklore:author:Kuplil Krincei</id>
+    <updated>2026-09-19T06:53:03.474513500Z</updated>
+    <link rel="subsection" href="/api/v1/opds/catalog?author=Kuplil+Krincei" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+    <content type="text">Books by Kuplil Krincei</content>
+  </entry>
+  <entry>
+    <title>Briotkli Lauslauslia</title>
+    <id>urn:booklore:author:Briotkli Lauslauslia</id>
+    <updated>2026-09-19T06:53:03.474622328Z</updated>
+    <link rel="subsection" href="/api/v1/opds/catalog?author=Briotkli+Lauslauslia" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+    <content type="text">Books by Briotkli Lauslauslia</content>
+  </entry>
+  <entry>
+    <title>Nore Druski</title>
+    <id>urn:booklore:author:Nore Druski</id>
+    <updated>2026-09-19T06:53:03.474636135Z</updated>
+    <link rel="subsection" href="/api/v1/opds/catalog?author=Nore+Druski" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+    <content type="text">Books by Nore Druski</content>
+  </entry>
+  <entry>
+    <title>Ceikailia Siacou</title>
+    <id>urn:booklore:author:Ceikailia Siacou</id>
+    <updated>2026-09-19T06:53:03.474746255Z</updated>
+    <link rel="subsection" href="/api/v1/opds/catalog?author=Ceikailia+Siacou" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+    <content type="text">Books by Ceikailia Siacou</content>
+  </entry>
+  <entry>
+    <title>Ceikailia Slimi</title>
+    <id>urn:booklore:author:Ceikailia Slimi</id>
+    <updated>2026-09-19T06:53:03.474759610Z</updated>
+    <link rel="subsection" href="/api/v1/opds/catalog?author=Ceikailia+Slimi" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+    <content type="text">Books by Ceikailia Slimi</content>
+  </entry>
+  <entry>
+    <title>Souzia Bogorial</title>
+    <id>urn:booklore:author:Souzia Bogorial</id>
+    <updated>2026-09-19T06:53:03.474867797Z</updated>
+    <link rel="subsection" href="/api/v1/opds/catalog?author=Souzia+Bogorial" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+    <content type="text">Books by Souzia Bogorial</content>
+  </entry>
+  <entry>
+    <title>Spaislir Kriadristi-Soska</title>
+    <id>urn:booklore:author:Spaislir Kriadristi-Soska</id>
+    <updated>2026-09-19T06:53:03.474881914Z</updated>
+    <link rel="subsection" href="/api/v1/opds/catalog?author=Spaislir+Kriadristi-Soska" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+    <content type="text">Books by Spaislir Kriadristi-Soska</content>
+  </entry>
+  <entry>
+    <title>Krameinha Domu (Houdu)</title>
+    <id>urn:booklore:author:Krameinha Domu (Houdu)</id>
+    <updated>2026-09-19T06:53:03.475296245Z</updated>
+    <link rel="subsection" href="/api/v1/opds/catalog?author=Krameinha+Domu+%28Houdu%29" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+    <content type="text">Books by Krameinha Domu (Houdu)</content>
+  </entry>
+  <entry>
+    <title>Beijiol Gowinklend</title>
+    <id>urn:booklore:author:Beijiol Gowinklend</id>
+    <updated>2026-09-19T06:53:03.475319380Z</updated>
+    <link rel="subsection" href="/api/v1/opds/catalog?author=Beijiol+Gowinklend" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+    <content type="text">Books by Beijiol Gowinklend</content>
+  </entry>
+  <entry>
+    <title>Slewaitmu Brobo</title>
+    <id>urn:booklore:author:Slewaitmu Brobo</id>
+    <updated>2026-09-19T06:53:03.475429340Z</updated>
+    <link rel="subsection" href="/api/v1/opds/catalog?author=Slewaitmu+Brobo" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+    <content type="text">Books by Slewaitmu Brobo</content>
+  </entry>
+  <entry>
+    <title>Laskoun Dranhei-Drapraugler</title>
+    <id>urn:booklore:author:Laskoun Dranhei-Drapraugler</id>
+    <updated>2026-09-19T06:53:03.475542175Z</updated>
+    <link rel="subsection" href="/api/v1/opds/catalog?author=Laskoun+Dranhei-Drapraugler" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+    <content type="text">Books by Laskoun Dranhei-Drapraugler</content>
+  </entry>
+  <entry>
+    <title>Wiafrinpro Kijefu</title>
+    <id>urn:booklore:author:Wiafrinpro Kijefu</id>
+    <updated>2026-09-19T06:53:03.475653007Z</updated>
+    <link rel="subsection" href="/api/v1/opds/catalog?author=Wiafrinpro+Kijefu" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+    <content type="text">Books by Wiafrinpro Kijefu</content>
+  </entry>
+  <entry>
+    <title>Sleklou, Biskreirau; Sleklou, Manpraitbuk</title>
+    <id>urn:booklore:author:Sleklou, Biskreirau; Sleklou, Manpraitbuk</id>
+    <updated>2026-09-19T06:53:03.475664589Z</updated>
+    <link rel="subsection" href="/api/v1/opds/catalog?author=Sleklou%2C+Biskreirau%3B+Sleklou%2C+Manpraitbuk" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+    <content type="text">Books by Sleklou, Biskreirau; Sleklou, Manpraitbuk</content>
+  </entry>
+  <entry>
+    <title>Gafemou Konige</title>
+    <id>urn:booklore:author:Gafemou Konige</id>
+    <updated>2026-09-19T06:53:03.475779168Z</updated>
+    <link rel="subsection" href="/api/v1/opds/catalog?author=Gafemou+Konige" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+    <content type="text">Books by Gafemou Konige</content>
+  </entry>
+  <entry>
+    <title>Nukriofroun Salauprim</title>
+    <id>urn:booklore:author:Nukriofroun Salauprim</id>
+    <updated>2026-09-19T06:53:03.475889489Z</updated>
+    <link rel="subsection" href="/api/v1/opds/catalog?author=Nukriofroun+Salauprim" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+    <content type="text">Books by Nukriofroun Salauprim</content>
+  </entry>
+  <entry>
+    <title>Fifresia Gugliok</title>
+    <id>urn:booklore:author:Fifresia Gugliok</id>
+    <updated>2026-09-19T06:53:03.475985221Z</updated>
+    <link rel="subsection" href="/api/v1/opds/catalog?author=Fifresia+Gugliok" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+    <content type="text">Books by Fifresia Gugliok</content>
+  </entry>
+  <entry>
+    <title>Fifresia Spougriski</title>
+    <id>urn:booklore:author:Fifresia Spougriski</id>
+    <updated>2026-09-19T06:53:03.476083229Z</updated>
+    <link rel="subsection" href="/api/v1/opds/catalog?author=Fifresia+Spougriski" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+    <content type="text">Books by Fifresia Spougriski</content>
+  </entry>
+  <entry>
+    <title>Fifresia Voglesauk</title>
+    <id>urn:booklore:author:Fifresia Voglesauk</id>
+    <updated>2026-09-19T06:53:03.476178611Z</updated>
+    <link rel="subsection" href="/api/v1/opds/catalog?author=Fifresia+Voglesauk" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+    <content type="text">Books by Fifresia Voglesauk</content>
+  </entry>
+  <entry>
+    <title>Glatspounsi Wainiok</title>
+    <id>urn:booklore:author:Glatspounsi Wainiok</id>
+    <updated>2026-09-19T06:53:03.476273662Z</updated>
+    <link rel="subsection" href="/api/v1/opds/catalog?author=Glatspounsi+Wainiok" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+    <content type="text">Books by Glatspounsi Wainiok</content>
+  </entry>
+  <entry>
+    <title>Kliazei, Vioveihi</title>
+    <id>urn:booklore:author:Kliazei, Vioveihi</id>
+    <updated>2026-09-19T06:53:03.476368233Z</updated>
+    <link rel="subsection" href="/api/v1/opds/catalog?author=Kliazei%2C+Vioveihi" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+    <content type="text">Books by Kliazei, Vioveihi</content>
+  </entry>
+  <entry>
+    <title>Ceplenun</title>
+    <id>urn:booklore:author:Ceplenun</id>
+    <updated>2026-09-19T06:53:03.476464016Z</updated>
+    <link rel="subsection" href="/api/v1/opds/catalog?author=Ceplenun" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+    <content type="text">Books by Ceplenun</content>
+  </entry>
+  <entry>
+    <title>Fluprik Plitcuk</title>
+    <id>urn:booklore:author:Fluprik Plitcuk</id>
+    <updated>2026-09-19T06:53:03.476472853Z</updated>
+    <link rel="subsection" href="/api/v1/opds/catalog?author=Fluprik+Plitcuk" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+    <content type="text">Books by Fluprik Plitcuk</content>
+  </entry>
+  <entry>
+    <title>Plat Leinprepleind</title>
+    <id>urn:booklore:author:Plat Leinprepleind</id>
+    <updated>2026-09-19T06:53:03.476567093Z</updated>
+    <link rel="subsection" href="/api/v1/opds/catalog?author=Drai+Leinprepleind" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+    <content type="text">Books by Plat Leinprepleind</content>
+  </entry>
+  <entry>
+    <title>Wanspand Prisslos</title>
+    <id>urn:booklore:author:Wanspand Prisslos</id>
+    <updated>2026-09-19T06:53:03.476660211Z</updated>
+    <link rel="subsection" href="/api/v1/opds/catalog?author=Wanspand+Prisslos" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+    <content type="text">Books by Wanspand Prisslos</content>
+  </entry>
+  <entry>
+    <title>Wanspand Miadrial</title>
+    <id>urn:booklore:author:Wanspand Miadrial</id>
+    <updated>2026-09-19T06:53:03.476754351Z</updated>
+    <link rel="subsection" href="/api/v1/opds/catalog?author=Wanspand+Miadrial" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+    <content type="text">Books by Wanspand Miadrial</content>
+  </entry>
+  <entry>
+    <title>Guliosbrond Gusrai</title>
+    <id>urn:booklore:author:Guliosbrond Gusrai</id>
+    <updated>2026-09-19T06:53:03.476848380Z</updated>
+    <link rel="subsection" href="/api/v1/opds/catalog?author=Guliosbrond+Gusrai" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+    <content type="text">Books by Guliosbrond Gusrai</content>
+  </entry>
+  <entry>
+    <title>Guliosbrond Saigraprarn</title>
+    <id>urn:booklore:author:Guliosbrond Saigraprarn</id>
+    <updated>2026-09-19T06:53:03.476947680Z</updated>
+    <link rel="subsection" href="/api/v1/opds/catalog?author=Guliosbrond+Saigraprarn" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+    <content type="text">Books by Guliosbrond Saigraprarn</content>
+  </entry>
+  <entry>
+    <title>Guliosbrond Veininour</title>
+    <id>urn:booklore:author:Guliosbrond Veininour</id>
+    <updated>2026-09-19T06:53:03.477041419Z</updated>
+    <link rel="subsection" href="/api/v1/opds/catalog?author=Guliosbrond+Veininour" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+    <content type="text">Books by Guliosbrond Veininour</content>
+  </entry>
+  <link rel="first" href="/api/v1/opds/authors?page=1&amp;size=50" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <link rel="next" href="/api/v1/opds/authors?page=2&amp;size=50" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <link rel="last" href="/api/v1/opds/authors?page=5&amp;size=50" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+</feed>

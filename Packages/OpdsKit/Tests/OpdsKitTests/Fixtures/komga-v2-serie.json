@@ -1,0 +1,841 @@
+{
+  "metadata": {
+    "title": "Fiahot slem Wani",
+    "modified": "2026-09-14T23:50:57+02:00",
+    "description": "Description removed from the test data.",
+    "itemsPerPage": 20,
+    "currentPage": 1,
+    "numberOfItems": 9
+  },
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://comics.example/opds/v2/series/0RM6ZZJWZS971"
+    },
+    {
+      "title": "Home",
+      "rel": "start",
+      "href": "https://comics.example/opds/v2/catalog",
+      "type": "application/opds+json"
+    },
+    {
+      "title": "Search",
+      "rel": "search",
+      "href": "https://comics.example/opds/v2/search{?query}",
+      "type": "application/opds+json",
+      "templated": true
+    }
+  ],
+  "publications": [
+    {
+      "context": "https://readium.org/webpub-manifest/context.jsonld",
+      "metadata": {
+        "title": "Fiahot_zi_Wani__Doppelband-Edition_1__-_Triadroflur_Binsiojiarn",
+        "modified": "2026-09-14T23:51:00.576+02:00",
+        "letterer": [
+          "Triadroflur Binsiojiarn"
+        ],
+        "penciler": [
+          "Triadroflur Binsiojiarn"
+        ],
+        "colorist": [
+          "Triadroflur Binsiojiarn"
+        ],
+        "inker": [
+          "Triadroflur Binsiojiarn"
+        ],
+        "contributor": [
+          "Triadroflur Binsiojiarn",
+          "Triadroflur Binsiojiarn"
+        ],
+        "numberOfPages": 333,
+        "belongsTo": {
+          "series": [
+            {
+              "name": "Fiahot slem Wani",
+              "position": 1.0,
+              "links": [
+                {
+                  "href": "https://comics.example/opds/v2/series/0RM6ZZJWZS971",
+                  "type": "application/opds+json"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://comics.example/opds/v2/books/0RM6ZZJX3SFDH/manifest",
+          "type": "application/divina+json",
+          "properties": {
+            "authenticate": {
+              "href": "https://comics.example/opds/v2/auth",
+              "type": "application/opds-authentication+json"
+            }
+          }
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition",
+          "href": "https://comics.example/opds/v2/books/0RM6ZZJX3SFDH/file",
+          "type": "application/vnd.comicbook+zip",
+          "properties": {
+            "authenticate": {
+              "href": "https://comics.example/opds/v2/auth",
+              "type": "application/opds-authentication+json"
+            }
+          }
+        },
+        {
+          "rel": "http://www.cantook.com/api/progression",
+          "href": "https://comics.example/opds/v2/books/0RM6ZZJX3SFDH/progression",
+          "type": "application/vnd.readium.progression+json",
+          "properties": {
+            "authenticate": {
+              "href": "https://comics.example/opds/v2/auth",
+              "type": "application/opds-authentication+json"
+            }
+          }
+        }
+      ],
+      "images": [
+        {
+          "href": "https://comics.example/opds/v2/books/0RM6ZZJX3SFDH/thumbnail",
+          "type": "image/jpeg",
+          "properties": {
+            "authenticate": {
+              "href": "https://comics.example/opds/v2/auth",
+              "type": "application/opds-authentication+json"
+            }
+          }
+        }
+      ],
+      "readingOrder": [],
+      "resources": [],
+      "toc": [],
+      "landmarks": [],
+      "pageList": []
+    },
+    {
+      "context": "https://readium.org/webpub-manifest/context.jsonld",
+      "metadata": {
+        "title": "Fiahot_zi_Wani__Doppelband-Edition_2__-_Triadroflur_Binsiojiarn",
+        "modified": "2026-09-14T23:51:00.577+02:00",
+        "letterer": [
+          "Triadroflur Binsiojiarn"
+        ],
+        "penciler": [
+          "Triadroflur Binsiojiarn"
+        ],
+        "colorist": [
+          "Triadroflur Binsiojiarn"
+        ],
+        "inker": [
+          "Triadroflur Binsiojiarn"
+        ],
+        "contributor": [
+          "Triadroflur Binsiojiarn",
+          "Triadroflur Binsiojiarn"
+        ],
+        "numberOfPages": 335,
+        "belongsTo": {
+          "series": [
+            {
+              "name": "Fiahot slem Wani",
+              "position": 2.0,
+              "links": [
+                {
+                  "href": "https://comics.example/opds/v2/series/0RM6ZZJWZS971",
+                  "type": "application/opds+json"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://comics.example/opds/v2/books/0RM6ZZJX3SFDF/manifest",
+          "type": "application/divina+json",
+          "properties": {
+            "authenticate": {
+              "href": "https://comics.example/opds/v2/auth",
+              "type": "application/opds-authentication+json"
+            }
+          }
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition",
+          "href": "https://comics.example/opds/v2/books/0RM6ZZJX3SFDF/file",
+          "type": "application/vnd.comicbook+zip",
+          "properties": {
+            "authenticate": {
+              "href": "https://comics.example/opds/v2/auth",
+              "type": "application/opds-authentication+json"
+            }
+          }
+        },
+        {
+          "rel": "http://www.cantook.com/api/progression",
+          "href": "https://comics.example/opds/v2/books/0RM6ZZJX3SFDF/progression",
+          "type": "application/vnd.readium.progression+json",
+          "properties": {
+            "authenticate": {
+              "href": "https://comics.example/opds/v2/auth",
+              "type": "application/opds-authentication+json"
+            }
+          }
+        }
+      ],
+      "images": [
+        {
+          "href": "https://comics.example/opds/v2/books/0RM6ZZJX3SFDF/thumbnail",
+          "type": "image/jpeg",
+          "properties": {
+            "authenticate": {
+              "href": "https://comics.example/opds/v2/auth",
+              "type": "application/opds-authentication+json"
+            }
+          }
+        }
+      ],
+      "readingOrder": [],
+      "resources": [],
+      "toc": [],
+      "landmarks": [],
+      "pageList": []
+    },
+    {
+      "context": "https://readium.org/webpub-manifest/context.jsonld",
+      "metadata": {
+        "title": "Fiahot_zi_Wani__Doppelband-Edition_3__-_Triadroflur_Binsiojiarn",
+        "modified": "2026-09-14T23:51:00.577+02:00",
+        "letterer": [
+          "Triadroflur Binsiojiarn"
+        ],
+        "penciler": [
+          "Triadroflur Binsiojiarn"
+        ],
+        "colorist": [
+          "Triadroflur Binsiojiarn"
+        ],
+        "inker": [
+          "Triadroflur Binsiojiarn"
+        ],
+        "contributor": [
+          "Triadroflur Binsiojiarn",
+          "Triadroflur Binsiojiarn"
+        ],
+        "numberOfPages": 334,
+        "belongsTo": {
+          "series": [
+            {
+              "name": "Fiahot slem Wani",
+              "position": 3.0,
+              "links": [
+                {
+                  "href": "https://comics.example/opds/v2/series/0RM6ZZJWZS971",
+                  "type": "application/opds+json"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://comics.example/opds/v2/books/0RM6ZZJWZS977/manifest",
+          "type": "application/divina+json",
+          "properties": {
+            "authenticate": {
+              "href": "https://comics.example/opds/v2/auth",
+              "type": "application/opds-authentication+json"
+            }
+          }
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition",
+          "href": "https://comics.example/opds/v2/books/0RM6ZZJWZS977/file",
+          "type": "application/vnd.comicbook+zip",
+          "properties": {
+            "authenticate": {
+              "href": "https://comics.example/opds/v2/auth",
+              "type": "application/opds-authentication+json"
+            }
+          }
+        },
+        {
+          "rel": "http://www.cantook.com/api/progression",
+          "href": "https://comics.example/opds/v2/books/0RM6ZZJWZS977/progression",
+          "type": "application/vnd.readium.progression+json",
+          "properties": {
+            "authenticate": {
+              "href": "https://comics.example/opds/v2/auth",
+              "type": "application/opds-authentication+json"
+            }
+          }
+        }
+      ],
+      "images": [
+        {
+          "href": "https://comics.example/opds/v2/books/0RM6ZZJWZS977/thumbnail",
+          "type": "image/jpeg",
+          "properties": {
+            "authenticate": {
+              "href": "https://comics.example/opds/v2/auth",
+              "type": "application/opds-authentication+json"
+            }
+          }
+        }
+      ],
+      "readingOrder": [],
+      "resources": [],
+      "toc": [],
+      "landmarks": [],
+      "pageList": []
+    },
+    {
+      "context": "https://readium.org/webpub-manifest/context.jsonld",
+      "metadata": {
+        "title": "Fiahot_zi_Wani__Doppelband-Edition_4__-_Triadroflur_Binsiojiarn",
+        "modified": "2026-09-14T23:51:00.577+02:00",
+        "letterer": [
+          "Triadroflur Binsiojiarn"
+        ],
+        "penciler": [
+          "Triadroflur Binsiojiarn"
+        ],
+        "colorist": [
+          "Triadroflur Binsiojiarn"
+        ],
+        "inker": [
+          "Triadroflur Binsiojiarn"
+        ],
+        "contributor": [
+          "Triadroflur Binsiojiarn",
+          "Triadroflur Binsiojiarn"
+        ],
+        "numberOfPages": 329,
+        "belongsTo": {
+          "series": [
+            {
+              "name": "Fiahot slem Wani",
+              "position": 4.0,
+              "links": [
+                {
+                  "href": "https://comics.example/opds/v2/series/0RM6ZZJWZS971",
+                  "type": "application/opds+json"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://comics.example/opds/v2/books/0RM6ZZJWZS972/manifest",
+          "type": "application/divina+json",
+          "properties": {
+            "authenticate": {
+              "href": "https://comics.example/opds/v2/auth",
+              "type": "application/opds-authentication+json"
+            }
+          }
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition",
+          "href": "https://comics.example/opds/v2/books/0RM6ZZJWZS972/file",
+          "type": "application/vnd.comicbook+zip",
+          "properties": {
+            "authenticate": {
+              "href": "https://comics.example/opds/v2/auth",
+              "type": "application/opds-authentication+json"
+            }
+          }
+        },
+        {
+          "rel": "http://www.cantook.com/api/progression",
+          "href": "https://comics.example/opds/v2/books/0RM6ZZJWZS972/progression",
+          "type": "application/vnd.readium.progression+json",
+          "properties": {
+            "authenticate": {
+              "href": "https://comics.example/opds/v2/auth",
+              "type": "application/opds-authentication+json"
+            }
+          }
+        }
+      ],
+      "images": [
+        {
+          "href": "https://comics.example/opds/v2/books/0RM6ZZJWZS972/thumbnail",
+          "type": "image/jpeg",
+          "properties": {
+            "authenticate": {
+              "href": "https://comics.example/opds/v2/auth",
+              "type": "application/opds-authentication+json"
+            }
+          }
+        }
+      ],
+      "readingOrder": [],
+      "resources": [],
+      "toc": [],
+      "landmarks": [],
+      "pageList": []
+    },
+    {
+      "context": "https://readium.org/webpub-manifest/context.jsonld",
+      "metadata": {
+        "title": "Fiahot_zi_Wani__Doppelband-Edition_5__-_Triadroflur_Binsiojiarn",
+        "modified": "2026-09-14T23:51:00.577+02:00",
+        "letterer": [
+          "Triadroflur Binsiojiarn"
+        ],
+        "penciler": [
+          "Triadroflur Binsiojiarn"
+        ],
+        "colorist": [
+          "Triadroflur Binsiojiarn"
+        ],
+        "inker": [
+          "Triadroflur Binsiojiarn"
+        ],
+        "contributor": [
+          "Triadroflur Binsiojiarn",
+          "Triadroflur Binsiojiarn"
+        ],
+        "numberOfPages": 324,
+        "belongsTo": {
+          "series": [
+            {
+              "name": "Fiahot slem Wani",
+              "position": 5.0,
+              "links": [
+                {
+                  "href": "https://comics.example/opds/v2/series/0RM6ZZJWZS971",
+                  "type": "application/opds+json"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://comics.example/opds/v2/books/0RM6ZZJWZS973/manifest",
+          "type": "application/divina+json",
+          "properties": {
+            "authenticate": {
+              "href": "https://comics.example/opds/v2/auth",
+              "type": "application/opds-authentication+json"
+            }
+          }
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition",
+          "href": "https://comics.example/opds/v2/books/0RM6ZZJWZS973/file",
+          "type": "application/vnd.comicbook+zip",
+          "properties": {
+            "authenticate": {
+              "href": "https://comics.example/opds/v2/auth",
+              "type": "application/opds-authentication+json"
+            }
+          }
+        },
+        {
+          "rel": "http://www.cantook.com/api/progression",
+          "href": "https://comics.example/opds/v2/books/0RM6ZZJWZS973/progression",
+          "type": "application/vnd.readium.progression+json",
+          "properties": {
+            "authenticate": {
+              "href": "https://comics.example/opds/v2/auth",
+              "type": "application/opds-authentication+json"
+            }
+          }
+        }
+      ],
+      "images": [
+        {
+          "href": "https://comics.example/opds/v2/books/0RM6ZZJWZS973/thumbnail",
+          "type": "image/jpeg",
+          "properties": {
+            "authenticate": {
+              "href": "https://comics.example/opds/v2/auth",
+              "type": "application/opds-authentication+json"
+            }
+          }
+        }
+      ],
+      "readingOrder": [],
+      "resources": [],
+      "toc": [],
+      "landmarks": [],
+      "pageList": []
+    },
+    {
+      "context": "https://readium.org/webpub-manifest/context.jsonld",
+      "metadata": {
+        "title": "Fiahot_zi_Wani__Doppelband-Edition_6__-_Triadroflur_Binsiojiarn",
+        "modified": "2026-09-14T23:51:00.577+02:00",
+        "letterer": [
+          "Triadroflur Binsiojiarn"
+        ],
+        "penciler": [
+          "Triadroflur Binsiojiarn"
+        ],
+        "colorist": [
+          "Triadroflur Binsiojiarn"
+        ],
+        "inker": [
+          "Triadroflur Binsiojiarn"
+        ],
+        "contributor": [
+          "Triadroflur Binsiojiarn",
+          "Triadroflur Binsiojiarn"
+        ],
+        "numberOfPages": 324,
+        "belongsTo": {
+          "series": [
+            {
+              "name": "Fiahot slem Wani",
+              "position": 6.0,
+              "links": [
+                {
+                  "href": "https://comics.example/opds/v2/series/0RM6ZZJWZS971",
+                  "type": "application/opds+json"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://comics.example/opds/v2/books/0RM6ZZJWZS976/manifest",
+          "type": "application/divina+json",
+          "properties": {
+            "authenticate": {
+              "href": "https://comics.example/opds/v2/auth",
+              "type": "application/opds-authentication+json"
+            }
+          }
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition",
+          "href": "https://comics.example/opds/v2/books/0RM6ZZJWZS976/file",
+          "type": "application/vnd.comicbook+zip",
+          "properties": {
+            "authenticate": {
+              "href": "https://comics.example/opds/v2/auth",
+              "type": "application/opds-authentication+json"
+            }
+          }
+        },
+        {
+          "rel": "http://www.cantook.com/api/progression",
+          "href": "https://comics.example/opds/v2/books/0RM6ZZJWZS976/progression",
+          "type": "application/vnd.readium.progression+json",
+          "properties": {
+            "authenticate": {
+              "href": "https://comics.example/opds/v2/auth",
+              "type": "application/opds-authentication+json"
+            }
+          }
+        }
+      ],
+      "images": [
+        {
+          "href": "https://comics.example/opds/v2/books/0RM6ZZJWZS976/thumbnail",
+          "type": "image/jpeg",
+          "properties": {
+            "authenticate": {
+              "href": "https://comics.example/opds/v2/auth",
+              "type": "application/opds-authentication+json"
+            }
+          }
+        }
+      ],
+      "readingOrder": [],
+      "resources": [],
+      "toc": [],
+      "landmarks": [],
+      "pageList": []
+    },
+    {
+      "context": "https://readium.org/webpub-manifest/context.jsonld",
+      "metadata": {
+        "title": "Fiahot_zi_Wani__Doppelband-Edition_7__-_Triadroflur_Binsiojiarn",
+        "modified": "2026-09-14T23:51:00.577+02:00",
+        "letterer": [
+          "Triadroflur Binsiojiarn"
+        ],
+        "penciler": [
+          "Triadroflur Binsiojiarn"
+        ],
+        "colorist": [
+          "Triadroflur Binsiojiarn"
+        ],
+        "inker": [
+          "Triadroflur Binsiojiarn"
+        ],
+        "contributor": [
+          "Triadroflur Binsiojiarn",
+          "Triadroflur Binsiojiarn"
+        ],
+        "numberOfPages": 336,
+        "belongsTo": {
+          "series": [
+            {
+              "name": "Fiahot slem Wani",
+              "position": 7.0,
+              "links": [
+                {
+                  "href": "https://comics.example/opds/v2/series/0RM6ZZJWZS971",
+                  "type": "application/opds+json"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://comics.example/opds/v2/books/0RM6ZZJX3SFDG/manifest",
+          "type": "application/divina+json",
+          "properties": {
+            "authenticate": {
+              "href": "https://comics.example/opds/v2/auth",
+              "type": "application/opds-authentication+json"
+            }
+          }
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition",
+          "href": "https://comics.example/opds/v2/books/0RM6ZZJX3SFDG/file",
+          "type": "application/vnd.comicbook+zip",
+          "properties": {
+            "authenticate": {
+              "href": "https://comics.example/opds/v2/auth",
+              "type": "application/opds-authentication+json"
+            }
+          }
+        },
+        {
+          "rel": "http://www.cantook.com/api/progression",
+          "href": "https://comics.example/opds/v2/books/0RM6ZZJX3SFDG/progression",
+          "type": "application/vnd.readium.progression+json",
+          "properties": {
+            "authenticate": {
+              "href": "https://comics.example/opds/v2/auth",
+              "type": "application/opds-authentication+json"
+            }
+          }
+        }
+      ],
+      "images": [
+        {
+          "href": "https://comics.example/opds/v2/books/0RM6ZZJX3SFDG/thumbnail",
+          "type": "image/jpeg",
+          "properties": {
+            "authenticate": {
+              "href": "https://comics.example/opds/v2/auth",
+              "type": "application/opds-authentication+json"
+            }
+          }
+        }
+      ],
+      "readingOrder": [],
+      "resources": [],
+      "toc": [],
+      "landmarks": [],
+      "pageList": []
+    },
+    {
+      "context": "https://readium.org/webpub-manifest/context.jsonld",
+      "metadata": {
+        "title": "Fiahot_zi_Wani__Doppelband-Edition_8__-_Triadroflur_Binsiojiarn",
+        "modified": "2026-09-14T23:51:00.577+02:00",
+        "letterer": [
+          "Triadroflur Binsiojiarn"
+        ],
+        "penciler": [
+          "Triadroflur Binsiojiarn"
+        ],
+        "colorist": [
+          "Triadroflur Binsiojiarn"
+        ],
+        "inker": [
+          "Triadroflur Binsiojiarn"
+        ],
+        "contributor": [
+          "Triadroflur Binsiojiarn",
+          "Triadroflur Binsiojiarn"
+        ],
+        "numberOfPages": 347,
+        "belongsTo": {
+          "series": [
+            {
+              "name": "Fiahot slem Wani",
+              "position": 8.0,
+              "links": [
+                {
+                  "href": "https://comics.example/opds/v2/series/0RM6ZZJWZS971",
+                  "type": "application/opds+json"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://comics.example/opds/v2/books/0RM6ZZJWZS975/manifest",
+          "type": "application/divina+json",
+          "properties": {
+            "authenticate": {
+              "href": "https://comics.example/opds/v2/auth",
+              "type": "application/opds-authentication+json"
+            }
+          }
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition",
+          "href": "https://comics.example/opds/v2/books/0RM6ZZJWZS975/file",
+          "type": "application/vnd.comicbook+zip",
+          "properties": {
+            "authenticate": {
+              "href": "https://comics.example/opds/v2/auth",
+              "type": "application/opds-authentication+json"
+            }
+          }
+        },
+        {
+          "rel": "http://www.cantook.com/api/progression",
+          "href": "https://comics.example/opds/v2/books/0RM6ZZJWZS975/progression",
+          "type": "application/vnd.readium.progression+json",
+          "properties": {
+            "authenticate": {
+              "href": "https://comics.example/opds/v2/auth",
+              "type": "application/opds-authentication+json"
+            }
+          }
+        }
+      ],
+      "images": [
+        {
+          "href": "https://comics.example/opds/v2/books/0RM6ZZJWZS975/thumbnail",
+          "type": "image/jpeg",
+          "properties": {
+            "authenticate": {
+              "href": "https://comics.example/opds/v2/auth",
+              "type": "application/opds-authentication+json"
+            }
+          }
+        }
+      ],
+      "readingOrder": [],
+      "resources": [],
+      "toc": [],
+      "landmarks": [],
+      "pageList": []
+    },
+    {
+      "context": "https://readium.org/webpub-manifest/context.jsonld",
+      "metadata": {
+        "title": "Fiahot_zi_Wani__Doppelband-Edition_9__-_Triadroflur_Binsiojiarn",
+        "modified": "2026-09-14T23:51:00.577+02:00",
+        "letterer": [
+          "Triadroflur Binsiojiarn"
+        ],
+        "penciler": [
+          "Triadroflur Binsiojiarn"
+        ],
+        "colorist": [
+          "Triadroflur Binsiojiarn"
+        ],
+        "inker": [
+          "Triadroflur Binsiojiarn"
+        ],
+        "contributor": [
+          "Triadroflur Binsiojiarn",
+          "Triadroflur Binsiojiarn"
+        ],
+        "numberOfPages": 373,
+        "belongsTo": {
+          "series": [
+            {
+              "name": "Fiahot slem Wani",
+              "position": 9.0,
+              "links": [
+                {
+                  "href": "https://comics.example/opds/v2/series/0RM6ZZJWZS971",
+                  "type": "application/opds+json"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://comics.example/opds/v2/books/0RM6ZZJWZS974/manifest",
+          "type": "application/divina+json",
+          "properties": {
+            "authenticate": {
+              "href": "https://comics.example/opds/v2/auth",
+              "type": "application/opds-authentication+json"
+            }
+          }
+        },
+        {
+          "rel": "http://opds-spec.org/acquisition",
+          "href": "https://comics.example/opds/v2/books/0RM6ZZJWZS974/file",
+          "type": "application/vnd.comicbook+zip",
+          "properties": {
+            "authenticate": {
+              "href": "https://comics.example/opds/v2/auth",
+              "type": "application/opds-authentication+json"
+            }
+          }
+        },
+        {
+          "rel": "http://www.cantook.com/api/progression",
+          "href": "https://comics.example/opds/v2/books/0RM6ZZJWZS974/progression",
+          "type": "application/vnd.readium.progression+json",
+          "properties": {
+            "authenticate": {
+              "href": "https://comics.example/opds/v2/auth",
+              "type": "application/opds-authentication+json"
+            }
+          }
+        }
+      ],
+      "images": [
+        {
+          "href": "https://comics.example/opds/v2/books/0RM6ZZJWZS974/thumbnail",
+          "type": "image/jpeg",
+          "properties": {
+            "authenticate": {
+              "href": "https://comics.example/opds/v2/auth",
+              "type": "application/opds-authentication+json"
+            }
+          }
+        }
+      ],
+      "readingOrder": [],
+      "resources": [],
+      "toc": [],
+      "landmarks": [],
+      "pageList": []
+    }
+  ]
+}

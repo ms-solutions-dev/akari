@@ -1,0 +1,39 @@
+HTTP/2 200 
+content-disposition: attachment; filename*=UTF-8''Jegeil%20Jauthern%20-%20Gutol%20Spespaifiar%20braprigla.epub; filename="Jegeil%20Jauthern%20-%20Gutol%20Spespaifiar%20braprigla.epub"
+content-security-policy: default-src 'self'; script-src 'self' 'unsafe-inline' 'wasm-unsafe-eval'; style-src 'self' 'unsafe-inline'; img-src 'self' data: https: blob:; media-src 'self' blob: data:; worker-src 'self' blob:; font-src 'self' data:; connect-src 'self' wss: https://api.pwnedpasswords.com; frame-ancestors 'self'
+content-type: application/epub+zip
+date: Sat, 19 Sep 2026 08:13:42 GMT
+etag: "895b5955e752dcd080f83f8304f97bf1"
+last-modified: Sat, 19 Sep 2026 08:13:25 GMT
+oc-etag: "895b5955e752dcd080f83f8304f97bf1"
+permissions-policy: geolocation=(), microphone=(), camera=()
+referrer-policy: strict-origin-when-cross-origin
+set-cookie: GESCHWAERZT
+set-cookie: GESCHWAERZT
+set-cookie: GESCHWAERZT
+set-cookie: GESCHWAERZT
+set-cookie: GESCHWAERZT
+set-cookie: GESCHWAERZT
+set-cookie: GESCHWAERZT
+set-cookie: GESCHWAERZT
+set-cookie: GESCHWAERZT
+set-cookie: GESCHWAERZT
+set-cookie: GESCHWAERZT
+set-cookie: GESCHWAERZT
+set-cookie: GESCHWAERZT
+set-cookie: GESCHWAERZT
+strict-transport-security: max-age=31536000; includeSubDomains; preload
+x-accel-buffering: no
+x-accel-buffering: no
+x-content-type-options: nosniff
+x-debug-token: XfHIS5rWQVou1ReMFwBr
+x-debug-token: XfHIS5rWQVou1ReMFwBr
+x-frame-options: DENY
+x-permitted-cross-domain-policies: none
+x-powered-by: PHP/8.5.8
+x-request-id: XfHIS5rWQVou1ReMFwBr
+x-robots-tag: noindex,nofollow
+x-user-id: leser
+x-xss-protection: 1; mode=block
+content-length: 453689
+

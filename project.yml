@@ -1,0 +1,406 @@
+# ══════════════════════════════════════════════════════════════════════
+# Akari - project description for XcodeGen.
+#
+# The `.xcodeproj` is a PRODUCT and is listed in `.gitignore`; this file is the truth.
+# Every setting carries the reason that led to it -
+# whoever changes a line changes a decision.
+# ══════════════════════════════════════════════════════════════════════
+
+name: Akari
+
+options:
+  bundleIdPrefix: dev.ms-solutions
+  # Source language English: the string catalog carries `de`,
+  # `en` and `tr`; the KEYS are English (`tab.library`).
+  developmentLanguage: en
+  deploymentTarget:
+    # iOS 26, not 15 (Readium allows that) and not 18: the tab bar with search role
+    # (`Tab(role: .search)`) and the tab accessory for the mini player only exist from 26 -
+    # and the whole design rests on them. Whoever wants to ship older redraws the shell.
+    iOS: "26.0"
+  createIntermediateGroups: true
+  groupSortPosition: top
+
+# ── Packages ─────────────────────────────────────────────────────────
+# All packages live under Packages/.
+packages:
+  # ── adopted from a sibling project ──
+  # The bedrock (certificate, keychain, diagnostics, crash guard, color table) -
+  # and also `CloudSync`, the CloudKit carrier per profile (zone,
+  # mirror, share, mock). It is shared with a sibling project; two versions
+  # drifted apart within a month. A repo of its own with three consumers.
+  Bedrock:
+    path: Packages/Bedrock
+  # Where the device stands: Wi-Fi, cellular, full tunnel (0.3 Mbit/s). From the
+  # phone part of a sibling project, because the question is literally the same there.
+  NetworkLocation:
+    path: Packages/NetworkLocation
+  # ── own ──
+  SourcesKit:
+    path: Packages/SourcesKit
+  KomgaKit:
+    path: Packages/KomgaKit
+  GrimmoryKit:
+    path: Packages/GrimmoryKit
+  AudiobookshelfKit:
+    path: Packages/AudiobookshelfKit
+  KavitaKit:
+    path: Packages/KavitaKit
+  OpdsKit:
+    path: Packages/OpdsKit
+  WebdavKit:
+    path: Packages/WebdavKit
+  AccountsKit:
+    path: Packages/AccountsKit
+  Library:
+    path: Packages/Library
+  OfflineStore:
+    path: Packages/OfflineStore
+  ReadingProgress:
+    path: Packages/ReadingProgress
+  Metadata:
+    path: Packages/Metadata
+  ComicReader:
+    path: Packages/ComicReader
+  AudioPlayer:
+    path: Packages/AudioPlayer
+  BookReader:
+    path: Packages/BookReader
+  DesignSystem:
+    path: Packages/DesignSystem
+  Features:
+    path: Packages/Features
+  # Performance diagnostics: hangs, stutter, sustained load, MetricKit.
+  PerformanceDiagnostics:
+    path: Packages/PerformanceDiagnostics
+  # What app and widget share: the "Continue reading" snapshot and its
+  # folder in the app group. Foundation only - the extension pulls nothing else.
+  WidgetBridge:
+    path: Packages/WidgetBridge
+
+targets:
+  Akari:
+    type: application
+    platform: iOS
+    sources:
+      - App/Sources
+      # The play/pause intent of the listening widget lives in app AND extension -
+      # WidgetKit looks the type up in the app when executing, the extension needs
+      # it for the button. One file, two targets; no package, because AppIntents in
+      # packages need a registration of their own (`AppIntentsPackage`).
+      - Widget/Intents
+      - path: App/Resources
+        buildPhase: resources
+    # All packages are listed here even though the app target sees most of them only via
+    # `Features` - otherwise it is not visible what belongs to the program.
+    # After a change to a Package.swift, once:
+    #   xcodebuild -project Akari.xcodeproj -scheme Akari \
+    #     -derivedDataPath .dd -resolvePackageDependencies
+    dependencies:
+      - package: Bedrock
+      - package: NetworkLocation
+      - package: SourcesKit
+      - package: KomgaKit
+      - package: GrimmoryKit
+      - package: AudiobookshelfKit
+      - package: KavitaKit
+      - package: OpdsKit
+      - package: WebdavKit
+      - package: Library
+      - package: OfflineStore
+      - package: ReadingProgress
+      - package: Metadata
+      - package: ComicReader
+      - package: AudioPlayer
+      - package: BookReader
+      - package: DesignSystem
+      - package: Features
+      - package: PerformanceDiagnostics
+      - package: WidgetBridge
+      - package: Bedrock
+        product: CloudSync
+      # The "Continue reading" widget - embedded as an extension, built along
+      # and signed along; without this line it would not be in the bundle.
+      - target: AkariWidget
+
+    # Keychain for the three accounts. Wildcard team profiles do not carry app groups;
+    # since the app ID is explicit (needed anyway for keychain sharing), the profile carries the group;
+    # `-allowProvisioningUpdates` creates it in the portal on the first archive.
+    # The widget reads the snapshot from it.
+    entitlements:
+      path: App/Akari.entitlements
+      properties:
+        keychain-access-groups:
+          - $(AppIdentifierPrefix)dev.ms-solutions.akari
+        com.apple.security.application-groups:
+          - group.dev.ms-solutions.akari
+        # The iCloud key-value store carried theme, saved and reading time per profile name;
+        # now it is only read out once (transition into the zone) - the entry
+        # stays until no device has an old state anymore.
+        com.apple.developer.ubiquity-kvstore-identifier: $(TeamIdentifierPrefix)$(CFBundleIdentifier)
+        # CloudKit: one zone per profile in the private database, via CKShare in
+        # the shared one of another Apple ID - the family iPad hangs on a
+        # shared ID, where the key-value store carries nothing. The container must
+        # exist in the portal (-allowProvisioningUpdates creates it on the first archive);
+        # the schema comes from cloudkit/schema.ckdb.
+        com.apple.developer.icloud-services:
+          - CloudKit
+        com.apple.developer.icloud-container-identifiers:
+          - iCloud.dev.ms-solutions.akari
+        # Silent pushes for the database subscriptions. `development` is the value of the
+        # development build; when archiving for the store Xcode sets `production` from the
+        # profile. The "Push Notifications" capability on the app ID is created by
+        # -allowProvisioningUpdates.
+        aps-environment: development
+
+    info:
+      path: App/Info.plist
+      properties:
+        CFBundleDisplayName: Akari
+        # ProMotion: without the key iOS caps every animation of the app
+        # at 60 Hz while the system and other apps run at 120 Hz - everything felt
+        # sluggish beside them. Core Animation still chooses the rate itself; the glow stays at
+        # its 12 frames (`minimumInterval`).
+        CADisableMinimumFrameDurationOnPhone: true
+        # As a REFERENCE, never as a number - the release script checks exactly that.
+        CFBundleShortVersionString: $(MARKETING_VERSION)
+        CFBundleVersion: $(CURRENT_PROJECT_VERSION)
+        UIRequiredDeviceCapabilities: [arm64]
+        ITSAppUsesNonExemptEncryption: false
+
+        # One scene, without storyboard. Without the entry iOS starts with a
+        # black window and without a message.
+        UIApplicationSceneManifest:
+          UIApplicationSupportsMultipleScenes: false
+        # Launch background in paper color (theme Ink, light/dark): the lantern start begins
+        # on the same paper, instead of a system white flashing before.
+        UILaunchScreen:
+          UIColorName: Startgrund
+
+        # Portrait and landscape on both devices - iPad reads landscape with
+        # double spread, iPhone rotates in the comic reader.
+        UISupportedInterfaceOrientations:
+          - UIInterfaceOrientationPortrait
+          - UIInterfaceOrientationLandscapeLeft
+          - UIInterfaceOrientationLandscapeRight
+        UISupportedInterfaceOrientations~ipad:
+          - UIInterfaceOrientationPortrait
+          - UIInterfaceOrientationPortraitUpsideDown
+          - UIInterfaceOrientationLandscapeLeft
+          - UIInterfaceOrientationLandscapeRight
+
+        # NO UIUserInterfaceStyle: the app follows the system (light/dark/
+        # automatic). Only the comic reader is always black,
+        # and it decides that itself.
+
+        # Audiobook keeps playing when the phone goes into the pocket (the entry is already there
+        # so the player finds it). `remote-notification`: a silent push from CloudKit
+        # wakes the app so the zone fetches before the reader opens the sheet. `fetch`:
+        # the background refresh.
+        UIBackgroundModes:
+          - audio
+          - remote-notification
+          - fetch
+
+        # The background refresh for new podcast episodes (`EpisodeRefresher`) - without
+        # this entry iOS discards the task on registration.
+        BGTaskSchedulerPermittedIdentifiers:
+          - dev.ms-solutions.akari.folgen
+
+        # Without this key an iCloud share link does not open the app - iOS
+        # only shows "This app does not support sharing".
+        CKSharingSupported: true
+
+        # Self-hosted servers under `.home` names with their own root
+        # (mkcert). `NSAllowsLocalNetworking` is deliberately NOT set alongside -
+        # the two together cancel each other out (verified in
+        # `Bedrock.TransportSecurityRule`). The app does not know its counterparts
+        # at build time: all three sources are the user's own machines.
+        NSAppTransportSecurity:
+          NSAllowsArbitraryLoads: true
+
+        # Without these entries server discovery on the home network finds nothing and
+        # reports nothing either.
+        NSLocalNetworkUsageDescription:
+          Akari looks for your book, manga and audiobook servers on your home network.
+        NSBonjourServices:
+          - _http._tcp
+          - _https._tcp
+
+        # The camera reads the setup code from the server - and nothing else.
+        # It is only asked for on the setup sheet, not at launch.
+        NSCameraUsageDescription:
+          Akari uses it to read your server’s setup code — nothing else.
+
+        # The setup code is a link `akari://einrichten?...`:
+        # the camera app recognizes it in the QR code and offers "Open in
+        # Akari" - without the app having to open a camera itself.
+        CFBundleURLTypes:
+          - CFBundleURLName: dev.ms-solutions.akari.einrichten
+            CFBundleURLSchemes:
+              - akari
+
+        # Handoff: the open reader reports the title as an activity, the other
+        # device only accepts it if the type is listed here - otherwise the dock stays silent.
+        NSUserActivityTypes:
+          - dev.ms-solutions.akari.lesen
+
+        # Files from the device: EPUB, PDF, CBZ and the own package `.akari`
+        # arrive via "Open in Akari" (AirDrop, Files, Mail) in the inbox
+        # and via `onOpenURL` into the source "On this device". The package is a
+        # type of its own that only this app declares - other apps offer it to nobody.
+        CFBundleDocumentTypes:
+          - CFBundleTypeName: Akari-Paket
+            CFBundleTypeRole: Viewer
+            LSHandlerRank: Owner
+            LSItemContentTypes:
+              - dev.ms-solutions.akari.paket
+          - CFBundleTypeName: E-Book
+            CFBundleTypeRole: Viewer
+            LSHandlerRank: Alternate
+            LSItemContentTypes:
+              - org.idpf.epub-container
+              - com.adobe.pdf
+          - CFBundleTypeName: Comic-Archiv
+            CFBundleTypeRole: Viewer
+            LSHandlerRank: Alternate
+            LSItemContentTypes:
+              - com.akari.cbz
+        LSSupportsOpeningDocumentsInPlace: false
+        UTExportedTypeDeclarations:
+          - UTTypeIdentifier: dev.ms-solutions.akari.paket
+            UTTypeDescription: Akari-Paket
+            UTTypeConformsTo:
+              - public.data
+              - public.archive
+            UTTypeTagSpecification:
+              public.filename-extension:
+                - akari
+              public.mime-type:
+                - application/vnd.akari.paket
+        UTImportedTypeDeclarations:
+          - UTTypeIdentifier: com.akari.cbz
+            UTTypeDescription: Comic Book Archive
+            UTTypeConformsTo:
+              - public.zip-archive
+            UTTypeTagSpecification:
+              public.filename-extension:
+                - cbz
+              public.mime-type:
+                - application/vnd.comicbook+zip
+
+        CFBundleIcons:
+          CFBundlePrimaryIcon:
+            CFBundleIconName: AppIcon
+
+    settings:
+      base:
+        PRODUCT_BUNDLE_IDENTIFIER: dev.ms-solutions.akari
+        MARKETING_VERSION: "0.1.0"
+        CURRENT_PROJECT_VERSION: "1"
+        SWIFT_VERSION: "6.0"
+        # Complete from the start. Adding it later costs a fortune.
+        SWIFT_STRICT_CONCURRENCY: complete
+        # 1,2 = iPhone AND iPad. The iPad is not an afterthought here, but the
+        # place where novels and double spreads are read.
+        TARGETED_DEVICE_FAMILY: "1,2"
+        GENERATE_INFOPLIST_FILE: NO
+        SWIFT_EMIT_LOC_STRINGS: YES
+        ASSETCATALOG_COMPILER_APPICON_NAME: AppIcon
+        # Second icon to choose in the settings: the light candle.
+        ASSETCATALOG_COMPILER_ALTERNATE_APPICON_NAMES: AppIconKerze
+        ASSETCATALOG_COMPILER_INCLUDE_ALL_APPICON_ASSETS: YES
+        ENABLE_USER_SCRIPT_SANDBOXING: YES
+        DEAD_CODE_STRIPPING: YES
+
+  # ── Widgets "Continue reading", "Continue listening", "Reading statistics" ──
+  # One WidgetKit extension with a bundle of its own (`…akari.widget`), its own
+  # language file (the extension looks up in its own bundle, not in the
+  # app's) and the same app group as the
+  # app. Version and build come from the same references as for the app; the release process
+  # passes both as build variables, and Apple requires that they match.
+  # Screenshots for design rounds: a UI test that leads the app through all states via
+  # the `AKARI_PROBE` hooks and a few taps and attaches an image per state.
+  # Not a check run - the quality check does not know it;
+  # it is only started by the screenshot script, which pulls the images from the
+  # .xcresult and files them by date.
+  AkariScreenshots:
+    type: bundle.ui-testing
+    platform: iOS
+    sources:
+      - UITests
+    dependencies:
+      - target: Akari
+    scheme:
+      testTargets:
+        - AkariScreenshots
+    settings:
+      base:
+        PRODUCT_BUNDLE_IDENTIFIER: dev.ms-solutions.akari.screenshots
+        # Swift 5: XCTest and Swift 6 isolation only get along with detours, and
+        # this code never goes on a device.
+        SWIFT_VERSION: "5.0"
+        TARGETED_DEVICE_FAMILY: "1,2"
+        GENERATE_INFOPLIST_FILE: YES
+        TEST_TARGET_NAME: Akari
+
+  # The jank test: measures hanging frames while scrolling, zooming and
+  # dragging. Like the screenshots not part of the quality check - a script
+  # starts it before a TestFlight build, on a connected iPhone or in the simulator.
+  AkariFlow:
+    type: bundle.ui-testing
+    platform: iOS
+    sources:
+      - UIFlow
+    dependencies:
+      - target: Akari
+    scheme:
+      testTargets:
+        - AkariFlow
+    settings:
+      base:
+        PRODUCT_BUNDLE_IDENTIFIER: dev.ms-solutions.akari.flow
+        SWIFT_VERSION: "5.0"
+        TARGETED_DEVICE_FAMILY: "1,2"
+        GENERATE_INFOPLIST_FILE: YES
+        TEST_TARGET_NAME: Akari
+
+  AkariWidget:
+    type: app-extension
+    platform: iOS
+    sources:
+      - Widget/Sources
+      - Widget/Intents
+      - path: Widget/Resources
+        buildPhase: resources
+    dependencies:
+      - package: WidgetBridge
+      - sdk: WidgetKit.framework
+      - sdk: SwiftUI.framework
+      - sdk: AppIntents.framework
+    entitlements:
+      path: Widget/AkariWidget.entitlements
+      properties:
+        com.apple.security.application-groups:
+          - group.dev.ms-solutions.akari
+    info:
+      path: Widget/Info.plist
+      properties:
+        CFBundleDisplayName: Akari
+        CFBundleShortVersionString: $(MARKETING_VERSION)
+        CFBundleVersion: $(CURRENT_PROJECT_VERSION)
+        NSExtension:
+          NSExtensionPointIdentifier: com.apple.widgetkit-extension
+    settings:
+      base:
+        PRODUCT_BUNDLE_IDENTIFIER: dev.ms-solutions.akari.widget
+        MARKETING_VERSION: "0.1.0"
+        CURRENT_PROJECT_VERSION: "1"
+        SWIFT_VERSION: "6.0"
+        SWIFT_STRICT_CONCURRENCY: complete
+        TARGETED_DEVICE_FAMILY: "1,2"
+        GENERATE_INFOPLIST_FILE: NO
+        SWIFT_EMIT_LOC_STRINGS: YES
+        ENABLE_USER_SCRIPT_SANDBOXING: YES
+        DEAD_CODE_STRIPPING: YES
+        SKIP_INSTALL: YES

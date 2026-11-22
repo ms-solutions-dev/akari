@@ -1,0 +1,48 @@
+{
+  "id": "c0b03793-7d99-4f00-a805-0d1a2f3073d5",
+  "username": "leser",
+  "email": null,
+  "type": "root",
+  "token": "GESCHWAERZT",
+  "isOldToken": true,
+  "mediaProgress": [
+    {
+      "id": "43a10cee-ddde-4ce9-b5c7-1f86edb870a7",
+      "userId": "c0b03793-7d99-4f00-a805-0d1a2f3073d5",
+      "libraryItemId": "b5870c20-7d6d-418b-891a-c8f10fdfb29d",
+      "episodeId": null,
+      "mediaItemId": "f3792e16-f643-4baa-ae86-43dbc968205d",
+      "mediaItemType": "book",
+      "duration": 38166.99136200002,
+      "progress": 0.0046257065293136435,
+      "currentTime": 176.54930114746094,
+      "isFinished": false,
+      "hideFromContinueListening": false,
+      "ebookLocation": null,
+      "ebookProgress": 0,
+      "lastUpdate": 1789584186819,
+      "startedAt": 1789584044553,
+      "finishedAt": null
+    }
+  ],
+  "seriesHideFromContinueListening": [],
+  "bookmarks": [],
+  "isActive": true,
+  "isLocked": false,
+  "lastSeen": 1789422859552,
+  "createdAt": 1789391456805,
+  "permissions": {
+    "download": true,
+    "update": true,
+    "delete": true,
+    "upload": true,
+    "createEreader": true,
+    "accessAllLibraries": true,
+    "accessAllTags": true,
+    "accessExplicitContent": true,
+    "selectedTagsNotAccessible": false
+  },
+  "librariesAccessible": [],
+  "itemTagsSelected": [],
+  "hasOpenIDLink": false
+}

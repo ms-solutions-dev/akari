@@ -1,0 +1,22 @@
+{
+  "P569": [
+    {
+      "id": "Q9706092$Q6545X67-86Y0-263F-Z550-6556QB27O7U8",
+      "rank": "normal",
+      "qualifiers": [],
+      "references": [],
+      "property": {
+        "id": "P569",
+        "data_type": "time"
+      },
+      "value": {
+        "type": "value",
+        "content": {
+          "time": "+1979-02-08T00:00:00Z",
+          "precision": 11,
+          "calendarmodel": "http://www.wikidata.org/entity/Q1985727"
+        }
+      }
+    }
+  ]
+}

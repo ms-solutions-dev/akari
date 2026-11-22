@@ -1,0 +1,73 @@
+{
+  "id": 59,
+  "title": "Blom Liwikia",
+  "authors": [
+    "Maprekeit Siacou"
+  ],
+  "thumbnailUrl": "/api/books/59/cover",
+  "readStatus": "READING",
+  "seriesName": "Miakus",
+  "seriesNumber": 6.0,
+  "libraryId": 1,
+  "addedOn": "2026-09-14T16:53:35Z",
+  "lastReadTime": "2026-09-19T03:18:35Z",
+  "subtitle": "Roman (Blom Liwikia - niangopom doprugla 6)",
+  "description": "Description removed from the test data.",
+  "categories": [
+    "Space",
+    "Classics",
+    "Adventure",
+    "Science Fiction Fantasy",
+    "Science Fiction & Fantasy Literary Criticism",
+    "Science Fiction",
+    "Audiobook",
+    "Space Opera",
+    "Ebooks",
+    "Science Fiction Short Stories",
+    "Science Fiction History & Criticism",
+    "Fantasy",
+    "Fiction"
+  ],
+  "publisher": "Klufluve Verlag",
+  "publishedDate": "2022-11-13",
+  "pageCount": 661,
+  "isbn13": "4747482391149",
+  "language": "de",
+  "goodreadsRating": 3.95,
+  "goodreadsReviewCount": 35227,
+  "libraryName": "Bücher",
+  "shelves": [],
+  "readProgress": 0.899,
+  "primaryFileType": "EPUB",
+  "fileTypes": [
+    "EPUB"
+  ],
+  "files": [
+    {
+      "id": 75,
+      "bookId": 59,
+      "fileName": "Siacou, D. - Blom Liwikia.12-Blom Liwikia.epub",
+      "folderBased": false,
+      "bookType": "EPUB",
+      "fileSizeKb": 1605,
+      "extension": "epub",
+      "addedOn": "2026-09-14T16:53:35Z",
+      "book": true,
+      "primary": true
+    }
+  ],
+  "coverUpdatedOn": "2026-09-14T16:53:36Z",
+  "isPhysical": false,
+  "epubProgress": {
+    "cfi": "epubcfi(/6/114!/4[a278-1-170-15587-7]/2/460)",
+    "href": null,
+    "percentage": 89.9,
+    "updatedAt": "2026-09-19T03:18:35Z"
+  },
+  "koreaderProgress": {
+    "percentage": 0.899,
+    "device": null,
+    "deviceId": null,
+    "lastSyncTime": "2026-09-19T03:18:35Z"
+  }
+}

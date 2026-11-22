@@ -1,0 +1,179 @@
+{
+  "id": "0RM6ZZJWZS971",
+  "libraryId": "0RM392RM9XMC6",
+  "name": "Fiahot slem Wani",
+  "url": "/data/Fiahot slem Wani",
+  "created": "2026-09-14T21:50:57Z",
+  "lastModified": "2026-09-14T21:50:57Z",
+  "fileLastModified": "2026-09-14T23:50:42Z",
+  "booksCount": 6,
+  "booksReadCount": 0,
+  "booksUnreadCount": 6,
+  "booksInProgressCount": 0,
+  "metadata": {
+    "status": "ENDED",
+    "statusLock": false,
+    "title": "Fiahot slem Wani",
+    "titleLock": false,
+    "titleSort": "Fiahot slem Wani",
+    "titleSortLock": false,
+    "summary": "Description removed from the test data.",
+    "summaryLock": false,
+    "readingDirection": "RIGHT_TO_LEFT",
+    "readingDirectionLock": false,
+    "publisher": "Hivurn",
+    "publisherLock": false,
+    "ageRating": 16,
+    "ageRatingLock": true,
+    "language": "de",
+    "languageLock": false,
+    "genres": [
+      "psychological",
+      "action",
+      "adventure",
+      "horror",
+      "shounen",
+      "isekai",
+      "tragedy",
+      "drama",
+      "thriller",
+      "crime",
+      "slice of life",
+      "comedy",
+      "mystery",
+      "supernatural"
+    ],
+    "genresLock": false,
+    "tags": [
+      "wahatnas",
+      "keifreflu",
+      "dutbroto jo slus bretraga",
+      "pebroprond dand dinaund",
+      "frolaind giblai",
+      "neivuntrou",
+      "score: 8",
+      "kleikle",
+      "hesspaum nauplau",
+      "bujopail spilepro",
+      "wedruklur",
+      "fiahot kran zepledurn",
+      "plaifreisglot",
+      "stesio hi pliahiada / kliogrou",
+      "druspind drisketwul",
+      "zeskaitos caugodraum",
+      "stesio skou leipu",
+      "praduklo caugodraum",
+      "stesio pria nodrei",
+      "deco kraugogind",
+      "tiblefaul",
+      "skispou",
+      "ceiplei",
+      "klaispaibrour kliabramak/g",
+      "skispou drisketwul",
+      "koniaskio-druspind brouso",
+      "kliabramak vaspai",
+      "trionprioscei",
+      "baifrus kliabramak/g",
+      "prusmem hiamal",
+      "jionuplout",
+      "houwuboul"
+    ],
+    "tagsLock": false,
+    "totalBookCount": 12,
+    "totalBookCountLock": false,
+    "sharingLabels": [],
+    "sharingLabelsLock": false,
+    "links": [
+      {
+        "label": "AniList",
+        "url": "https://anilist.co/manga/42665"
+      },
+      {
+        "label": "MangaUpdates",
+        "url": "https://www.mangaupdates.com/series/8ncybyj/bekauk-frul-steslesfer-frul-fiahot"
+      },
+      {
+        "label": "Kitsu",
+        "url": "https://kitsu.app/manga/507996g4-468j-3c31-q17p-un3o35g0w62y"
+      },
+      {
+        "label": "Anime-Planet",
+        "url": "https://www.anime-planet.com/manga/fiahot-brur-wani"
+      },
+      {
+        "label": "Kitsu",
+        "url": "https://kitsu.app/manga/8062"
+      },
+      {
+        "label": "MyAnimeList",
+        "url": "https://myanimelist.net/manga/36683"
+      },
+      {
+        "label": "Official English",
+        "url": "https://www.hivurn.com/fiahot-brur-wani"
+      }
+    ],
+    "linksLock": false,
+    "alternateTitles": [
+      {
+        "label": "en",
+        "title": "Fiahot slem Wani"
+      },
+      {
+        "label": "Native",
+        "title": "馆涝"
+      },
+      {
+        "label": "Native",
+        "title": "馆涝 Fiahot slem Wani"
+      },
+      {
+        "label": "Romaji",
+        "title": "Bekauk pe Steslesfer plau Fiahot"
+      },
+      {
+        "label": "Romaji",
+        "title": "Bekauk pe Steslesfer plau Fiahot: Fiahot slem Wani"
+      }
+    ],
+    "alternateTitlesLock": false,
+    "created": "2026-09-14T21:50:57Z",
+    "lastModified": "2026-09-16T20:26:03Z"
+  },
+  "booksMetadata": {
+    "authors": [
+      {
+        "name": "Triadroflur Binsiojiarn",
+        "role": "colorist"
+      },
+      {
+        "name": "Triadroflur Binsiojiarn",
+        "role": "cover"
+      },
+      {
+        "name": "Triadroflur Binsiojiarn",
+        "role": "inker"
+      },
+      {
+        "name": "Triadroflur Binsiojiarn",
+        "role": "letterer"
+      },
+      {
+        "name": "Triadroflur Binsiojiarn",
+        "role": "penciller"
+      },
+      {
+        "name": "Triadroflur Binsiojiarn",
+        "role": "writer"
+      }
+    ],
+    "tags": [],
+    "releaseDate": null,
+    "summary": "",
+    "summaryNumber": "",
+    "created": "2026-09-14T21:50:57Z",
+    "lastModified": "2026-09-16T20:19:28Z"
+  },
+  "deleted": false,
+  "oneshot": false
+}

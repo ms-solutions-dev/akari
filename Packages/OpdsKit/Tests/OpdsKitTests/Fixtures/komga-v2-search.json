@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "title": "Search results",
+    "modified": "2026-09-19T08:53:01.606978146+02:00"
+  },
+  "links": [
+    {
+      "title": "Home",
+      "rel": "start",
+      "href": "https://comics.example/opds/v2/catalog",
+      "type": "application/opds+json"
+    },
+    {
+      "title": "Search",
+      "rel": "search",
+      "href": "https://comics.example/opds/v2/search{?query}",
+      "type": "application/opds+json",
+      "templated": true
+    }
+  ]
+}

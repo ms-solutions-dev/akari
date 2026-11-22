@@ -1,0 +1,7 @@
+{
+  "timestamp": "2026-09-19T06:53:01.777+00:00",
+  "status": 401,
+  "error": "Unauthorized",
+  "message": "Unauthorized",
+  "path": "/opds/v2/catalog"
+}

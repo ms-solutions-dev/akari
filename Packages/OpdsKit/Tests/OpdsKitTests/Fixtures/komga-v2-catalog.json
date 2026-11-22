@@ -1,0 +1,769 @@
+{
+  "metadata": {
+    "title": "All libraries - Recommended",
+    "modified": "2026-09-19T08:52:48.790239717+02:00"
+  },
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://comics.example/opds/v2/libraries"
+    },
+    {
+      "title": "Home",
+      "rel": "start",
+      "href": "https://comics.example/opds/v2/catalog",
+      "type": "application/opds+json"
+    },
+    {
+      "title": "Search",
+      "rel": "search",
+      "href": "https://comics.example/opds/v2/search{?query}",
+      "type": "application/opds+json",
+      "templated": true
+    }
+  ],
+  "navigation": [
+    {
+      "title": "Recommended",
+      "rel": "subsection",
+      "href": "https://comics.example/opds/v2/libraries",
+      "type": "application/opds+json"
+    },
+    {
+      "title": "Browse",
+      "rel": "subsection",
+      "href": "https://comics.example/opds/v2/libraries/browse",
+      "type": "application/opds+json"
+    }
+  ],
+  "groups": [
+    {
+      "metadata": {
+        "title": "Libraries"
+      },
+      "links": [
+        {
+          "rel": "self",
+          "href": "https://comics.example/opds/v2/libraries"
+        }
+      ],
+      "navigation": [
+        {
+          "title": "Comics & Manga",
+          "href": "https://comics.example/opds/v2/libraries/0RM392RM9XMC6",
+          "type": "application/opds+json"
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "Keep Reading",
+        "itemsPerPage": 5,
+        "currentPage": 1,
+        "numberOfItems": 2
+      },
+      "links": [
+        {
+          "title": "Keep Reading",
+          "rel": "self",
+          "href": "https://comics.example/opds/v2/libraries/keep-reading",
+          "type": "application/opds+json"
+        }
+      ],
+      "publications": [
+        {
+          "context": "https://readium.org/webpub-manifest/context.jsonld",
+          "metadata": {
+            "title": "Blawosfil Saga 01",
+            "modified": "2026-09-14T18:53:13.324+02:00",
+            "letterer": [
+              "PAKLOLOND Kuklantou"
+            ],
+            "penciler": [
+              "PAKLOLOND Kuklantou"
+            ],
+            "colorist": [
+              "PAKLOLOND Kuklantou"
+            ],
+            "inker": [
+              "PAKLOLOND Kuklantou"
+            ],
+            "contributor": [
+              "PAKLOLOND Kuklantou",
+              "PAKLOLOND Kuklantou"
+            ],
+            "numberOfPages": 227,
+            "belongsTo": {
+              "series": [
+                {
+                  "name": "Blawosfil Saga",
+                  "position": 1.0,
+                  "links": [
+                    {
+                      "href": "https://comics.example/opds/v2/series/0RM4VTYF8PGER",
+                      "type": "application/opds+json"
+                    }
+                  ]
+                }
+              ]
+            }
+          },
+          "links": [
+            {
+              "rel": "self",
+              "href": "https://comics.example/opds/v2/books/0RM4VTYG4PR2H/manifest",
+              "type": "application/divina+json",
+              "properties": {
+                "authenticate": {
+                  "href": "https://comics.example/opds/v2/auth",
+                  "type": "application/opds-authentication+json"
+                }
+              }
+            },
+            {
+              "rel": "http://opds-spec.org/acquisition",
+              "href": "https://comics.example/opds/v2/books/0RM4VTYG4PR2H/file",
+              "type": "application/vnd.comicbook+zip",
+              "properties": {
+                "authenticate": {
+                  "href": "https://comics.example/opds/v2/auth",
+                  "type": "application/opds-authentication+json"
+                }
+              }
+            },
+            {
+              "rel": "http://www.cantook.com/api/progression",
+              "href": "https://comics.example/opds/v2/books/0RM4VTYG4PR2H/progression",
+              "type": "application/vnd.readium.progression+json",
+              "properties": {
+                "authenticate": {
+                  "href": "https://comics.example/opds/v2/auth",
+                  "type": "application/opds-authentication+json"
+                }
+              }
+            }
+          ],
+          "images": [
+            {
+              "href": "https://comics.example/opds/v2/books/0RM4VTYG4PR2H/thumbnail",
+              "type": "image/jpeg",
+              "properties": {
+                "authenticate": {
+                  "href": "https://comics.example/opds/v2/auth",
+                  "type": "application/opds-authentication+json"
+                }
+              }
+            }
+          ],
+          "readingOrder": [],
+          "resources": [],
+          "toc": [],
+          "landmarks": [],
+          "pageList": []
+        },
+        {
+          "context": "https://readium.org/webpub-manifest/context.jsonld",
+          "metadata": {
+            "title": "Skagrausge-Pau_Briatvainkiand_01",
+            "modified": "2026-09-14T18:53:14.476+02:00",
+            "letterer": [
+              "Fave Cegra"
+            ],
+            "penciler": [
+              "Fave Cegra"
+            ],
+            "colorist": [
+              "Fave Cegra"
+            ],
+            "inker": [
+              "Fave Cegra"
+            ],
+            "contributor": [
+              "Fave Cegra",
+              "Fave Cegra",
+              "Spitreblas"
+            ],
+            "numberOfPages": 213,
+            "belongsTo": {
+              "series": [
+                {
+                  "name": "Skagrausge-Pau Briatvainkiand",
+                  "position": 1.0,
+                  "links": [
+                    {
+                      "href": "https://comics.example/opds/v2/series/0RM4VTYHRPJ2Z",
+                      "type": "application/opds+json"
+                    }
+                  ]
+                }
+              ]
+            }
+          },
+          "links": [
+            {
+              "rel": "self",
+              "href": "https://comics.example/opds/v2/books/0RM4VTYHRPJ30/manifest",
+              "type": "application/divina+json",
+              "properties": {
+                "authenticate": {
+                  "href": "https://comics.example/opds/v2/auth",
+                  "type": "application/opds-authentication+json"
+                }
+              }
+            },
+            {
+              "rel": "http://opds-spec.org/acquisition",
+              "href": "https://comics.example/opds/v2/books/0RM4VTYHRPJ30/file",
+              "type": "application/vnd.comicbook+zip",
+              "properties": {
+                "authenticate": {
+                  "href": "https://comics.example/opds/v2/auth",
+                  "type": "application/opds-authentication+json"
+                }
+              }
+            },
+            {
+              "rel": "http://www.cantook.com/api/progression",
+              "href": "https://comics.example/opds/v2/books/0RM4VTYHRPJ30/progression",
+              "type": "application/vnd.readium.progression+json",
+              "properties": {
+                "authenticate": {
+                  "href": "https://comics.example/opds/v2/auth",
+                  "type": "application/opds-authentication+json"
+                }
+              }
+            }
+          ],
+          "images": [
+            {
+              "href": "https://comics.example/opds/v2/books/0RM4VTYHRPJ30/thumbnail",
+              "type": "image/jpeg",
+              "properties": {
+                "authenticate": {
+                  "href": "https://comics.example/opds/v2/auth",
+                  "type": "application/opds-authentication+json"
+                }
+              }
+            }
+          ],
+          "readingOrder": [],
+          "resources": [],
+          "toc": [],
+          "landmarks": [],
+          "pageList": []
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "Latest Books",
+        "itemsPerPage": 5,
+        "currentPage": 1,
+        "numberOfItems": 731
+      },
+      "links": [
+        {
+          "title": "Latest Books",
+          "rel": "self",
+          "href": "https://comics.example/opds/v2/libraries/books/latest",
+          "type": "application/opds+json"
+        }
+      ],
+      "publications": [
+        {
+          "context": "https://readium.org/webpub-manifest/context.jsonld",
+          "metadata": {
+            "title": "Spionfleklam_tros_Gubli_19",
+            "modified": "2026-09-18T16:02:28.973+02:00",
+            "letterer": [
+              "Skopal Latrern"
+            ],
+            "penciler": [
+              "Skopal Latrern"
+            ],
+            "colorist": [
+              "Skopal Latrern"
+            ],
+            "inker": [
+              "Skopal Latrern"
+            ],
+            "contributor": [
+              "Brislo Stukleikri",
+              "Skopal Latrern"
+            ],
+            "numberOfPages": 200,
+            "belongsTo": {
+              "series": [
+                {
+                  "name": "Spionfleklam tros Gubli",
+                  "position": 19.0,
+                  "links": [
+                    {
+                      "href": "https://comics.example/opds/v2/series/0RNCV40JW4F58",
+                      "type": "application/opds+json"
+                    }
+                  ]
+                }
+              ]
+            }
+          },
+          "links": [
+            {
+              "rel": "self",
+              "href": "https://comics.example/opds/v2/books/0RNCV40JW4F59/manifest",
+              "type": "application/divina+json",
+              "properties": {
+                "authenticate": {
+                  "href": "https://comics.example/opds/v2/auth",
+                  "type": "application/opds-authentication+json"
+                }
+              }
+            },
+            {
+              "rel": "http://opds-spec.org/acquisition",
+              "href": "https://comics.example/opds/v2/books/0RNCV40JW4F59/file",
+              "type": "application/vnd.comicbook+zip",
+              "properties": {
+                "authenticate": {
+                  "href": "https://comics.example/opds/v2/auth",
+                  "type": "application/opds-authentication+json"
+                }
+              }
+            },
+            {
+              "rel": "http://www.cantook.com/api/progression",
+              "href": "https://comics.example/opds/v2/books/0RNCV40JW4F59/progression",
+              "type": "application/vnd.readium.progression+json",
+              "properties": {
+                "authenticate": {
+                  "href": "https://comics.example/opds/v2/auth",
+                  "type": "application/opds-authentication+json"
+                }
+              }
+            }
+          ],
+          "images": [
+            {
+              "href": "https://comics.example/opds/v2/books/0RNCV40JW4F59/thumbnail",
+              "type": "image/jpeg",
+              "properties": {
+                "authenticate": {
+                  "href": "https://comics.example/opds/v2/auth",
+                  "type": "application/opds-authentication+json"
+                }
+              }
+            }
+          ],
+          "readingOrder": [],
+          "resources": [],
+          "toc": [],
+          "landmarks": [],
+          "pageList": []
+        },
+        {
+          "context": "https://readium.org/webpub-manifest/context.jsonld",
+          "metadata": {
+            "title": "Spionfleklam_tros_Gubli_24",
+            "modified": "2026-09-18T16:02:28.973+02:00",
+            "letterer": [
+              "Skopal Latrern"
+            ],
+            "penciler": [
+              "Skopal Latrern"
+            ],
+            "colorist": [
+              "Skopal Latrern"
+            ],
+            "inker": [
+              "Skopal Latrern"
+            ],
+            "contributor": [
+              "Brislo Stukleikri",
+              "Skopal Latrern"
+            ],
+            "numberOfPages": 219,
+            "belongsTo": {
+              "series": [
+                {
+                  "name": "Spionfleklam tros Gubli",
+                  "position": 24.0,
+                  "links": [
+                    {
+                      "href": "https://comics.example/opds/v2/series/0RNCV40JW4F58",
+                      "type": "application/opds+json"
+                    }
+                  ]
+                }
+              ]
+            }
+          },
+          "links": [
+            {
+              "rel": "self",
+              "href": "https://comics.example/opds/v2/books/0RNCV40JW4F5A/manifest",
+              "type": "application/divina+json",
+              "properties": {
+                "authenticate": {
+                  "href": "https://comics.example/opds/v2/auth",
+                  "type": "application/opds-authentication+json"
+                }
+              }
+            },
+            {
+              "rel": "http://opds-spec.org/acquisition",
+              "href": "https://comics.example/opds/v2/books/0RNCV40JW4F5A/file",
+              "type": "application/vnd.comicbook+zip",
+              "properties": {
+                "authenticate": {
+                  "href": "https://comics.example/opds/v2/auth",
+                  "type": "application/opds-authentication+json"
+                }
+              }
+            },
+            {
+              "rel": "http://www.cantook.com/api/progression",
+              "href": "https://comics.example/opds/v2/books/0RNCV40JW4F5A/progression",
+              "type": "application/vnd.readium.progression+json",
+              "properties": {
+                "authenticate": {
+                  "href": "https://comics.example/opds/v2/auth",
+                  "type": "application/opds-authentication+json"
+                }
+              }
+            }
+          ],
+          "images": [
+            {
+              "href": "https://comics.example/opds/v2/books/0RNCV40JW4F5A/thumbnail",
+              "type": "image/jpeg",
+              "properties": {
+                "authenticate": {
+                  "href": "https://comics.example/opds/v2/auth",
+                  "type": "application/opds-authentication+json"
+                }
+              }
+            }
+          ],
+          "readingOrder": [],
+          "resources": [],
+          "toc": [],
+          "landmarks": [],
+          "pageList": []
+        },
+        {
+          "context": "https://readium.org/webpub-manifest/context.jsonld",
+          "metadata": {
+            "title": "Spionfleklam_tros_Gubli_23",
+            "modified": "2026-09-18T16:02:28.973+02:00",
+            "letterer": [
+              "Skopal Latrern"
+            ],
+            "penciler": [
+              "Skopal Latrern"
+            ],
+            "colorist": [
+              "Skopal Latrern"
+            ],
+            "inker": [
+              "Skopal Latrern"
+            ],
+            "contributor": [
+              "Brislo Stukleikri",
+              "Skopal Latrern"
+            ],
+            "numberOfPages": 195,
+            "belongsTo": {
+              "series": [
+                {
+                  "name": "Spionfleklam tros Gubli",
+                  "position": 23.0,
+                  "links": [
+                    {
+                      "href": "https://comics.example/opds/v2/series/0RNCV40JW4F58",
+                      "type": "application/opds+json"
+                    }
+                  ]
+                }
+              ]
+            }
+          },
+          "links": [
+            {
+              "rel": "self",
+              "href": "https://comics.example/opds/v2/books/0RNCV40JW4F5B/manifest",
+              "type": "application/divina+json",
+              "properties": {
+                "authenticate": {
+                  "href": "https://comics.example/opds/v2/auth",
+                  "type": "application/opds-authentication+json"
+                }
+              }
+            },
+            {
+              "rel": "http://opds-spec.org/acquisition",
+              "href": "https://comics.example/opds/v2/books/0RNCV40JW4F5B/file",
+              "type": "application/vnd.comicbook+zip",
+              "properties": {
+                "authenticate": {
+                  "href": "https://comics.example/opds/v2/auth",
+                  "type": "application/opds-authentication+json"
+                }
+              }
+            },
+            {
+              "rel": "http://www.cantook.com/api/progression",
+              "href": "https://comics.example/opds/v2/books/0RNCV40JW4F5B/progression",
+              "type": "application/vnd.readium.progression+json",
+              "properties": {
+                "authenticate": {
+                  "href": "https://comics.example/opds/v2/auth",
+                  "type": "application/opds-authentication+json"
+                }
+              }
+            }
+          ],
+          "images": [
+            {
+              "href": "https://comics.example/opds/v2/books/0RNCV40JW4F5B/thumbnail",
+              "type": "image/jpeg",
+              "properties": {
+                "authenticate": {
+                  "href": "https://comics.example/opds/v2/auth",
+                  "type": "application/opds-authentication+json"
+                }
+              }
+            }
+          ],
+          "readingOrder": [],
+          "resources": [],
+          "toc": [],
+          "landmarks": [],
+          "pageList": []
+        },
+        {
+          "context": "https://readium.org/webpub-manifest/context.jsonld",
+          "metadata": {
+            "title": "Spionfleklam_tros_Gubli_09",
+            "modified": "2026-09-18T16:02:28.972+02:00",
+            "letterer": [
+              "Skopal Latrern"
+            ],
+            "penciler": [
+              "Skopal Latrern"
+            ],
+            "colorist": [
+              "Skopal Latrern"
+            ],
+            "inker": [
+              "Skopal Latrern"
+            ],
+            "contributor": [
+              "Brislo Stukleikri",
+              "Skopal Latrern"
+            ],
+            "numberOfPages": 162,
+            "belongsTo": {
+              "series": [
+                {
+                  "name": "Spionfleklam tros Gubli",
+                  "position": 9.0,
+                  "links": [
+                    {
+                      "href": "https://comics.example/opds/v2/series/0RNCV40JW4F58",
+                      "type": "application/opds+json"
+                    }
+                  ]
+                }
+              ]
+            }
+          },
+          "links": [
+            {
+              "rel": "self",
+              "href": "https://comics.example/opds/v2/books/0RNCV40JW4F5C/manifest",
+              "type": "application/divina+json",
+              "properties": {
+                "authenticate": {
+                  "href": "https://comics.example/opds/v2/auth",
+                  "type": "application/opds-authentication+json"
+                }
+              }
+            },
+            {
+              "rel": "http://opds-spec.org/acquisition",
+              "href": "https://comics.example/opds/v2/books/0RNCV40JW4F5C/file",
+              "type": "application/vnd.comicbook+zip",
+              "properties": {
+                "authenticate": {
+                  "href": "https://comics.example/opds/v2/auth",
+                  "type": "application/opds-authentication+json"
+                }
+              }
+            },
+            {
+              "rel": "http://www.cantook.com/api/progression",
+              "href": "https://comics.example/opds/v2/books/0RNCV40JW4F5C/progression",
+              "type": "application/vnd.readium.progression+json",
+              "properties": {
+                "authenticate": {
+                  "href": "https://comics.example/opds/v2/auth",
+                  "type": "application/opds-authentication+json"
+                }
+              }
+            }
+          ],
+          "images": [
+            {
+              "href": "https://comics.example/opds/v2/books/0RNCV40JW4F5C/thumbnail",
+              "type": "image/jpeg",
+              "properties": {
+                "authenticate": {
+                  "href": "https://comics.example/opds/v2/auth",
+                  "type": "application/opds-authentication+json"
+                }
+              }
+            }
+          ],
+          "readingOrder": [],
+          "resources": [],
+          "toc": [],
+          "landmarks": [],
+          "pageList": []
+        },
+        {
+          "context": "https://readium.org/webpub-manifest/context.jsonld",
+          "metadata": {
+            "title": "Spionfleklam_tros_Gubli_04",
+            "modified": "2026-09-18T16:02:28.971+02:00",
+            "letterer": [
+              "Skopal Latrern"
+            ],
+            "penciler": [
+              "Skopal Latrern"
+            ],
+            "colorist": [
+              "Skopal Latrern"
+            ],
+            "inker": [
+              "Skopal Latrern"
+            ],
+            "contributor": [
+              "Brislo Stukleikri",
+              "Skopal Latrern"
+            ],
+            "numberOfPages": 162,
+            "belongsTo": {
+              "series": [
+                {
+                  "name": "Spionfleklam tros Gubli",
+                  "position": 4.0,
+                  "links": [
+                    {
+                      "href": "https://comics.example/opds/v2/series/0RNCV40JW4F58",
+                      "type": "application/opds+json"
+                    }
+                  ]
+                }
+              ]
+            }
+          },
+          "links": [
+            {
+              "rel": "self",
+              "href": "https://comics.example/opds/v2/books/0RNCV40JW4F5D/manifest",
+              "type": "application/divina+json",
+              "properties": {
+                "authenticate": {
+                  "href": "https://comics.example/opds/v2/auth",
+                  "type": "application/opds-authentication+json"
+                }
+              }
+            },
+            {
+              "rel": "http://opds-spec.org/acquisition",
+              "href": "https://comics.example/opds/v2/books/0RNCV40JW4F5D/file",
+              "type": "application/vnd.comicbook+zip",
+              "properties": {
+                "authenticate": {
+                  "href": "https://comics.example/opds/v2/auth",
+                  "type": "application/opds-authentication+json"
+                }
+              }
+            },
+            {
+              "rel": "http://www.cantook.com/api/progression",
+              "href": "https://comics.example/opds/v2/books/0RNCV40JW4F5D/progression",
+              "type": "application/vnd.readium.progression+json",
+              "properties": {
+                "authenticate": {
+                  "href": "https://comics.example/opds/v2/auth",
+                  "type": "application/opds-authentication+json"
+                }
+              }
+            }
+          ],
+          "images": [
+            {
+              "href": "https://comics.example/opds/v2/books/0RNCV40JW4F5D/thumbnail",
+              "type": "image/jpeg",
+              "properties": {
+                "authenticate": {
+                  "href": "https://comics.example/opds/v2/auth",
+                  "type": "application/opds-authentication+json"
+                }
+              }
+            }
+          ],
+          "readingOrder": [],
+          "resources": [],
+          "toc": [],
+          "landmarks": [],
+          "pageList": []
+        }
+      ]
+    },
+    {
+      "metadata": {
+        "title": "Latest Series",
+        "itemsPerPage": 5,
+        "currentPage": 1,
+        "numberOfItems": 31
+      },
+      "links": [
+        {
+          "title": "Latest Series",
+          "rel": "self",
+          "href": "https://comics.example/opds/v2/libraries/series/latest",
+          "type": "application/opds+json"
+        }
+      ],
+      "navigation": [
+        {
+          "title": "Spionfleklam tros Gubli",
+          "href": "https://comics.example/opds/v2/series/0RNCV40JW4F58",
+          "type": "application/opds+json"
+        },
+        {
+          "title": "Kojam Cade zoskucourn pelosam",
+          "href": "https://comics.example/opds/v2/series/0RNCQ4M1C4130",
+          "type": "application/opds+json"
+        },
+        {
+          "title": "Ploudon Kiaziva",
+          "href": "https://comics.example/opds/v2/series/0RNCQ4KW0461V",
+          "type": "application/opds+json"
+        },
+        {
+          "title": "Bokraisik-Tesklar Ceilistuk",
+          "href": "https://comics.example/opds/v2/series/0RNCQ4KK446MQ",
+          "type": "application/opds+json"
+        },
+        {
+          "title": "Feskibron & Metrouceis",
+          "href": "https://comics.example/opds/v2/series/0RNCQ4KJR4EZ6",
+          "type": "application/opds+json"
+        }
+      ]
+    }
+  ]
+}

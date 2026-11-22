@@ -1,0 +1,41 @@
+{
+  "id": "eda12180-b631-4b53-b38d-f80bfd8c75e1",
+  "name": "Hörbücher",
+  "folders": [
+    {
+      "id": "c2783162-4ae9-4208-8db9-a371849bde77",
+      "fullPath": "/audiobooks",
+      "libraryId": "eda12180-b631-4b53-b38d-f80bfd8c75e1",
+      "addedAt": 1789391497555
+    }
+  ],
+  "displayOrder": 1,
+  "icon": "database",
+  "mediaType": "book",
+  "provider": "audible.de",
+  "settings": {
+    "coverAspectRatio": 1,
+    "disableWatcher": false,
+    "autoScanCronExpression": null,
+    "skipMatchingMediaWithAsin": false,
+    "skipMatchingMediaWithIsbn": false,
+    "audiobooksOnly": false,
+    "epubsAllowScriptedContent": false,
+    "hideSingleBookSeries": false,
+    "onlyShowLaterBooksInContinueSeries": false,
+    "metadataPrecedence": [
+      "folderStructure",
+      "audioMetatags",
+      "nfoFile",
+      "txtFiles",
+      "opfFile",
+      "absMetadata"
+    ],
+    "markAsFinishedPercentComplete": null,
+    "markAsFinishedTimeRemaining": 10
+  },
+  "lastScan": 1789422769377,
+  "lastScanVersion": "2.36.0",
+  "createdAt": 1789391497538,
+  "lastUpdate": 1789422769378
+}

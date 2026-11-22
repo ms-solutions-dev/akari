@@ -1,0 +1,197 @@
+{
+  "content": [
+    {
+      "id": "0RM4VTYHRPJ30",
+      "seriesId": "0RM4VTYHRPJ2Z",
+      "seriesTitle": "Skagrausge-Pau Briatvainkiand",
+      "libraryId": "0RM392RM9XMC6",
+      "name": "Skagrausge-Pau_Briatvainkiand_01",
+      "url": "/data/Skagrausge-Pau Briatvainkiand/Skagrausge-Pau_Briatvainkiand_01.cbz",
+      "number": 1,
+      "created": "2026-09-14T16:53:13Z",
+      "lastModified": "2026-09-14T16:53:14Z",
+      "fileLastModified": "2026-09-14T15:16:11Z",
+      "sizeBytes": 77216004,
+      "size": "73.6 MiB",
+      "media": {
+        "status": "READY",
+        "mediaType": "application/zip",
+        "pagesCount": 213,
+        "comment": "",
+        "epubDivinaCompatible": false,
+        "epubIsKepub": false,
+        "mediaProfile": "DIVINA"
+      },
+      "metadata": {
+        "title": "Skagrausge-Pau_Briatvainkiand_01",
+        "titleLock": false,
+        "summary": "",
+        "summaryLock": false,
+        "number": "1",
+        "numberLock": false,
+        "numberSort": 1.0,
+        "numberSortLock": false,
+        "releaseDate": null,
+        "releaseDateLock": false,
+        "authors": [
+          {
+            "name": "Fave Cegra",
+            "role": "penciller"
+          },
+          {
+            "name": "Fave Cegra",
+            "role": "inker"
+          },
+          {
+            "name": "Fave Cegra",
+            "role": "colorist"
+          },
+          {
+            "name": "Fave Cegra",
+            "role": "letterer"
+          },
+          {
+            "name": "Fave Cegra",
+            "role": "cover"
+          },
+          {
+            "name": "Fave Cegra",
+            "role": "writer"
+          },
+          {
+            "name": "Spitreblas",
+            "role": "writer"
+          }
+        ],
+        "authorsLock": false,
+        "tags": [],
+        "tagsLock": false,
+        "isbn": "",
+        "isbnLock": false,
+        "links": [],
+        "linksLock": false,
+        "created": "2026-09-14T16:53:13Z",
+        "lastModified": "2026-09-16T20:18:28Z"
+      },
+      "readProgress": {
+        "page": 4,
+        "completed": false,
+        "readDate": "2026-09-14T17:19:09Z",
+        "created": "2026-09-14T17:19:09Z",
+        "lastModified": "2026-09-14T17:19:09Z",
+        "deviceId": "",
+        "deviceName": ""
+      },
+      "deleted": false,
+      "fileHash": "",
+      "oneshot": false
+    },
+    {
+      "id": "0RM4VTYG4PR2H",
+      "seriesId": "0RM4VTYF8PGER",
+      "seriesTitle": "Blawosfil Saga",
+      "libraryId": "0RM392RM9XMC6",
+      "name": "Blawosfil Saga 01",
+      "url": "/data/Blawosfil Saga/Blawosfil Saga 01.cbz",
+      "number": 1,
+      "created": "2026-09-14T16:53:12Z",
+      "lastModified": "2026-09-14T16:53:13Z",
+      "fileLastModified": "2026-09-14T15:01:47Z",
+      "sizeBytes": 154535691,
+      "size": "147.4 MiB",
+      "media": {
+        "status": "READY",
+        "mediaType": "application/zip",
+        "pagesCount": 227,
+        "comment": "",
+        "epubDivinaCompatible": false,
+        "epubIsKepub": false,
+        "mediaProfile": "DIVINA"
+      },
+      "metadata": {
+        "title": "Blawosfil Saga 01",
+        "titleLock": false,
+        "summary": "",
+        "summaryLock": false,
+        "number": "1",
+        "numberLock": false,
+        "numberSort": 1.0,
+        "numberSortLock": false,
+        "releaseDate": null,
+        "releaseDateLock": false,
+        "authors": [
+          {
+            "name": "PAKLOLOND Kuklantou",
+            "role": "writer"
+          },
+          {
+            "name": "PAKLOLOND Kuklantou",
+            "role": "penciller"
+          },
+          {
+            "name": "PAKLOLOND Kuklantou",
+            "role": "inker"
+          },
+          {
+            "name": "PAKLOLOND Kuklantou",
+            "role": "colorist"
+          },
+          {
+            "name": "PAKLOLOND Kuklantou",
+            "role": "letterer"
+          },
+          {
+            "name": "PAKLOLOND Kuklantou",
+            "role": "cover"
+          }
+        ],
+        "authorsLock": false,
+        "tags": [],
+        "tagsLock": false,
+        "isbn": "",
+        "isbnLock": false,
+        "links": [],
+        "linksLock": false,
+        "created": "2026-09-14T16:53:12Z",
+        "lastModified": "2026-09-16T20:18:17Z"
+      },
+      "readProgress": {
+        "page": 8,
+        "completed": false,
+        "readDate": "2026-09-17T07:12:22Z",
+        "created": "2026-09-14T18:01:33Z",
+        "lastModified": "2026-09-17T07:12:22Z",
+        "deviceId": "",
+        "deviceName": ""
+      },
+      "deleted": false,
+      "fileHash": "",
+      "oneshot": false
+    }
+  ],
+  "pageable": {
+    "pageNumber": 0,
+    "pageSize": 100,
+    "sort": {
+      "empty": true,
+      "sorted": false,
+      "unsorted": true
+    },
+    "offset": 0,
+    "paged": true,
+    "unpaged": false
+  },
+  "totalElements": 2,
+  "totalPages": 1,
+  "last": true,
+  "size": 100,
+  "number": 0,
+  "sort": {
+    "empty": true,
+    "sorted": false,
+    "unsorted": true
+  },
+  "numberOfElements": 2,
+  "first": true,
+  "empty": false
+}

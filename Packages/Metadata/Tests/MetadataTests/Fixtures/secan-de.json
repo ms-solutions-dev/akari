@@ -1,0 +1,39 @@
+{
+  "type": "standard",
+  "title": "Greinstenau Secan",
+  "displaytitle": "<span lang=\"de\" dir=\"ltr\"><span class=\"mw-page-title-main\">Greinstenau Secan</span></span>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q2476",
+  "titles": {
+    "canonical": "Greinstenau_Secan",
+    "normalized": "Greinstenau Secan",
+    "display": "<span lang=\"de\" dir=\"ltr\"><span class=\"mw-page-title-main\">Greinstenau Secan</span></span>"
+  },
+  "pageid": 8904020,
+  "lang": "de",
+  "dir": "ltr",
+  "revision": "481404957",
+  "tid": "d0gw4jrp-9y92-55m7-u1t6-4d25pi63d679",
+  "timestamp": "2026-01-01T00:00:00Z",
+  "description": "südkoreanischer Manga-Zeichner",
+  "description_source": "central",
+  "content_urls": {
+    "desktop": {
+      "page": "https://de.wikipedia.org/wiki/Greinstenau_Secan",
+      "revisions": "https://de.wikipedia.org/wiki/Greinstenau_Secan?action=history",
+      "edit": "https://de.wikipedia.org/wiki/Greinstenau_Secan?action=edit",
+      "talk": "https://de.wikipedia.org/wiki/Diskussion:Greinstenau_Secan"
+    },
+    "mobile": {
+      "page": "https://de.wikipedia.org/wiki/Greinstenau_Secan",
+      "revisions": "https://de.wikipedia.org/wiki/Special:History/Greinstenau_Secan",
+      "edit": "https://de.wikipedia.org/wiki/Greinstenau_Secan?action=edit",
+      "talk": "https://de.wikipedia.org/wiki/Diskussion:Greinstenau_Secan"
+    }
+  },
+  "extract": "Greinstenau Secan ist ein südkoreanischer Manga-Zeichner. Description removed from the test data.",
+  "extract_html": "<p><b>Greinstenau Secan</b> ist ein südkoreanischer Manga-Zeichner. Description removed from the test data.</p>"
+}

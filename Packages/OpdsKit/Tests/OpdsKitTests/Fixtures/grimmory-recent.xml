@@ -1,0 +1,903 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/terms/" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
+  <id>urn:booklore:catalog:recent</id>
+  <title>Recently Added Books</title>
+  <updated>2026-09-19T06:53:04.006378100Z</updated>
+  <opensearch:totalResults>865</opensearch:totalResults>
+  <opensearch:startIndex>1</opensearch:startIndex>
+  <opensearch:itemsPerPage>50</opensearch:itemsPerPage>
+  <link rel="self" href="/api/v1/opds/recent?page=1&amp;size=50" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  <link rel="start" href="/api/v1/opds" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <link rel="search" type="application/opensearchdescription+xml" title="Search" href="/api/v1/opds/search.opds"/>
+  <link rel="first" href="/api/v1/opds/recent?page=1&amp;size=50" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  <link rel="next" href="/api/v1/opds/recent?page=2&amp;size=50" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  <link rel="last" href="/api/v1/opds/recent?page=18&amp;size=50" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  <entry>
+    <title>Ja Greweitgrar – Cislotprarn Flopreme</title>
+    <id>urn:booklore:book:946</id>
+    <updated>2026-09-18T13:45:44Z</updated>
+    <author><name>Vioveihi Neifu</name></author>
+    <dc:publisher>Piosul Verlag, Kliatra</dc:publisher>
+    <dc:language>de-DE</dc:language>
+    <link href="/api/v1/opds/946/download?fileId=982" rel="http://opds-spec.org/acquisition" type="application/epub+zip" title="EPUB"/>
+    <link rel="http://opds-spec.org/image" href="/api/v1/opds/946/cover?2026-09-18T13:45:46Z" type="image/jpeg"/>
+    <link rel="http://opds-spec.org/image/thumbnail" href="/api/v1/opds/946/cover?2026-09-18T13:45:46Z" type="image/jpeg"/>
+  </entry>
+  <entry>
+    <title>Ja Greweitgrar - Spot ke Preibiodail (German Edition)</title>
+    <id>urn:booklore:book:945</id>
+    <updated>2026-09-18T13:45:43Z</updated>
+    <author><name>Neifu, Vioveihi</name></author>
+    <dc:publisher>Piosul Verlag</dc:publisher>
+    <dc:language>de</dc:language>
+    <link href="/api/v1/opds/945/download?fileId=981" rel="http://opds-spec.org/acquisition" type="application/epub+zip" title="EPUB"/>
+    <link rel="http://opds-spec.org/image" href="/api/v1/opds/945/cover?2026-09-18T13:45:44Z" type="image/jpeg"/>
+    <link rel="http://opds-spec.org/image/thumbnail" href="/api/v1/opds/945/cover?2026-09-18T13:45:44Z" type="image/jpeg"/>
+  </entry>
+  <entry>
+    <title>Roul Drisketwul Daudrin - Pa Bosas hi flu</title>
+    <id>urn:booklore:book:944</id>
+    <updated>2026-09-18T13:45:41Z</updated>
+    <author><name>Neifu, Vioveihi</name></author>
+    <dc:publisher>b-vuci QM</dc:publisher>
+    <dc:language>de</dc:language>
+    <summary></summary>
+    <link href="/api/v1/opds/944/download?fileId=980" rel="http://opds-spec.org/acquisition" type="application/epub+zip" title="EPUB"/>
+    <link rel="http://opds-spec.org/image" href="/api/v1/opds/944/cover?2026-09-18T13:45:43Z" type="image/jpeg"/>
+    <link rel="http://opds-spec.org/image/thumbnail" href="/api/v1/opds/944/cover?2026-09-18T13:45:43Z" type="image/jpeg"/>
+  </entry>
+  <entry>
+    <title>Drodo Kloslet - Ja Greweitgrar: Krai Prautrok zi Sotrit Troutgefra-Krapaund (Ja Greweitgrar – Sotrit Troutgefra, Band 5)</title>
+    <id>urn:booklore:book:943</id>
+    <updated>2026-09-18T13:45:38Z</updated>
+    <author><name>Vioveihi Neifu</name></author>
+    <dc:publisher>Tretretri Weikend</dc:publisher>
+    <dc:language>de</dc:language>
+    <category term="Science Fiction"/>
+    <category term="Belletristik"/>
+    <category term="Fantasy &amp; Science Fiction"/>
+    <category term="Romane"/>
+    <category term="Kinderbücher"/>
+    <category term="Jugendbücher"/>
+    <summary>Description removed from the test data.</summary>
+    <link href="/api/v1/opds/943/download?fileId=979" rel="http://opds-spec.org/acquisition" type="application/epub+zip" title="EPUB"/>
+    <link rel="http://opds-spec.org/image" href="/api/v1/opds/943/cover?2026-09-18T13:45:41Z" type="image/jpeg"/>
+    <link rel="http://opds-spec.org/image/thumbnail" href="/api/v1/opds/943/cover?2026-09-18T13:45:41Z" type="image/jpeg"/>
+  </entry>
+  <entry>
+    <title>03 Ja Greweitgrar - Slio flu Kabeind</title>
+    <id>urn:booklore:book:942</id>
+    <updated>2026-09-18T13:45:36Z</updated>
+    <author><name>Neifu, Vioveihi</name></author>
+    <dc:publisher>Piosul</dc:publisher>
+    <dc:language>de</dc:language>
+    <link href="/api/v1/opds/942/download?fileId=978" rel="http://opds-spec.org/acquisition" type="application/epub+zip" title="EPUB"/>
+    <link rel="http://opds-spec.org/image" href="/api/v1/opds/942/cover?2026-09-18T13:45:38Z" type="image/jpeg"/>
+    <link rel="http://opds-spec.org/image/thumbnail" href="/api/v1/opds/942/cover?2026-09-18T13:45:38Z" type="image/jpeg"/>
+  </entry>
+  <entry>
+    <title>Pru Sotrit Troutgefra Series Dunur Glauplu</title>
+    <id>urn:booklore:book:941</id>
+    <updated>2026-09-18T13:45:25Z</updated>
+    <author><name>Vioveihi Neifu</name></author>
+    <dc:publisher>Taheibrai Weikend Gamunma&apos;g Books</dc:publisher>
+    <dc:language>en-US</dc:language>
+    <summary>Description removed from the test data.</summary>
+    <link href="/api/v1/opds/941/download?fileId=977" rel="http://opds-spec.org/acquisition" type="application/epub+zip" title="EPUB"/>
+    <link rel="http://opds-spec.org/image" href="/api/v1/opds/941/cover?2026-09-18T13:45:36Z" type="image/jpeg"/>
+    <link rel="http://opds-spec.org/image/thumbnail" href="/api/v1/opds/941/cover?2026-09-18T13:45:36Z" type="image/jpeg"/>
+  </entry>
+  <entry>
+    <title>Ja Greweitgrar - Krai Zapaind (German Edition)</title>
+    <id>urn:booklore:book:940</id>
+    <updated>2026-09-18T13:45:23Z</updated>
+    <author><name>Neifu, Vioveihi</name></author>
+    <dc:publisher>Piosul Verlag</dc:publisher>
+    <dc:language>de</dc:language>
+    <link href="/api/v1/opds/940/download?fileId=976" rel="http://opds-spec.org/acquisition" type="application/epub+zip" title="EPUB"/>
+    <link rel="http://opds-spec.org/image" href="/api/v1/opds/940/cover?2026-09-18T13:45:24Z" type="image/jpeg"/>
+    <link rel="http://opds-spec.org/image/thumbnail" href="/api/v1/opds/940/cover?2026-09-18T13:45:24Z" type="image/jpeg"/>
+  </entry>
+  <entry>
+    <title>Roul Drisketwul Daudrin - Klutkanprit Dobrezil</title>
+    <id>urn:booklore:book:939</id>
+    <updated>2026-09-18T13:45:20Z</updated>
+    <author><name>Neifu, Vioveihi</name></author>
+    <dc:language>de</dc:language>
+    <link href="/api/v1/opds/939/download?fileId=975" rel="http://opds-spec.org/acquisition" type="application/epub+zip" title="EPUB"/>
+    <link rel="http://opds-spec.org/image" href="/api/v1/opds/939/cover?2026-09-18T13:45:22Z" type="image/jpeg"/>
+    <link rel="http://opds-spec.org/image/thumbnail" href="/api/v1/opds/939/cover?2026-09-18T13:45:22Z" type="image/jpeg"/>
+  </entry>
+  <entry>
+    <title>Driskukreis Stouwanfrus. Glupei Hepreglain</title>
+    <id>urn:booklore:book:938</id>
+    <updated>2026-09-18T13:45:18Z</updated>
+    <author><name>Vioveihi Neifu</name></author>
+    <dc:publisher>Piosul</dc:publisher>
+    <dc:language>de</dc:language>
+    <link href="/api/v1/opds/938/download?fileId=974" rel="http://opds-spec.org/acquisition" type="application/epub+zip" title="EPUB"/>
+    <link rel="http://opds-spec.org/image" href="/api/v1/opds/938/cover?2026-09-18T13:45:20Z" type="image/jpeg"/>
+    <link rel="http://opds-spec.org/image/thumbnail" href="/api/v1/opds/938/cover?2026-09-18T13:45:20Z" type="image/jpeg"/>
+  </entry>
+  <entry>
+    <title>Roul Drisketwul Daudrin - Peinwik krer Kiskroum</title>
+    <id>urn:booklore:book:937</id>
+    <updated>2026-09-18T13:45:16Z</updated>
+    <author><name>Neifu, Vioveihi</name></author>
+    <dc:publisher>b-vuci QM</dc:publisher>
+    <dc:language>de</dc:language>
+    <link href="/api/v1/opds/937/download?fileId=973" rel="http://opds-spec.org/acquisition" type="application/epub+zip" title="EPUB"/>
+    <link rel="http://opds-spec.org/image" href="/api/v1/opds/937/cover?2026-09-18T13:45:17Z" type="image/jpeg"/>
+    <link rel="http://opds-spec.org/image/thumbnail" href="/api/v1/opds/937/cover?2026-09-18T13:45:17Z" type="image/jpeg"/>
+  </entry>
+  <entry>
+    <title>Plafro</title>
+    <id>urn:booklore:book:936</id>
+    <updated>2026-09-18T13:45:10Z</updated>
+    <author><name>Kliazei, Vioveihi</name></author>
+    <dc:publisher>Jiblatglok eBook</dc:publisher>
+    <dc:language>de</dc:language>
+    <summary>Description removed from the test data.</summary>
+    <link href="/api/v1/opds/936/download?fileId=972" rel="http://opds-spec.org/acquisition" type="application/epub+zip" title="EPUB"/>
+    <link rel="http://opds-spec.org/image" href="/api/v1/opds/936/cover?2026-09-18T13:45:14Z" type="image/jpeg"/>
+    <link rel="http://opds-spec.org/image/thumbnail" href="/api/v1/opds/936/cover?2026-09-18T13:45:14Z" type="image/jpeg"/>
+  </entry>
+  <entry>
+    <title>Rigobei</title>
+    <id>urn:booklore:book:933</id>
+    <updated>2026-09-16T15:47:49Z</updated>
+    <author><name>Fifresia Voglesauk</name></author>
+    <dc:publisher>Fleidro ebooks</dc:publisher>
+    <dc:language>de-DE</dc:language>
+    <category term="Paranormal"/>
+    <category term="Fantasy"/>
+    <category term="Magic"/>
+    <category term="Young Adult"/>
+    <category term="Romance"/>
+    <category term="Paranormal Romance"/>
+    <category term="Vampires"/>
+    <category term="Supernatural"/>
+    <category term="Witches"/>
+    <category term="Werewolves"/>
+    <summary>Description removed from the test data.</summary>
+    <dc:identifier>urn:isbn:888122381M</dc:identifier>
+    <meta property="belongs-to-collection" id="series">Baugrewo Slibrurn</meta>
+    <link href="/api/v1/opds/933/download?fileId=969" rel="http://opds-spec.org/acquisition" type="application/epub+zip" title="EPUB"/>
+    <link rel="http://opds-spec.org/image" href="/api/v1/opds/933/cover?2026-09-16T15:47:49Z" type="image/jpeg"/>
+    <link rel="http://opds-spec.org/image/thumbnail" href="/api/v1/opds/933/cover?2026-09-16T15:47:49Z" type="image/jpeg"/>
+  </entry>
+  <entry>
+    <title>Jin saikratklol Trufil pru Flugroplur</title>
+    <id>urn:booklore:book:935</id>
+    <updated>2026-09-16T15:47:49Z</updated>
+    <author><name>Kagriorn Jestiat</name></author>
+    <dc:publisher>Fleidro Verlag GmbH</dc:publisher>
+    <dc:language>de-DE</dc:language>
+    <category term="Humorous Fantasy"/>
+    <category term="Military Fantasy"/>
+    <category term="Holiday Fiction"/>
+    <summary>Description removed from the test data.</summary>
+    <dc:identifier>urn:isbn:1731394869</dc:identifier>
+    <meta property="belongs-to-collection" id="series">Gamunma&apos;g Bakund Frionhos</meta>
+    <link href="/api/v1/opds/935/download?fileId=971" rel="http://opds-spec.org/acquisition" type="application/epub+zip" title="EPUB"/>
+    <link rel="http://opds-spec.org/image" href="/api/v1/opds/935/cover?2026-09-16T15:47:49Z" type="image/jpeg"/>
+    <link rel="http://opds-spec.org/image/thumbnail" href="/api/v1/opds/935/cover?2026-09-16T15:47:49Z" type="image/jpeg"/>
+  </entry>
+  <entry>
+    <title>Kouskunurn prel Skitklou</title>
+    <id>urn:booklore:book:929</id>
+    <updated>2026-09-16T15:47:48Z</updated>
+    <author><name>Ceimogur Plunpleigli</name></author>
+    <dc:publisher>Fleidro Taschenbuch</dc:publisher>
+    <dc:language>de</dc:language>
+    <category term="Mystery"/>
+    <category term="Fiction"/>
+    <category term="Cozy Mystery"/>
+    <category term="Cozy"/>
+    <category term="Paranormal"/>
+    <category term="Fantasy"/>
+    <category term="Audiobook"/>
+    <category term="Fantasy Anthologies"/>
+    <category term="Paranormal Mystery"/>
+    <category term="Military Fantasy"/>
+    <category term="Urban Fantasy"/>
+    <category term="Dragons &amp; Mythical Creatures Fantasy"/>
+    <category term="Ghosts"/>
+    <summary>Description removed from the test data.</summary>
+    <dc:identifier>urn:isbn:6765336489</dc:identifier>
+    <meta property="belongs-to-collection" id="series">Sper krauspemen Sifro raut Kroukiot Skaitrudu</meta>
+    <meta property="group-position" refines="#series">3.0</meta>
+    <link href="/api/v1/opds/929/download?fileId=965" rel="http://opds-spec.org/acquisition" type="application/epub+zip" title="EPUB"/>
+    <link rel="http://opds-spec.org/image" href="/api/v1/opds/929/cover?2026-09-16T15:47:48Z" type="image/jpeg"/>
+    <link rel="http://opds-spec.org/image/thumbnail" href="/api/v1/opds/929/cover?2026-09-16T15:47:48Z" type="image/jpeg"/>
+  </entry>
+  <entry>
+    <title>Gagutri Skitklou</title>
+    <id>urn:booklore:book:930</id>
+    <updated>2026-09-16T15:47:48Z</updated>
+    <author><name>Ceimogur Plunpleigli</name></author>
+    <dc:publisher>Fleidro ebooks</dc:publisher>
+    <dc:language>de</dc:language>
+    <category term="Historical Fiction Anthologies"/>
+    <category term="Historical Fiction Short Stories"/>
+    <category term="Popular Anthologies (English)"/>
+    <summary>Description removed from the test data.</summary>
+    <dc:identifier>urn:isbn:7625779902</dc:identifier>
+    <meta property="belongs-to-collection" id="series">Sper krauspemen Sifro raut Kroukiot Skaitrudu</meta>
+    <meta property="group-position" refines="#series">4.0</meta>
+    <link href="/api/v1/opds/930/download?fileId=966" rel="http://opds-spec.org/acquisition" type="application/epub+zip" title="EPUB"/>
+    <link rel="http://opds-spec.org/image" href="/api/v1/opds/930/cover?2026-09-16T15:47:48Z" type="image/jpeg"/>
+    <link rel="http://opds-spec.org/image/thumbnail" href="/api/v1/opds/930/cover?2026-09-16T15:47:48Z" type="image/jpeg"/>
+  </entry>
+  <entry>
+    <title>Plujaswun tre Skitklou</title>
+    <id>urn:booklore:book:931</id>
+    <updated>2026-09-16T15:47:48Z</updated>
+    <author><name>Ceimogur Plunpleigli</name></author>
+    <dc:publisher>Fleidro Taschenbuch</dc:publisher>
+    <dc:language>de</dc:language>
+    <category term="Fiction"/>
+    <category term="Paranormal"/>
+    <category term="Mystery"/>
+    <category term="Fantasy"/>
+    <category term="Crime"/>
+    <category term="Urban Fantasy"/>
+    <category term="Angels"/>
+    <category term="Ghosts"/>
+    <category term="Cozy Mystery"/>
+    <category term="Paranormal Mystery"/>
+    <summary>Description removed from the test data.</summary>
+    <dc:identifier>urn:isbn:3918317538</dc:identifier>
+    <meta property="belongs-to-collection" id="series">Sper krauspemen Sifro raut Kroukiot Skaitrudu</meta>
+    <meta property="group-position" refines="#series">2.0</meta>
+    <link href="/api/v1/opds/931/download?fileId=967" rel="http://opds-spec.org/acquisition" type="application/epub+zip" title="EPUB"/>
+    <link rel="http://opds-spec.org/image" href="/api/v1/opds/931/cover?2026-09-16T15:47:48Z" type="image/jpeg"/>
+    <link rel="http://opds-spec.org/image/thumbnail" href="/api/v1/opds/931/cover?2026-09-16T15:47:48Z" type="image/jpeg"/>
+  </entry>
+  <entry>
+    <title>Bus Draiskeblen fi Skitklou</title>
+    <id>urn:booklore:book:932</id>
+    <updated>2026-09-16T15:47:48Z</updated>
+    <author><name>Ceimogur Plunpleigli</name></author>
+    <dc:publisher>Fleidro Taschenbuch</dc:publisher>
+    <dc:language>de</dc:language>
+    <category term="Fantasy Anthologies"/>
+    <category term="Military Fantasy"/>
+    <category term="Dragons &amp; Mythical Creatures Fantasy"/>
+    <summary>Description removed from the test data.</summary>
+    <dc:identifier>urn:isbn:1986351565</dc:identifier>
+    <meta property="belongs-to-collection" id="series">Sper krauspemen Sifro raut Kroukiot Skaitrudu</meta>
+    <meta property="group-position" refines="#series">1.0</meta>
+    <link href="/api/v1/opds/932/download?fileId=968" rel="http://opds-spec.org/acquisition" type="application/epub+zip" title="EPUB"/>
+    <link rel="http://opds-spec.org/image" href="/api/v1/opds/932/cover?2026-09-16T15:47:49Z" type="image/jpeg"/>
+    <link rel="http://opds-spec.org/image/thumbnail" href="/api/v1/opds/932/cover?2026-09-16T15:47:49Z" type="image/jpeg"/>
+  </entry>
+  <entry>
+    <title>Raspu! Raspu!</title>
+    <id>urn:booklore:book:926</id>
+    <updated>2026-09-16T15:47:47Z</updated>
+    <author><name>Dreiritru Skuniam</name></author>
+    <dc:publisher>Fleidro</dc:publisher>
+    <dc:language>de</dc:language>
+    <category term="Paranormal"/>
+    <category term="Horror"/>
+    <category term="Adult"/>
+    <category term="German Literature"/>
+    <category term="Nonfiction"/>
+    <category term="Paranormal Vampire Romance"/>
+    <category term="Vampires"/>
+    <category term="Supernatural Thrillers"/>
+    <summary>Description removed from the test data.</summary>
+    <dc:identifier>urn:isbn:9783826416</dc:identifier>
+    <link href="/api/v1/opds/926/download?fileId=962" rel="http://opds-spec.org/acquisition" type="application/epub+zip" title="EPUB"/>
+    <link rel="http://opds-spec.org/image" href="/api/v1/opds/926/cover?2026-09-16T15:47:47Z" type="image/jpeg"/>
+    <link rel="http://opds-spec.org/image/thumbnail" href="/api/v1/opds/926/cover?2026-09-16T15:47:47Z" type="image/jpeg"/>
+  </entry>
+  <entry>
+    <title>Watiaspul Couskind</title>
+    <id>urn:booklore:book:927</id>
+    <updated>2026-09-16T15:47:47Z</updated>
+    <author><name>Dreiritru Skuniam</name></author>
+    <dc:publisher>Fleidro</dc:publisher>
+    <dc:language>de</dc:language>
+    <category term="Audiobook"/>
+    <category term="Fiction"/>
+    <category term="Fantasy"/>
+    <category term="German Literature"/>
+    <category term="Ebooks"/>
+    <category term="Epic Fantasy"/>
+    <category term="Fantasy Anthologies"/>
+    <category term="Military Fantasy"/>
+    <category term="High Fantasy"/>
+    <category term="Dark Fantasy"/>
+    <category term="Sci Fi Fantasy"/>
+    <summary>Description removed from the test data.</summary>
+    <dc:identifier>urn:isbn:6767338963</dc:identifier>
+    <meta property="belongs-to-collection" id="series">Staitwogirn grin Slonfle</meta>
+    <meta property="group-position" refines="#series">2.0</meta>
+    <link href="/api/v1/opds/927/download?fileId=963" rel="http://opds-spec.org/acquisition" type="application/epub+zip" title="EPUB"/>
+    <link rel="http://opds-spec.org/image" href="/api/v1/opds/927/cover?2026-09-16T15:47:47Z" type="image/jpeg"/>
+    <link rel="http://opds-spec.org/image/thumbnail" href="/api/v1/opds/927/cover?2026-09-16T15:47:47Z" type="image/jpeg"/>
+  </entry>
+  <entry>
+    <title>Hai Spainpal rail Nitpol</title>
+    <id>urn:booklore:book:928</id>
+    <updated>2026-09-16T15:47:47Z</updated>
+    <author><name>Dreiritru Skuniam</name></author>
+    <dc:publisher>blouretwak.flun</dc:publisher>
+    <dc:language>de</dc:language>
+    <category term="Fantasy"/>
+    <summary>Description removed from the test data.</summary>
+    <dc:identifier>urn:isbn:4306562869</dc:identifier>
+    <meta property="belongs-to-collection" id="series">Je Nitpol</meta>
+    <meta property="group-position" refines="#series">3.0</meta>
+    <link href="/api/v1/opds/928/download?fileId=964" rel="http://opds-spec.org/acquisition" type="application/epub+zip" title="EPUB"/>
+    <link rel="http://opds-spec.org/image" href="/api/v1/opds/928/cover?2026-09-16T15:47:47Z" type="image/jpeg"/>
+    <link rel="http://opds-spec.org/image/thumbnail" href="/api/v1/opds/928/cover?2026-09-16T15:47:47Z" type="image/jpeg"/>
+  </entry>
+  <entry>
+    <title>Frisbro</title>
+    <id>urn:booklore:book:922</id>
+    <updated>2026-09-16T15:47:46Z</updated>
+    <author><name>Dreiritru Skuniam</name></author>
+    <dc:publisher>Fleidro Taschenbuch</dc:publisher>
+    <dc:language>de</dc:language>
+    <category term="Fantasy Anthologies"/>
+    <category term="Military Fantasy"/>
+    <category term="Dragons &amp; Mythical Creatures Fantasy"/>
+    <summary>Description removed from the test data.</summary>
+    <dc:identifier>urn:isbn:7281994818</dc:identifier>
+    <meta property="belongs-to-collection" id="series">Cafraind</meta>
+    <meta property="group-position" refines="#series">2.0</meta>
+    <link href="/api/v1/opds/922/download?fileId=958" rel="http://opds-spec.org/acquisition" type="application/epub+zip" title="EPUB"/>
+    <link rel="http://opds-spec.org/image" href="/api/v1/opds/922/cover?2026-09-16T15:47:46Z" type="image/jpeg"/>
+    <link rel="http://opds-spec.org/image/thumbnail" href="/api/v1/opds/922/cover?2026-09-16T15:47:46Z" type="image/jpeg"/>
+  </entry>
+  <entry>
+    <title>Vuglu Defral</title>
+    <id>urn:booklore:book:923</id>
+    <updated>2026-09-16T15:47:46Z</updated>
+    <author><name>Dreiritru Skuniam</name></author>
+    <dc:publisher>Unbekannt</dc:publisher>
+    <dc:language>de</dc:language>
+    <category term="Fantasy"/>
+    <summary>dajingund</summary>
+    <dc:identifier>urn:isbn:8283115191</dc:identifier>
+    <meta property="belongs-to-collection" id="series">Blauwodri 2 - Sla Trugrelias blo Frotvupren</meta>
+    <meta property="group-position" refines="#series">3.0</meta>
+    <link href="/api/v1/opds/923/download?fileId=959" rel="http://opds-spec.org/acquisition" type="application/epub+zip" title="EPUB"/>
+    <link rel="http://opds-spec.org/image" href="/api/v1/opds/923/cover?2026-09-16T15:47:46Z" type="image/jpeg"/>
+    <link rel="http://opds-spec.org/image/thumbnail" href="/api/v1/opds/923/cover?2026-09-16T15:47:46Z" type="image/jpeg"/>
+  </entry>
+  <entry>
+    <title>Hiot Jaklakre Drak Praimiarn</title>
+    <id>urn:booklore:book:924</id>
+    <updated>2026-09-16T15:47:46Z</updated>
+    <author><name>Dreiritru Skuniam</name></author>
+    <dc:publisher>Fleidro</dc:publisher>
+    <dc:language>de</dc:language>
+    <category term="Fiction"/>
+    <category term="Fantasy"/>
+    <category term="German Literature"/>
+    <category term="Ebooks"/>
+    <category term="Historical Fantasy"/>
+    <category term="High Fantasy"/>
+    <category term="Arthurian"/>
+    <category term="Gaslamp Fantasy"/>
+    <category term="Sci Fi Fantasy"/>
+    <summary>Description removed from the test data.</summary>
+    <dc:identifier>urn:isbn:5790823247</dc:identifier>
+    <meta property="belongs-to-collection" id="series">Blauwodri 1 - Krau Kasaiplou Trugrelias</meta>
+    <meta property="group-position" refines="#series">5.0</meta>
+    <link href="/api/v1/opds/924/download?fileId=960" rel="http://opds-spec.org/acquisition" type="application/epub+zip" title="EPUB"/>
+    <link rel="http://opds-spec.org/image" href="/api/v1/opds/924/cover?2026-09-16T15:47:46Z" type="image/jpeg"/>
+    <link rel="http://opds-spec.org/image/thumbnail" href="/api/v1/opds/924/cover?2026-09-16T15:47:46Z" type="image/jpeg"/>
+  </entry>
+  <entry>
+    <title>Bou Dris Podia Naiflian</title>
+    <id>urn:booklore:book:925</id>
+    <updated>2026-09-16T15:47:46Z</updated>
+    <author><name>Dreiritru Skuniam</name></author>
+    <dc:publisher>Fleidro</dc:publisher>
+    <dc:language>de</dc:language>
+    <category term="Fiction"/>
+    <category term="Fantasy"/>
+    <category term="German Literature"/>
+    <category term="Ebooks"/>
+    <category term="High Fantasy"/>
+    <category term="Sci Fi Fantasy"/>
+    <summary>Description removed from the test data.</summary>
+    <dc:identifier>urn:isbn:6389359520</dc:identifier>
+    <meta property="belongs-to-collection" id="series">Blauwodri 1 - Krau Kasaiplou Trugrelias</meta>
+    <meta property="group-position" refines="#series">4.0</meta>
+    <link href="/api/v1/opds/925/download?fileId=961" rel="http://opds-spec.org/acquisition" type="application/epub+zip" title="EPUB"/>
+    <link rel="http://opds-spec.org/image" href="/api/v1/opds/925/cover?2026-09-16T15:47:47Z" type="image/jpeg"/>
+    <link rel="http://opds-spec.org/image/thumbnail" href="/api/v1/opds/925/cover?2026-09-16T15:47:47Z" type="image/jpeg"/>
+  </entry>
+  <entry>
+    <title>Drai Picor blun Nitpol</title>
+    <id>urn:booklore:book:919</id>
+    <updated>2026-09-16T15:47:45Z</updated>
+    <author><name>Dreiritru Skuniam</name></author>
+    <dc:publisher>blouretwak.flun</dc:publisher>
+    <dc:language>de</dc:language>
+    <category term="Fantasy"/>
+    <summary>Description removed from the test data.</summary>
+    <dc:identifier>urn:isbn:9311282896</dc:identifier>
+    <meta property="belongs-to-collection" id="series">Je Nitpol</meta>
+    <meta property="group-position" refines="#series">4.0</meta>
+    <link href="/api/v1/opds/919/download?fileId=955" rel="http://opds-spec.org/acquisition" type="application/epub+zip" title="EPUB"/>
+    <link rel="http://opds-spec.org/image" href="/api/v1/opds/919/cover?2026-09-16T15:47:45Z" type="image/jpeg"/>
+    <link rel="http://opds-spec.org/image/thumbnail" href="/api/v1/opds/919/cover?2026-09-16T15:47:45Z" type="image/jpeg"/>
+  </entry>
+  <entry>
+    <title>Je Nitpol</title>
+    <id>urn:booklore:book:920</id>
+    <updated>2026-09-16T15:47:45Z</updated>
+    <author><name>Dreiritru Skuniam</name></author>
+    <dc:publisher>Klufluve</dc:publisher>
+    <dc:language>de</dc:language>
+    <category term="Fantasy"/>
+    <category term="Next"/>
+    <category term="lesenswert"/>
+    <summary>Roman 1., 2003 638 S. Taschenbuch Klufluve,</summary>
+    <dc:identifier>urn:isbn:7435307493</dc:identifier>
+    <meta property="belongs-to-collection" id="series">Je Nitpol</meta>
+    <meta property="group-position" refines="#series">1.0</meta>
+    <link href="/api/v1/opds/920/download?fileId=956" rel="http://opds-spec.org/acquisition" type="application/epub+zip" title="EPUB"/>
+    <link rel="http://opds-spec.org/image" href="/api/v1/opds/920/cover?2026-09-16T15:47:45Z" type="image/jpeg"/>
+    <link rel="http://opds-spec.org/image/thumbnail" href="/api/v1/opds/920/cover?2026-09-16T15:47:45Z" type="image/jpeg"/>
+  </entry>
+  <entry>
+    <title>Groufur</title>
+    <id>urn:booklore:book:921</id>
+    <updated>2026-09-16T15:47:45Z</updated>
+    <author><name>Dreiritru Skuniam</name></author>
+    <dc:publisher>Fleidro Verlag</dc:publisher>
+    <dc:language>de-DE</dc:language>
+    <category term="Roman"/>
+    <summary>Description removed from the test data.</summary>
+    <dc:identifier>urn:isbn:4243331260</dc:identifier>
+    <meta property="belongs-to-collection" id="series">Cafraind</meta>
+    <meta property="group-position" refines="#series">3.0</meta>
+    <link href="/api/v1/opds/921/download?fileId=957" rel="http://opds-spec.org/acquisition" type="application/epub+zip" title="EPUB"/>
+    <link rel="http://opds-spec.org/image" href="/api/v1/opds/921/cover?2026-09-16T15:47:46Z" type="image/jpeg"/>
+    <link rel="http://opds-spec.org/image/thumbnail" href="/api/v1/opds/921/cover?2026-09-16T15:47:46Z" type="image/jpeg"/>
+  </entry>
+  <entry>
+    <title>Wu Blojaufriam Tupiatpriol</title>
+    <id>urn:booklore:book:917</id>
+    <updated>2026-09-16T15:47:44Z</updated>
+    <author><name>Dreiritru Skuniam</name></author>
+    <dc:publisher>Fleidro Taschenbuch</dc:publisher>
+    <dc:language>de</dc:language>
+    <category term="Epic Fantasy"/>
+    <category term="Fantasy Anthologies"/>
+    <category term="Military Fantasy"/>
+    <summary>Description removed from the test data.</summary>
+    <dc:identifier>urn:isbn:1297068150</dc:identifier>
+    <meta property="belongs-to-collection" id="series">Staitwogirn grin Slonfle</meta>
+    <meta property="group-position" refines="#series">0.0</meta>
+    <link href="/api/v1/opds/917/download?fileId=953" rel="http://opds-spec.org/acquisition" type="application/epub+zip" title="EPUB"/>
+    <link rel="http://opds-spec.org/image" href="/api/v1/opds/917/cover?2026-09-16T15:47:44Z" type="image/jpeg"/>
+    <link rel="http://opds-spec.org/image/thumbnail" href="/api/v1/opds/917/cover?2026-09-16T15:47:44Z" type="image/jpeg"/>
+  </entry>
+  <entry>
+    <title>Mus Niasgriodrei klu Veibriker</title>
+    <id>urn:booklore:book:918</id>
+    <updated>2026-09-16T15:47:44Z</updated>
+    <author><name>Dreiritru Skuniam</name></author>
+    <dc:publisher>Fleidro Taschenbuch</dc:publisher>
+    <dc:language>de</dc:language>
+    <category term="Fantasy Anthologies"/>
+    <category term="Military Fantasy"/>
+    <category term="Dragons &amp; Mythical Creatures Fantasy"/>
+    <summary>Description removed from the test data.</summary>
+    <dc:identifier>urn:isbn:7687938057</dc:identifier>
+    <meta property="belongs-to-collection" id="series">Cafraind</meta>
+    <meta property="group-position" refines="#series">1.0</meta>
+    <link href="/api/v1/opds/918/download?fileId=954" rel="http://opds-spec.org/acquisition" type="application/epub+zip" title="EPUB"/>
+    <link rel="http://opds-spec.org/image" href="/api/v1/opds/918/cover?2026-09-16T15:47:45Z" type="image/jpeg"/>
+    <link rel="http://opds-spec.org/image/thumbnail" href="/api/v1/opds/918/cover?2026-09-16T15:47:45Z" type="image/jpeg"/>
+  </entry>
+  <entry>
+    <title>Kasaiplou Bliadenflir</title>
+    <id>urn:booklore:book:912</id>
+    <updated>2026-09-16T15:47:43Z</updated>
+    <author><name>Dreiritru Skuniam</name></author>
+    <dc:publisher>Fleidro (com)</dc:publisher>
+    <dc:language>de</dc:language>
+    <category term="Epic Fantasy"/>
+    <category term="Fantasy Anthologies"/>
+    <category term="Military Fantasy"/>
+    <summary>Description removed from the test data.</summary>
+    <dc:identifier>urn:isbn:3827553802</dc:identifier>
+    <meta property="belongs-to-collection" id="series">Staitwogirn grin Slonfle</meta>
+    <meta property="group-position" refines="#series">3.0</meta>
+    <link href="/api/v1/opds/912/download?fileId=948" rel="http://opds-spec.org/acquisition" type="application/epub+zip" title="EPUB"/>
+    <link rel="http://opds-spec.org/image" href="/api/v1/opds/912/cover?2026-09-16T15:47:43Z" type="image/jpeg"/>
+    <link rel="http://opds-spec.org/image/thumbnail" href="/api/v1/opds/912/cover?2026-09-16T15:47:43Z" type="image/jpeg"/>
+  </entry>
+  <entry>
+    <title>Sauplaiskut Retkraundiam</title>
+    <id>urn:booklore:book:913</id>
+    <updated>2026-09-16T15:47:43Z</updated>
+    <author><name>Dreiritru Skuniam</name></author>
+    <dc:publisher>Unbekannt</dc:publisher>
+    <dc:language>de</dc:language>
+    <category term="Fantasy"/>
+    <summary>Description removed from the test data.</summary>
+    <dc:identifier>urn:isbn:8325180312263</dc:identifier>
+    <meta property="belongs-to-collection" id="series">Blauwodri 2 - Sla Trugrelias blo Frotvupren</meta>
+    <meta property="group-position" refines="#series">2.0</meta>
+    <link href="/api/v1/opds/913/download?fileId=949" rel="http://opds-spec.org/acquisition" type="application/epub+zip" title="EPUB"/>
+    <link rel="http://opds-spec.org/image" href="/api/v1/opds/913/cover?2026-09-16T15:47:43Z" type="image/jpeg"/>
+    <link rel="http://opds-spec.org/image/thumbnail" href="/api/v1/opds/913/cover?2026-09-16T15:47:43Z" type="image/jpeg"/>
+  </entry>
+  <entry>
+    <title>Sket Draipeiba Pau Liwumer</title>
+    <id>urn:booklore:book:914</id>
+    <updated>2026-09-16T15:47:43Z</updated>
+    <author><name>Dreiritru Skuniam</name></author>
+    <dc:publisher>Fleidro</dc:publisher>
+    <dc:language>de</dc:language>
+    <category term="Epic Fantasy"/>
+    <category term="Arthurian"/>
+    <category term="Gaslamp Fantasy"/>
+    <summary>Description removed from the test data.</summary>
+    <dc:identifier>urn:isbn:3391292354588</dc:identifier>
+    <meta property="belongs-to-collection" id="series">Blauwodri 1 - Krau Kasaiplou Trugrelias</meta>
+    <meta property="group-position" refines="#series">6.0</meta>
+    <link href="/api/v1/opds/914/download?fileId=950" rel="http://opds-spec.org/acquisition" type="application/epub+zip" title="EPUB"/>
+    <link rel="http://opds-spec.org/image" href="/api/v1/opds/914/cover?2026-09-16T15:47:43Z" type="image/jpeg"/>
+    <link rel="http://opds-spec.org/image/thumbnail" href="/api/v1/opds/914/cover?2026-09-16T15:47:43Z" type="image/jpeg"/>
+  </entry>
+  <entry>
+    <title>Vund Frisgauvaur Cus Rouzot</title>
+    <id>urn:booklore:book:915</id>
+    <updated>2026-09-16T15:47:43Z</updated>
+    <author><name>Dreiritru Skuniam</name></author>
+    <dc:publisher>Fleidro</dc:publisher>
+    <dc:language>de</dc:language>
+    <category term="Roman"/>
+    <category term="Fiction"/>
+    <category term="Fantasy"/>
+    <category term="Audiobook"/>
+    <category term="Historical"/>
+    <category term="German Literature"/>
+    <category term="Ebooks"/>
+    <category term="High Fantasy"/>
+    <category term="Sci Fi Fantasy"/>
+    <summary>Description removed from the test data.</summary>
+    <dc:identifier>urn:isbn:8670096605</dc:identifier>
+    <meta property="belongs-to-collection" id="series">Blauwodri 1 - Krau Kasaiplou Trugrelias</meta>
+    <meta property="group-position" refines="#series">2.0</meta>
+    <link href="/api/v1/opds/915/download?fileId=951" rel="http://opds-spec.org/acquisition" type="application/epub+zip" title="EPUB"/>
+    <link rel="http://opds-spec.org/image" href="/api/v1/opds/915/cover?2026-09-16T15:47:44Z" type="image/jpeg"/>
+    <link rel="http://opds-spec.org/image/thumbnail" href="/api/v1/opds/915/cover?2026-09-16T15:47:44Z" type="image/jpeg"/>
+  </entry>
+  <entry>
+    <title>Trutrio Stesdrirn</title>
+    <id>urn:booklore:book:909</id>
+    <updated>2026-09-16T15:47:42Z</updated>
+    <author><name>Dreiritru Skuniam</name></author>
+    <dc:publisher>Unbekannt</dc:publisher>
+    <dc:language>de</dc:language>
+    <category term="Fantasy"/>
+    <summary>Description removed from the test data.</summary>
+    <dc:identifier>urn:isbn:1471195761</dc:identifier>
+    <meta property="belongs-to-collection" id="series">Blauwodri 2 - Sla Trugrelias blo Frotvupren</meta>
+    <meta property="group-position" refines="#series">1.0</meta>
+    <link href="/api/v1/opds/909/download?fileId=945" rel="http://opds-spec.org/acquisition" type="application/epub+zip" title="EPUB"/>
+    <link rel="http://opds-spec.org/image" href="/api/v1/opds/909/cover?2026-09-16T15:47:42Z" type="image/jpeg"/>
+    <link rel="http://opds-spec.org/image/thumbnail" href="/api/v1/opds/909/cover?2026-09-16T15:47:42Z" type="image/jpeg"/>
+  </entry>
+  <entry>
+    <title>Geisla dadai Blauwodri</title>
+    <id>urn:booklore:book:910</id>
+    <updated>2026-09-16T15:47:42Z</updated>
+    <author><name>Dreiritru Skuniam</name></author>
+    <dc:publisher>Fleidro</dc:publisher>
+    <dc:language>de</dc:language>
+    <category term="Epic Fantasy"/>
+    <category term="Audiobook"/>
+    <category term="Fiction"/>
+    <category term="Fantasy"/>
+    <category term="Historical"/>
+    <category term="Genre Fiction"/>
+    <category term="Dark Fantasy"/>
+    <category term="High Fantasy"/>
+    <category term="German Literature"/>
+    <category term="Ebooks"/>
+    <category term="Sci Fi Fantasy"/>
+    <category term="Fantasy Anthologies"/>
+    <category term="Military Fantasy"/>
+    <summary>Description removed from the test data.</summary>
+    <dc:identifier>urn:isbn:8582736487</dc:identifier>
+    <meta property="belongs-to-collection" id="series">Blauwodri 1 - Krau Kasaiplou Trugrelias</meta>
+    <meta property="group-position" refines="#series">1.0</meta>
+    <link href="/api/v1/opds/910/download?fileId=946" rel="http://opds-spec.org/acquisition" type="application/epub+zip" title="EPUB"/>
+    <link rel="http://opds-spec.org/image" href="/api/v1/opds/910/cover?2026-09-16T15:47:42Z" type="image/jpeg"/>
+    <link rel="http://opds-spec.org/image/thumbnail" href="/api/v1/opds/910/cover?2026-09-16T15:47:42Z" type="image/jpeg"/>
+  </entry>
+  <entry>
+    <title>Fle Kleitrusne spou Nitpol</title>
+    <id>urn:booklore:book:911</id>
+    <updated>2026-09-16T15:47:42Z</updated>
+    <author><name>Dreiritru Skuniam</name></author>
+    <dc:publisher>Fleidro</dc:publisher>
+    <dc:language>de</dc:language>
+    <category term="Action &amp; Adventure Fantasy"/>
+    <category term="Arthurian"/>
+    <category term="Gaslamp Fantasy"/>
+    <summary>Description removed from the test data.</summary>
+    <dc:identifier>urn:isbn:9052871108</dc:identifier>
+    <meta property="belongs-to-collection" id="series">Je Nitpol</meta>
+    <meta property="group-position" refines="#series">5.0</meta>
+    <link href="/api/v1/opds/911/download?fileId=947" rel="http://opds-spec.org/acquisition" type="application/epub+zip" title="EPUB"/>
+    <link rel="http://opds-spec.org/image" href="/api/v1/opds/911/cover?2026-09-16T15:47:43Z" type="image/jpeg"/>
+    <link rel="http://opds-spec.org/image/thumbnail" href="/api/v1/opds/911/cover?2026-09-16T15:47:43Z" type="image/jpeg"/>
+  </entry>
+  <entry>
+    <title>Gutjein Gioson</title>
+    <id>urn:booklore:book:907</id>
+    <updated>2026-09-16T15:47:41Z</updated>
+    <author><name>Dreiritru Skuniam</name></author>
+    <dc:publisher>Fleidro ebooks</dc:publisher>
+    <dc:language>de</dc:language>
+    <category term="Audiobook"/>
+    <category term="Fiction"/>
+    <category term="Fantasy"/>
+    <category term="German Literature"/>
+    <category term="Ebooks"/>
+    <category term="Epic Fantasy"/>
+    <category term="Fantasy Anthologies"/>
+    <category term="Military Fantasy"/>
+    <category term="High Fantasy"/>
+    <category term="Dark Fantasy"/>
+    <category term="Sci Fi Fantasy"/>
+    <summary>Description removed from the test data.</summary>
+    <dc:identifier>urn:isbn:4399556565</dc:identifier>
+    <meta property="belongs-to-collection" id="series">Staitwogirn grin Slonfle</meta>
+    <meta property="group-position" refines="#series">4.0</meta>
+    <link href="/api/v1/opds/907/download?fileId=943" rel="http://opds-spec.org/acquisition" type="application/epub+zip" title="EPUB"/>
+    <link rel="http://opds-spec.org/image" href="/api/v1/opds/907/cover?2026-09-16T15:47:41Z" type="image/jpeg"/>
+    <link rel="http://opds-spec.org/image/thumbnail" href="/api/v1/opds/907/cover?2026-09-16T15:47:41Z" type="image/jpeg"/>
+  </entry>
+  <entry>
+    <title>Spam Glerul Fru Deplublut Sotai</title>
+    <id>urn:booklore:book:908</id>
+    <updated>2026-09-16T15:47:41Z</updated>
+    <author><name>Dreiritru Skuniam</name></author>
+    <dc:publisher>Fleidro</dc:publisher>
+    <dc:language>de</dc:language>
+    <category term="Fiction"/>
+    <category term="Fantasy"/>
+    <category term="German Literature"/>
+    <category term="Ebooks"/>
+    <category term="High Fantasy"/>
+    <category term="Sci Fi Fantasy"/>
+    <summary>Die Kasaiplou Trugrelias. 3. Roman 1075 S. Taschenbuch Klufluve,</summary>
+    <dc:identifier>urn:isbn:8964846905</dc:identifier>
+    <meta property="belongs-to-collection" id="series">Blauwodri 1 - Krau Kasaiplou Trugrelias</meta>
+    <meta property="group-position" refines="#series">3.0</meta>
+    <link href="/api/v1/opds/908/download?fileId=944" rel="http://opds-spec.org/acquisition" type="application/epub+zip" title="EPUB"/>
+    <link rel="http://opds-spec.org/image" href="/api/v1/opds/908/cover?2026-09-16T15:47:42Z" type="image/jpeg"/>
+    <link rel="http://opds-spec.org/image/thumbnail" href="/api/v1/opds/908/cover?2026-09-16T15:47:42Z" type="image/jpeg"/>
+  </entry>
+  <entry>
+    <title>Triasleibou</title>
+    <id>urn:booklore:book:901</id>
+    <updated>2026-09-16T15:47:40Z</updated>
+    <author><name>Greinmes Zawikrai</name></author>
+    <dc:publisher>Fleidro ebooks</dc:publisher>
+    <dc:language>de</dc:language>
+    <category term="Thriller"/>
+    <category term="Mystery"/>
+    <category term="Fantasy"/>
+    <category term="Audiobook"/>
+    <category term="Fairy Tales"/>
+    <category term="Celtic &amp; British Isles Mythology"/>
+    <category term="Celtic, English &amp; Welsh"/>
+    <summary>Description removed from the test data.</summary>
+    <dc:identifier>urn:isbn:4339574620</dc:identifier>
+    <link href="/api/v1/opds/901/download?fileId=937" rel="http://opds-spec.org/acquisition" type="application/epub+zip" title="EPUB"/>
+    <link rel="http://opds-spec.org/image" href="/api/v1/opds/901/cover?2026-09-16T15:47:40Z" type="image/jpeg"/>
+    <link rel="http://opds-spec.org/image/thumbnail" href="/api/v1/opds/901/cover?2026-09-16T15:47:40Z" type="image/jpeg"/>
+  </entry>
+  <entry>
+    <title>Poutsaum Dizuzom</title>
+    <id>urn:booklore:book:902</id>
+    <updated>2026-09-16T15:47:40Z</updated>
+    <author><name>Greinmes Zawikrai</name></author>
+    <dc:publisher>gligri</dc:publisher>
+    <dc:language>de</dc:language>
+    <category term="Horror"/>
+    <category term="Grusel"/>
+    <category term="gelesen"/>
+    <summary>Description removed from the test data.</summary>
+    <dc:identifier>urn:isbn:3068162517</dc:identifier>
+    <link href="/api/v1/opds/902/download?fileId=938" rel="http://opds-spec.org/acquisition" type="application/epub+zip" title="EPUB"/>
+    <link rel="http://opds-spec.org/image" href="/api/v1/opds/902/cover?2026-09-16T15:47:40Z" type="image/jpeg"/>
+    <link rel="http://opds-spec.org/image/thumbnail" href="/api/v1/opds/902/cover?2026-09-16T15:47:40Z" type="image/jpeg"/>
+  </entry>
+  <entry>
+    <title>Tratglisand 5</title>
+    <id>urn:booklore:book:903</id>
+    <updated>2026-09-16T15:47:40Z</updated>
+    <author><name>Klospat Biabratzeirn</name></author>
+    <dc:publisher>Fleidro ebooks</dc:publisher>
+    <dc:language>de</dc:language>
+    <category term="Science Fiction"/>
+    <category term="Fiction"/>
+    <category term="Fantasy"/>
+    <category term="Young Adult"/>
+    <category term="Adventure"/>
+    <category term="Romance"/>
+    <category term="Action"/>
+    <category term="Dystopia"/>
+    <category term="Post Apocalyptic"/>
+    <category term="Teen"/>
+    <summary>Description removed from the test data.</summary>
+    <dc:identifier>urn:isbn:2819503349</dc:identifier>
+    <meta property="belongs-to-collection" id="series">Lanneipras gim Retsio</meta>
+    <meta property="group-position" refines="#series">1.0</meta>
+    <link href="/api/v1/opds/903/download?fileId=939" rel="http://opds-spec.org/acquisition" type="application/epub+zip" title="EPUB"/>
+    <link rel="http://opds-spec.org/image" href="/api/v1/opds/903/cover?2026-09-16T15:47:40Z" type="image/jpeg"/>
+    <link rel="http://opds-spec.org/image/thumbnail" href="/api/v1/opds/903/cover?2026-09-16T15:47:40Z" type="image/jpeg"/>
+  </entry>
+  <entry>
+    <title>Noukru rair Spainpal</title>
+    <id>urn:booklore:book:904</id>
+    <updated>2026-09-16T15:47:40Z</updated>
+    <author><name>Klospat Biabratzeirn</name></author>
+    <dc:publisher>Fleidro ebooks</dc:publisher>
+    <dc:language>de</dc:language>
+    <category term="Science Fiction"/>
+    <category term="Fiction"/>
+    <category term="Fantasy"/>
+    <category term="Young Adult"/>
+    <category term="Adventure"/>
+    <category term="Romance"/>
+    <category term="Action"/>
+    <category term="Dystopia"/>
+    <category term="Post Apocalyptic"/>
+    <category term="Teen"/>
+    <summary>Description removed from the test data.</summary>
+    <dc:identifier>urn:isbn:6755355108</dc:identifier>
+    <meta property="belongs-to-collection" id="series">Lanneipras gim Retsio</meta>
+    <meta property="group-position" refines="#series">2.0</meta>
+    <link href="/api/v1/opds/904/download?fileId=940" rel="http://opds-spec.org/acquisition" type="application/epub+zip" title="EPUB"/>
+    <link rel="http://opds-spec.org/image" href="/api/v1/opds/904/cover?2026-09-16T15:47:40Z" type="image/jpeg"/>
+    <link rel="http://opds-spec.org/image/thumbnail" href="/api/v1/opds/904/cover?2026-09-16T15:47:40Z" type="image/jpeg"/>
+  </entry>
+  <entry>
+    <title>Gunwond Glohe</title>
+    <id>urn:booklore:book:905</id>
+    <updated>2026-09-16T15:47:40Z</updated>
+    <author><name>Brauplairn Tijio</name></author>
+    <dc:publisher>Fleidro ebooks</dc:publisher>
+    <dc:language>de</dc:language>
+    <category term="Science Fiction"/>
+    <summary>Description removed from the test data.</summary>
+    <meta property="belongs-to-collection" id="series">Hauto glo spet Viohaum</meta>
+    <link href="/api/v1/opds/905/download?fileId=941" rel="http://opds-spec.org/acquisition" type="application/epub+zip" title="EPUB"/>
+    <link rel="http://opds-spec.org/image" href="/api/v1/opds/905/cover?2026-09-16T15:47:41Z" type="image/jpeg"/>
+    <link rel="http://opds-spec.org/image/thumbnail" href="/api/v1/opds/905/cover?2026-09-16T15:47:41Z" type="image/jpeg"/>
+  </entry>
+  <entry>
+    <title>Wonudri</title>
+    <id>urn:booklore:book:898</id>
+    <updated>2026-09-16T15:47:39Z</updated>
+    <author><name>Prikleworn Spelain</name></author>
+    <dc:publisher>Fleidro ebooks</dc:publisher>
+    <dc:language>de</dc:language>
+    <category term="Russian &amp; Soviet Poetry"/>
+    <category term="Poetry (English)"/>
+    <category term="Epics"/>
+    <dc:identifier>urn:isbn:137055145X</dc:identifier>
+    <meta property="belongs-to-collection" id="series">Rou plaisgrom Niotkloplei</meta>
+    <meta property="group-position" refines="#series">3.0</meta>
+    <link href="/api/v1/opds/898/download?fileId=934" rel="http://opds-spec.org/acquisition" type="application/epub+zip" title="EPUB"/>
+    <link rel="http://opds-spec.org/image" href="/api/v1/opds/898/cover?2026-09-16T15:47:39Z" type="image/jpeg"/>
+    <link rel="http://opds-spec.org/image/thumbnail" href="/api/v1/opds/898/cover?2026-09-16T15:47:39Z" type="image/jpeg"/>
+  </entry>
+  <entry>
+    <title>Gle Triogiak, tain waflourou trava plauseslou</title>
+    <id>urn:booklore:book:899</id>
+    <updated>2026-09-16T15:47:39Z</updated>
+    <author><name>Prikleworn Spelain</name></author>
+    <dc:publisher>Fleidro</dc:publisher>
+    <dc:language>de</dc:language>
+    <category term="Guide on Private Speeches"/>
+    <summary>Description removed from the test data.</summary>
+    <dc:identifier>urn:isbn:8177333340</dc:identifier>
+    <link href="/api/v1/opds/899/download?fileId=935" rel="http://opds-spec.org/acquisition" type="application/epub+zip" title="EPUB"/>
+    <link rel="http://opds-spec.org/image" href="/api/v1/opds/899/cover?2026-09-16T15:47:39Z" type="image/jpeg"/>
+    <link rel="http://opds-spec.org/image/thumbnail" href="/api/v1/opds/899/cover?2026-09-16T15:47:39Z" type="image/jpeg"/>
+  </entry>
+  <entry>
+    <title>Jo Konaund ske Susrenhai</title>
+    <id>urn:booklore:book:900</id>
+    <updated>2026-09-16T15:47:39Z</updated>
+    <author><name>Greinmes Zawikrai</name></author>
+    <dc:publisher>Fleidro ebooks</dc:publisher>
+    <dc:language>de</dc:language>
+    <category term="Fantasy"/>
+    <summary>Description removed from the test data.</summary>
+    <dc:identifier>urn:isbn:7871771003</dc:identifier>
+    <link href="/api/v1/opds/900/download?fileId=936" rel="http://opds-spec.org/acquisition" type="application/epub+zip" title="EPUB"/>
+    <link rel="http://opds-spec.org/image" href="/api/v1/opds/900/cover?2026-09-16T15:47:39Z" type="image/jpeg"/>
+    <link rel="http://opds-spec.org/image/thumbnail" href="/api/v1/opds/900/cover?2026-09-16T15:47:39Z" type="image/jpeg"/>
+  </entry>
+  <entry>
+    <title>Gotus rern Blenblau</title>
+    <id>urn:booklore:book:895</id>
+    <updated>2026-09-16T15:47:38Z</updated>
+    <author><name>Raitdrair Duglarn</name></author>
+    <dc:publisher>Fleidro Taschenbuch</dc:publisher>
+    <dc:language>de</dc:language>
+    <category term="Fantasy Anthologies"/>
+    <category term="Military Fantasy"/>
+    <category term="Dragons &amp; Mythical Creatures Fantasy"/>
+    <summary>Description removed from the test data.</summary>
+    <dc:identifier>urn:isbn:9099613564</dc:identifier>
+    <meta property="belongs-to-collection" id="series">HU Spudriontraut - Gioson flio Bliopreinkirn</meta>
+    <meta property="group-position" refines="#series">1.0</meta>
+    <link href="/api/v1/opds/895/download?fileId=931" rel="http://opds-spec.org/acquisition" type="application/epub+zip" title="EPUB"/>
+    <link rel="http://opds-spec.org/image" href="/api/v1/opds/895/cover?2026-09-16T15:47:38Z" type="image/jpeg"/>
+    <link rel="http://opds-spec.org/image/thumbnail" href="/api/v1/opds/895/cover?2026-09-16T15:47:38Z" type="image/jpeg"/>
+  </entry>
+  <entry>
+    <title>Rou plaisgrom Niotkloplei</title>
+    <id>urn:booklore:book:896</id>
+    <updated>2026-09-16T15:47:38Z</updated>
+    <author><name>Prikleworn Spelain</name></author>
+    <dc:publisher>Fleidro Verlag</dc:publisher>
+    <dc:language>de</dc:language>
+    <category term="Russian &amp; Soviet Poetry"/>
+    <category term="Poetry (English)"/>
+    <category term="Epics"/>
+    <meta property="belongs-to-collection" id="series">Rou plaisgrom Niotkloplei</meta>
+    <meta property="group-position" refines="#series">1.0</meta>
+    <link href="/api/v1/opds/896/download?fileId=932" rel="http://opds-spec.org/acquisition" type="application/epub+zip" title="EPUB"/>
+    <link rel="http://opds-spec.org/image" href="/api/v1/opds/896/cover?2026-09-16T15:47:38Z" type="image/jpeg"/>
+    <link rel="http://opds-spec.org/image/thumbnail" href="/api/v1/opds/896/cover?2026-09-16T15:47:38Z" type="image/jpeg"/>
+  </entry>
+  <entry>
+    <title>Bilat</title>
+    <id>urn:booklore:book:897</id>
+    <updated>2026-09-16T15:47:38Z</updated>
+    <author><name>Prikleworn Spelain</name></author>
+    <dc:publisher>Fleidro</dc:publisher>
+    <dc:language>de</dc:language>
+    <category term="Greco-Roman Myth &amp; Legend Fantasy eBooks"/>
+    <category term="Greek &amp; Roman"/>
+    <category term="Fantasy Anthologies (Kindle Store)"/>
+    <summary>Description removed from the test data.</summary>
+    <dc:identifier>urn:isbn:5863722866</dc:identifier>
+    <meta property="belongs-to-collection" id="series">Rou plaisgrom Niotkloplei</meta>
+    <meta property="group-position" refines="#series">2.0</meta>
+    <link href="/api/v1/opds/897/download?fileId=933" rel="http://opds-spec.org/acquisition" type="application/epub+zip" title="EPUB"/>
+    <link rel="http://opds-spec.org/image" href="/api/v1/opds/897/cover?2026-09-16T15:47:38Z" type="image/jpeg"/>
+    <link rel="http://opds-spec.org/image/thumbnail" href="/api/v1/opds/897/cover?2026-09-16T15:47:38Z" type="image/jpeg"/>
+  </entry>
+  <entry>
+    <title>Stuvoukras</title>
+    <id>urn:booklore:book:892</id>
+    <updated>2026-09-16T15:47:37Z</updated>
+    <author><name>Raitdrair Duglarn</name></author>
+    <dc:publisher>Fleidro</dc:publisher>
+    <dc:language>de</dc:language>
+    <category term="Fantasy Anthologies"/>
+    <category term="Military Fantasy"/>
+    <category term="Dragons &amp; Mythical Creatures Fantasy"/>
+    <summary>Description removed from the test data.</summary>
+    <dc:identifier>urn:isbn:7321603026</dc:identifier>
+    <meta property="belongs-to-collection" id="series">HU Spudriontraut - Pein Fletnispo-Gati</meta>
+    <meta property="group-position" refines="#series">1.0</meta>
+    <link href="/api/v1/opds/892/download?fileId=928" rel="http://opds-spec.org/acquisition" type="application/epub+zip" title="EPUB"/>
+    <link rel="http://opds-spec.org/image" href="/api/v1/opds/892/cover?2026-09-16T15:47:37Z" type="image/jpeg"/>
+    <link rel="http://opds-spec.org/image/thumbnail" href="/api/v1/opds/892/cover?2026-09-16T15:47:37Z" type="image/jpeg"/>
+  </entry>
+</feed>

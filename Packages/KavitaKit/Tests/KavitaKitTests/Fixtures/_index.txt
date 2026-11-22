@@ -1,0 +1,31 @@
+# KavitaKit — aufgenommen 2026-10-24 23:08
+# Datei | Status | Inhaltstyp | Bytes | Anfrage
+login.json | 200 | application/json; charset=utf-8 | 2425 | POST /api/Account/login
+refresh-account.json | 200 | application/json; charset=utf-8 | 2425 | GET /api/Account/refresh-account
+libraries.json | 200 | application/json; charset=utf-8 | 1612 | GET /api/Library/libraries
+reading-profiles.json | 200 | application/json; charset=utf-8 | 768 | GET /api/reading-profile/all
+series-zahl.json | 200 | application/json; charset=utf-8 | 1156 | POST /api/Series/all-v2?PageNumber=1&PageSize=1
+series.json | 200 | application/json; charset=utf-8 | 4483 | POST /api/Series/all-v2?PageNumber=1&PageSize=500
+volumes-6115.json | 200 | application/json; charset=utf-8 | 2802 | GET /api/Series/volumes?seriesId=6115
+volumes-226.json | 200 | application/json; charset=utf-8 | 2809 | GET /api/Series/volumes?seriesId=226
+volumes-6895.json | 200 | application/json; charset=utf-8 | 2827 | GET /api/Series/volumes?seriesId=6895
+volumes-2246.json | 200 | application/json; charset=utf-8 | 2832 | GET /api/Series/volumes?seriesId=2246
+series-manga.json | 200 | application/json; charset=utf-8 | 2 | POST /api/Series/all-v2?PageNumber=1&PageSize=1
+volumes-buch.json | 200 | application/json; charset=utf-8 | 4798 | GET /api/Series/volumes?seriesId=395
+chapter.json | 200 | application/json; charset=utf-8 | 2244 | GET /api/Series/chapter?chapterId=6687
+volume.json | 200 | application/json; charset=utf-8 | 2800 | GET /api/Volume?volumeId=6634
+serie.json | 200 | application/json; charset=utf-8 | 1095 | GET /api/Series/6115
+progress.json | 200 | application/json; charset=utf-8 | 130 | GET /api/Reader/get-progress?chapterId=6687
+file-dimensions.json | 200 | application/json; charset=utf-8 | 2 | GET /api/Reader/file-dimensions?chapterId=6687
+rating.json | 200 | application/json; charset=utf-8 | 82 | GET /api/Rating/overall-series?seriesId=6115
+series-cover.headers | 200 | — | 0 | GET /api/Image/series-cover?seriesId=6115
+chapter-cover.headers | 200 | — | 0 | GET /api/Image/chapter-cover?chapterId=6687
+reader-image.headers | 404 | — | 0 | GET /api/Reader/image?chapterId=6687&page=0&apiKey=attrappe
+download-chapter.headers | 206 | — | 0 | GET /api/Download/chapter?chapterId=415
+want-to-read.json | 200 | application/json; charset=utf-8 | 2 | POST /api/want-to-read/v2?PageNumber=1&PageSize=500
+collections.json | 200 | application/json; charset=utf-8 | 2 | GET /api/Collection?ownedOnly=false
+readinglists.json | 200 | application/json; charset=utf-8 | 2 | POST /api/ReadingList/lists?PageNumber=1&PageSize=1000&includePromoted=true
+401.json | 401 | — | 0 | GET /api/Library/libraries
+401-login.json | 401 | text/plain; charset=utf-8 | 32 | POST /api/Account/login
+404.json | 404 | application/problem+json; charset=utf-8 | 162 | GET /api/Series/chapter?chapterId=999999999
+abgebrochen.json | — | — | 2241 | abgeschnitten aus series.json

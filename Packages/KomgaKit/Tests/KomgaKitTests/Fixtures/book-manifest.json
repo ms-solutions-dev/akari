@@ -1,0 +1,1338 @@
+{
+  "context": "https://readium.org/webpub-manifest/context.jsonld",
+  "metadata": {
+    "title": "Skagrausge-Pau_Briatvainkiand_01",
+    "conformsTo": "https://readium.org/webpub-manifest/profiles/divina",
+    "modified": "2026-09-14T18:53:14.476+02:00",
+    "language": "de",
+    "letterer": [
+      "Fave Cegra"
+    ],
+    "penciler": [
+      "Fave Cegra"
+    ],
+    "colorist": [
+      "Fave Cegra"
+    ],
+    "inker": [
+      "Fave Cegra"
+    ],
+    "contributor": [
+      "Fave Cegra",
+      "Fave Cegra",
+      "Spitreblas"
+    ],
+    "readingProgression": "rtl",
+    "numberOfPages": 213,
+    "belongsTo": {
+      "series": [
+        {
+          "name": "Skagrausge-Pau Briatvainkiand",
+          "position": 1.0
+        }
+      ]
+    }
+  },
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://comics.example/api/v1/books/0RM4VTYHRPJ30/manifest",
+      "type": "application/divina+json"
+    },
+    {
+      "rel": "http://opds-spec.org/acquisition",
+      "href": "https://comics.example/api/v1/books/0RM4VTYHRPJ30/file",
+      "type": "application/vnd.comicbook+zip"
+    }
+  ],
+  "images": [],
+  "readingOrder": [
+    {
+      "href": "https://comics.example/api/v1/books/0RM4VTYHRPJ30/pages/1?contentNegotiation=false",
+      "type": "image/jpeg",
+      "width": 1328,
+      "height": 1920
+    },
+    {
+      "href": "https://comics.example/api/v1/books/0RM4VTYHRPJ30/pages/2?contentNegotiation=false",
+      "type": "image/jpeg",
+      "width": 1008,
+      "height": 1457
+    },
+    {
+      "href": "https://comics.example/api/v1/books/0RM4VTYHRPJ30/pages/3?contentNegotiation=false",
+      "type": "image/jpeg",
+      "width": 1008,
+      "height": 1457
+    },
+    {
+      "href": "https://comics.example/api/v1/books/0RM4VTYHRPJ30/pages/4?contentNegotiation=false",
+      "type": "image/jpeg",
+      "width": 1008,
+      "height": 1457
+    },
+    {
+      "href": "https://comics.example/api/v1/books/0RM4VTYHRPJ30/pages/5?contentNegotiation=false",
+      "type": "image/jpeg",
+      "width": 1008,
+      "height": 1457
+    },
+    {
+      "href": "https://comics.example/api/v1/books/0RM4VTYHRPJ30/pages/6?contentNegotiation=false",
+      "type": "image/jpeg",
+      "width": 1008,
+      "height": 1457
+    },
+    {
+      "href": "https://comics.example/api/v1/books/0RM4VTYHRPJ30/pages/7?contentNegotiation=false",
+      "type": "image/jpeg",
+      "width": 1008,
+      "height": 1457
+    },
+    {
+      "href": "https://comics.example/api/v1/books/0RM4VTYHRPJ30/pages/8?contentNegotiation=false",
+      "type": "image/jpeg",
+      "width": 1260,
+      "height": 1821
+    },
+    {
+      "href": "https://comics.example/api/v1/books/0RM4VTYHRPJ30/pages/9?contentNegotiation=false",
+      "type": "image/jpeg",
+      "width": 1260,
+      "height": 1821
+    },
+    {
+      "href": "https://comics.example/api/v1/books/0RM4VTYHRPJ30/pages/10?contentNegotiation=false",
+      "type": "image/jpeg",
+      "width": 1260,
+      "height": 1821
+    },
+    {
+      "href": "https://comics.example/api/v1/books/0RM4VTYHRPJ30/pages/11?contentNegotiation=false",
+      "type": "image/jpeg",
+      "width": 1260,
+      "height": 1821
+    },
+    {
+      "href": "https://comics.example/api/v1/books/0RM4VTYHRPJ30/pages/12?contentNegotiation=false",
+      "type": "image/jpeg",
+      "width": 1260,
+      "height": 1821
+    },
+    {
+      "href": "https://comics.example/api/v1/books/0RM4VTYHRPJ30/pages/13?contentNegotiation=false",
+      "type": "image/jpeg",
+      "width": 1260,
+      "height": 1821
+    },
+    {
+      "href": "https://comics.example/api/v1/books/0RM4VTYHRPJ30/pages/14?contentNegotiation=false",
+      "type": "image/jpeg",
+      "width": 1260,
+      "height": 1821
+    },
+    {
+      "href": "https://comics.example/api/v1/books/0RM4VTYHRPJ30/pages/15?contentNegotiation=false",
+      "type": "image/jpeg",
+      "width": 1260,
+      "height": 1821
+    },
+    {
+      "href": "https://comics.example/api/v1/books/0RM4VTYHRPJ30/pages/16?contentNegotiation=false",
+      "type": "image/jpeg",
+      "width": 1260,
+      "height": 1821
+    },
+    {
+      "href": "https://comics.example/api/v1/books/0RM4VTYHRPJ30/pages/17?contentNegotiation=false",
+      "type": "image/jpeg",
+      "width": 1260,
+      "height": 1821
+    },
+    {
+      "href": "https://comics.example/api/v1/books/0RM4VTYHRPJ30/pages/18?contentNegotiation=false",
+      "type": "image/jpeg",
+      "width": 1260,
+      "height": 1821
+    },
+    {
+      "href": "https://comics.example/api/v1/books/0RM4VTYHRPJ30/pages/19?contentNegotiation=false",
+      "type": "image/jpeg",
+      "width": 1260,
+      "height": 1821
+    },
+    {
+      "href": "https://comics.example/api/v1/books/0RM4VTYHRPJ30/pages/20?contentNegotiation=false",
+      "type": "image/jpeg",
+      "width": 1260,
+      "height": 1821
+    },
+    {
+      "href": "https://comics.example/api/v1/books/0RM4VTYHRPJ30/pages/21?contentNegotiation=false",
+      "type": "image/jpeg",
+      "width": 1260,
+      "height": 1821
+    },
+    {
+      "href": "https://comics.example/api/v1/books/0RM4VTYHRPJ30/pages/22?contentNegotiation=false",
+      "type": "image/jpeg",
+      "width": 1260,
+      "height": 1821
+    },
+    {
+      "href": "https://comics.example/api/v1/books/0RM4VTYHRPJ30/pages/23?contentNegotiation=false",
+      "type": "image/jpeg",
+      "width": 1260,
+      "height": 1821
+    },
+    {
+      "href": "https://comics.example/api/v1/books/0RM4VTYHRPJ30/pages/24?contentNegotiation=false",
+      "type": "image/jpeg",
+      "width": 1260,
+      "height": 1821
+    },
+    {
+      "href": "https://comics.example/api/v1/books/0RM4VTYHRPJ30/pages/25?contentNegotiation=false",
+      "type": "image/jpeg",
+      "width": 1260,
+      "height": 1821
+    },
+    {
+      "href": "https://comics.example/api/v1/books/0RM4VTYHRPJ30/pages/26?contentNegotiation=false",
+      "type": "image/jpeg",
+      "width": 1260,
+      "height": 1821
+    },
+    {
+      "href": "https://comics.example/api/v1/books/0RM4VTYHRPJ30/pages/27?contentNegotiation=false",
+      "type": "image/jpeg",
+      "width": 1260,
+      "height": 1821
+    },
+    {
+      "href": "https://comics.example/api/v1/books/0RM4VTYHRPJ30/pages/28?contentNegotiation=false",
+      "type": "image/jpeg",
+      "width": 1260,
+      "height": 1821
+    },
+    {
+      "href": "https://comics.example/api/v1/books/0RM4VTYHRPJ30/pages/29?contentNegotiation=false",
+      "type": "image/jpeg",
+      "width": 1260,
+      "height": 1821
+    },
+    {
+      "href": "https://comics.example/api/v1/books/0RM4VTYHRPJ30/pages/30?contentNegotiation=false",
+      "type": "image/jpeg",
+      "width": 1260,
+      "height": 1821
+    },
+    {
+      "href": "https://comics.example/api/v1/books/0RM4VTYHRPJ30/pages/31?contentNegotiation=false",
+      "type": "image/jpeg",
+      "width": 1260,
+      "height": 1821
+    },
+    {
+      "href": "https://comics.example/api/v1/books/0RM4VTYHRPJ30/pages/32?contentNegotiation=false",
+      "type": "image/jpeg",
+      "width": 1260,
+      "height": 1821
+    },
+    {
+      "href": "https://comics.example/api/v1/books/0RM4VTYHRPJ30/pages/33?contentNegotiation=false",
+      "type": "image/jpeg",
+      "width": 1260,
+      "height": 1821
+    },
+    {
+      "href": "https://comics.example/api/v1/books/0RM4VTYHRPJ30/pages/34?contentNegotiation=false",
+      "type": "image/jpeg",
+      "width": 1260,
+      "height": 1821
+    },
+    {
+      "href": "https://comics.example/api/v1/books/0RM4VTYHRPJ30/pages/35?contentNegotiation=false",
+      "type": "image/jpeg",
+      "width": 1260,
+      "height": 1821
+    },
+    {
+      "href": "https://comics.example/api/v1/books/0RM4VTYHRPJ30/pages/36?contentNegotiation=false",
+      "type": "image/jpeg",
+      "width": 1260,
+      "height": 1821
+    },
+    {
+      "href": "https://comics.example/api/v1/books/0RM4VTYHRPJ30/pages/37?contentNegotiation=false",
+      "type": "image/jpeg",
+      "width": 1260,
+      "height": 1821
+    },
+    {
+      "href": "https://comics.example/api/v1/books/0RM4VTYHRPJ30/pages/38?contentNegotiation=false",
+      "type": "image/jpeg",
+      "width": 1260,
+      "height": 1821
+    },
+    {
+      "href": "https://comics.example/api/v1/books/0RM4VTYHRPJ30/pages/39?contentNegotiation=false",
+      "type": "image/jpeg",
+      "width": 1260,
+      "height": 1821
+    },
+    {
+      "href": "https://comics.example/api/v1/books/0RM4VTYHRPJ30/pages/40?contentNegotiation=false",
+      "type": "image/jpeg",
+      "width": 1260,
+      "height": 1821
+    },
+    {
+      "href": "https://comics.example/api/v1/books/0RM4VTYHRPJ30/pages/41?contentNegotiation=false",
+      "type": "image/jpeg",
+      "width": 1260,
+      "height": 1821
+    },
+    {
+      "href": "https://comics.example/api/v1/books/0RM4VTYHRPJ30/pages/42?contentNegotiation=false",
+      "type": "image/jpeg",
+      "width": 1260,
+      "height": 1821
+    },
+    {
+      "href": "https://comics.example/api/v1/books/0RM4VTYHRPJ30/pages/43?contentNegotiation=false",
+      "type": "image/jpeg",
+      "width": 1260,
+      "height": 1821
+    },
+    {
+      "href": "https://comics.example/api/v1/books/0RM4VTYHRPJ30/pages/44?contentNegotiation=false",
+      "type": "image/jpeg",
+      "width": 1260,
+      "height": 1821
+    },
+    {
+      "href": "https://comics.example/api/v1/books/0RM4VTYHRPJ30/pages/45?contentNegotiation=false",
+      "type": "image/jpeg",
+      "width": 1260,
+      "height": 1821
+    },
+    {
+      "href": "https://comics.example/api/v1/books/0RM4VTYHRPJ30/pages/46?contentNegotiation=false",
+      "type": "image/jpeg",
+      "width": 1260,
+      "height": 1821
+    },
+    {
+      "href": "https://comics.example/api/v1/books/0RM4VTYHRPJ30/pages/47?contentNegotiation=false",
+      "type": "image/jpeg",
+      "width": 1260,
+      "height": 1821
+    },
+    {
+      "href": "https://comics.example/api/v1/books/0RM4VTYHRPJ30/pages/48?contentNegotiation=false",
+      "type": "image/jpeg",
+      "width": 1260,
+      "height": 1821
+    },
+    {
+      "href": "https://comics.example/api/v1/books/0RM4VTYHRPJ30/pages/49?contentNegotiation=false",
+      "type": "image/jpeg",
+      "width": 1260,
+      "height": 1821
+    },
+    {
+      "href": "https://comics.example/api/v1/books/0RM4VTYHRPJ30/pages/50?contentNegotiation=false",
+      "type": "image/jpeg",
+      "width": 1260,
+      "height": 1821
+    },
+    {
+      "href": "https://comics.example/api/v1/books/0RM4VTYHRPJ30/pages/51?contentNegotiation=false",
+      "type": "image/jpeg",
+      "width": 1260,
+      "height": 1821
+    },
+    {
+      "href": "https://comics.example/api/v1/books/0RM4VTYHRPJ30/pages/52?contentNegotiation=false",
+      "type": "image/jpeg",
+      "width": 1260,
+      "height": 1821
+    },
+    {
+      "href": "https://comics.example/api/v1/books/0RM4VTYHRPJ30/pages/53?contentNegotiation=false",
+      "type": "image/jpeg",
+      "width": 1260,
+      "height": 1821
+    },
+    {
+      "href": "https://comics.example/api/v1/books/0RM4VTYHRPJ30/pages/54?contentNegotiation=false",
+      "type": "image/jpeg",
+      "width": 1260,
+      "height": 1821
+    },
+    {
+      "href": "https://comics.example/api/v1/books/0RM4VTYHRPJ30/pages/55?contentNegotiation=false",
+      "type": "image/jpeg",
+      "width": 1260,
+      "height": 1821
+    },
+    {
+      "href": "https://comics.example/api/v1/books/0RM4VTYHRPJ30/pages/56?contentNegotiation=false",
+      "type": "image/jpeg",
+      "width": 1260,
+      "height": 1821
+    },
+    {
+      "href": "https://comics.example/api/v1/books/0RM4VTYHRPJ30/pages/57?contentNegotiation=false",
+      "type": "image/jpeg",
+      "width": 1260,
+      "height": 1821
+    },
+    {
+      "href": "https://comics.example/api/v1/books/0RM4VTYHRPJ30/pages/58?contentNegotiation=false",
+      "type": "image/jpeg",
+      "width": 1260,
+      "height": 1821
+    },
+    {
+      "href": "https://comics.example/api/v1/books/0RM4VTYHRPJ30/pages/59?contentNegotiation=false",
+      "type": "image/jpeg",
+      "width": 1260,
+      "height": 1821
+    },
+    {
+      "href": "https://comics.example/api/v1/books/0RM4VTYHRPJ30/pages/60?contentNegotiation=false",
+      "type": "image/jpeg",
+      "width": 1260,
+      "height": 1821
+    },
+    {
+      "href": "https://comics.example/api/v1/books/0RM4VTYHRPJ30/pages/61?contentNegotiation=false",
+      "type": "image/jpeg",
+      "width": 1260,
+      "height": 1821
+    },
+    {
+      "href": "https://comics.example/api/v1/books/0RM4VTYHRPJ30/pages/62?contentNegotiation=false",
+      "type": "image/jpeg",
+      "width": 1260,
+      "height": 1821
+    },
+    {
+      "href": "https://comics.example/api/v1/books/0RM4VTYHRPJ30/pages/63?contentNegotiation=false",
+      "type": "image/jpeg",
+      "width": 1260,
+      "height": 1821
+    },
+    {
+      "href": "https://comics.example/api/v1/books/0RM4VTYHRPJ30/pages/64?contentNegotiation=false",
+      "type": "image/jpeg",
+      "width": 1260,
+      "height": 1821
+    },
+    {
+      "href": "https://comics.example/api/v1/books/0RM4VTYHRPJ30/pages/65?contentNegotiation=false",
+      "type": "image/jpeg",
+      "width": 1260,
+      "height": 1821
+    },
+    {
+      "href": "https://comics.example/api/v1/books/0RM4VTYHRPJ30/pages/66?contentNegotiation=false",
+      "type": "image/jpeg",
+      "width": 1260,
+      "height": 1821
+    },
+    {
+      "href": "https://comics.example/api/v1/books/0RM4VTYHRPJ30/pages/67?contentNegotiation=false",
+      "type": "image/jpeg",
+      "width": 1260,
+      "height": 1821
+    },
+    {
+      "href": "https://comics.example/api/v1/books/0RM4VTYHRPJ30/pages/68?contentNegotiation=false",
+      "type": "image/jpeg",
+      "width": 1260,
+      "height": 1821
+    },
+    {
+      "href": "https://comics.example/api/v1/books/0RM4VTYHRPJ30/pages/69?contentNegotiation=false",
+      "type": "image/jpeg",
+      "width": 1260,
+      "height": 1821
+    },
+    {
+      "href": "https://comics.example/api/v1/books/0RM4VTYHRPJ30/pages/70?contentNegotiation=false",
+      "type": "image/jpeg",
+      "width": 1260,
+      "height": 1821
+    },
+    {
+      "href": "https://comics.example/api/v1/books/0RM4VTYHRPJ30/pages/71?contentNegotiation=false",
+      "type": "image/jpeg",
+      "width": 1260,
+      "height": 1821
+    },
+    {
+      "href": "https://comics.example/api/v1/books/0RM4VTYHRPJ30/pages/72?contentNegotiation=false",
+      "type": "image/jpeg",
+      "width": 1260,
+      "height": 1821
+    },
+    {
+      "href": "https://comics.example/api/v1/books/0RM4VTYHRPJ30/pages/73?contentNegotiation=false",
+      "type": "image/jpeg",
+      "width": 1260,
+      "height": 1821
+    },
+    {
+      "href": "https://comics.example/api/v1/books/0RM4VTYHRPJ30/pages/74?contentNegotiation=false",
+      "type": "image/jpeg",
+      "width": 1260,
+      "height": 1821
+    },
+    {
+      "href": "https://comics.example/api/v1/books/0RM4VTYHRPJ30/pages/75?contentNegotiation=false",
+      "type": "image/jpeg",
+      "width": 1260,
+      "height": 1821
+    },
+    {
+      "href": "https://comics.example/api/v1/books/0RM4VTYHRPJ30/pages/76?contentNegotiation=false",
+      "type": "image/jpeg",
+      "width": 1260,
+      "height": 1821
+    },
+    {
+      "href": "https://comics.example/api/v1/books/0RM4VTYHRPJ30/pages/77?contentNegotiation=false",
+      "type": "image/jpeg",
+      "width": 1260,
+      "height": 1821
+    },
+    {
+      "href": "https://comics.example/api/v1/books/0RM4VTYHRPJ30/pages/78?contentNegotiation=false",
+      "type": "image/jpeg",
+      "width": 1260,
+      "height": 1821
+    },
+    {
+      "href": "https://comics.example/api/v1/books/0RM4VTYHRPJ30/pages/79?contentNegotiation=false",
+      "type": "image/jpeg",
+      "width": 1260,
+      "height": 1821
+    },
+    {
+      "href": "https://comics.example/api/v1/books/0RM4VTYHRPJ30/pages/80?contentNegotiation=false",
+      "type": "image/jpeg",
+      "width": 1260,
+      "height": 1821
+    },
+    {
+      "href": "https://comics.example/api/v1/books/0RM4VTYHRPJ30/pages/81?contentNegotiation=false",
+      "type": "image/jpeg",
+      "width": 1260,
+      "height": 1821
+    },
+    {
+      "href": "https://comics.example/api/v1/books/0RM4VTYHRPJ30/pages/82?contentNegotiation=false",
+      "type": "image/jpeg",
+      "width": 1260,
+      "height": 1821
+    },
+    {
+      "href": "https://comics.example/api/v1/books/0RM4VTYHRPJ30/pages/83?contentNegotiation=false",
+      "type": "image/jpeg",
+      "width": 1260,
+      "height": 1821
+    },
+    {
+      "href": "https://comics.example/api/v1/books/0RM4VTYHRPJ30/pages/84?contentNegotiation=false",
+      "type": "image/jpeg",
+      "width": 1260,
+      "height": 1821
+    },
+    {
+      "href": "https://comics.example/api/v1/books/0RM4VTYHRPJ30/pages/85?contentNegotiation=false",
+      "type": "image/jpeg",
+      "width": 1260,
+      "height": 1821
+    },
+    {
+      "href": "https://comics.example/api/v1/books/0RM4VTYHRPJ30/pages/86?contentNegotiation=false",
+      "type": "image/jpeg",
+      "width": 1260,
+      "height": 1821
+    },
+    {
+      "href": "https://comics.example/api/v1/books/0RM4VTYHRPJ30/pages/87?contentNegotiation=false",
+      "type": "image/jpeg",
+      "width": 1260,
+      "height": 1821
+    },
+    {
+      "href": "https://comics.example/api/v1/books/0RM4VTYHRPJ30/pages/88?contentNegotiation=false",
+      "type": "image/jpeg",
+      "width": 1260,
+      "height": 1821
+    },
+    {
+      "href": "https://comics.example/api/v1/books/0RM4VTYHRPJ30/pages/89?contentNegotiation=false",
+      "type": "image/jpeg",
+      "width": 1260,
+      "height": 1821
+    },
+    {
+      "href": "https://comics.example/api/v1/books/0RM4VTYHRPJ30/pages/90?contentNegotiation=false",
+      "type": "image/jpeg",
+      "width": 1260,
+      "height": 1821
+    },
+    {
+      "href": "https://comics.example/api/v1/books/0RM4VTYHRPJ30/pages/91?contentNegotiation=false",
+      "type": "image/jpeg",
+      "width": 1260,
+      "height": 1821
+    },
+    {
+      "href": "https://comics.example/api/v1/books/0RM4VTYHRPJ30/pages/92?contentNegotiation=false",
+      "type": "image/jpeg",
+      "width": 1260,
+      "height": 1821
+    },
+    {
+      "href": "https://comics.example/api/v1/books/0RM4VTYHRPJ30/pages/93?contentNegotiation=false",
+      "type": "image/jpeg",
+      "width": 1260,
+      "height": 1821
+    },
+    {
+      "href": "https://comics.example/api/v1/books/0RM4VTYHRPJ30/pages/94?contentNegotiation=false",
+      "type": "image/jpeg",
+      "width": 1260,
+      "height": 1821
+    },
+    {
+      "href": "https://comics.example/api/v1/books/0RM4VTYHRPJ30/pages/95?contentNegotiation=false",
+      "type": "image/jpeg",
+      "width": 1260,
+      "height": 1821
+    },
+    {
+      "href": "https://comics.example/api/v1/books/0RM4VTYHRPJ30/pages/96?contentNegotiation=false",
+      "type": "image/jpeg",
+      "width": 1260,
+      "height": 1821
+    },
+    {
+      "href": "https://comics.example/api/v1/books/0RM4VTYHRPJ30/pages/97?contentNegotiation=false",
+      "type": "image/jpeg",
+      "width": 1260,
+      "height": 1821
+    },
+    {
+      "href": "https://comics.example/api/v1/books/0RM4VTYHRPJ30/pages/98?contentNegotiation=false",
+      "type": "image/jpeg",
+      "width": 1260,
+      "height": 1821
+    },
+    {
+      "href": "https://comics.example/api/v1/books/0RM4VTYHRPJ30/pages/99?contentNegotiation=false",
+      "type": "image/jpeg",
+      "width": 1260,
+      "height": 1821
+    },
+    {
+      "href": "https://comics.example/api/v1/books/0RM4VTYHRPJ30/pages/100?contentNegotiation=false",
+      "type": "image/jpeg",
+      "width": 1260,
+      "height": 1821
+    },
+    {
+      "href": "https://comics.example/api/v1/books/0RM4VTYHRPJ30/pages/101?contentNegotiation=false",
+      "type": "image/jpeg",
+      "width": 1260,
+      "height": 1821
+    },
+    {
+      "href": "https://comics.example/api/v1/books/0RM4VTYHRPJ30/pages/102?contentNegotiation=false",
+      "type": "image/jpeg",
+      "width": 1260,
+      "height": 1821
+    },
+    {
+      "href": "https://comics.example/api/v1/books/0RM4VTYHRPJ30/pages/103?contentNegotiation=false",
+      "type": "image/jpeg",
+      "width": 1260,
+      "height": 1821
+    },
+    {
+      "href": "https://comics.example/api/v1/books/0RM4VTYHRPJ30/pages/104?contentNegotiation=false",
+      "type": "image/jpeg",
+      "width": 1260,
+      "height": 1821
+    },
+    {
+      "href": "https://comics.example/api/v1/books/0RM4VTYHRPJ30/pages/105?contentNegotiation=false",
+      "type": "image/jpeg",
+      "width": 1260,
+      "height": 1821
+    },
+    {
+      "href": "https://comics.example/api/v1/books/0RM4VTYHRPJ30/pages/106?contentNegotiation=false",
+      "type": "image/jpeg",
+      "width": 1260,
+      "height": 1821
+    },
+    {
+      "href": "https://comics.example/api/v1/books/0RM4VTYHRPJ30/pages/107?contentNegotiation=false",
+      "type": "image/jpeg",
+      "width": 1260,
+      "height": 1821
+    },
+    {
+      "href": "https://comics.example/api/v1/books/0RM4VTYHRPJ30/pages/108?contentNegotiation=false",
+      "type": "image/jpeg",
+      "width": 1260,
+      "height": 1821
+    },
+    {
+      "href": "https://comics.example/api/v1/books/0RM4VTYHRPJ30/pages/109?contentNegotiation=false",
+      "type": "image/jpeg",
+      "width": 1260,
+      "height": 1821
+    },
+    {
+      "href": "https://comics.example/api/v1/books/0RM4VTYHRPJ30/pages/110?contentNegotiation=false",
+      "type": "image/jpeg",
+      "width": 1260,
+      "height": 1821
+    },
+    {
+      "href": "https://comics.example/api/v1/books/0RM4VTYHRPJ30/pages/111?contentNegotiation=false",
+      "type": "image/jpeg",
+      "width": 1260,
+      "height": 1821
+    },
+    {
+      "href": "https://comics.example/api/v1/books/0RM4VTYHRPJ30/pages/112?contentNegotiation=false",
+      "type": "image/jpeg",
+      "width": 1260,
+      "height": 1821
+    },
+    {
+      "href": "https://comics.example/api/v1/books/0RM4VTYHRPJ30/pages/113?contentNegotiation=false",
+      "type": "image/jpeg",
+      "width": 1260,
+      "height": 1821
+    },
+    {
+      "href": "https://comics.example/api/v1/books/0RM4VTYHRPJ30/pages/114?contentNegotiation=false",
+      "type": "image/jpeg",
+      "width": 1260,
+      "height": 1821
+    },
+    {
+      "href": "https://comics.example/api/v1/books/0RM4VTYHRPJ30/pages/115?contentNegotiation=false",
+      "type": "image/jpeg",
+      "width": 1260,
+      "height": 1821
+    },
+    {
+      "href": "https://comics.example/api/v1/books/0RM4VTYHRPJ30/pages/116?contentNegotiation=false",
+      "type": "image/jpeg",
+      "width": 1260,
+      "height": 1821
+    },
+    {
+      "href": "https://comics.example/api/v1/books/0RM4VTYHRPJ30/pages/117?contentNegotiation=false",
+      "type": "image/jpeg",
+      "width": 1260,
+      "height": 1821
+    },
+    {
+      "href": "https://comics.example/api/v1/books/0RM4VTYHRPJ30/pages/118?contentNegotiation=false",
+      "type": "image/jpeg",
+      "width": 1260,
+      "height": 1821
+    },
+    {
+      "href": "https://comics.example/api/v1/books/0RM4VTYHRPJ30/pages/119?contentNegotiation=false",
+      "type": "image/jpeg",
+      "width": 1260,
+      "height": 1821
+    },
+    {
+      "href": "https://comics.example/api/v1/books/0RM4VTYHRPJ30/pages/120?contentNegotiation=false",
+      "type": "image/jpeg",
+      "width": 1260,
+      "height": 1821
+    },
+    {
+      "href": "https://comics.example/api/v1/books/0RM4VTYHRPJ30/pages/121?contentNegotiation=false",
+      "type": "image/jpeg",
+      "width": 1260,
+      "height": 1821
+    },
+    {
+      "href": "https://comics.example/api/v1/books/0RM4VTYHRPJ30/pages/122?contentNegotiation=false",
+      "type": "image/jpeg",
+      "width": 1260,
+      "height": 1821
+    },
+    {
+      "href": "https://comics.example/api/v1/books/0RM4VTYHRPJ30/pages/123?contentNegotiation=false",
+      "type": "image/jpeg",
+      "width": 1260,
+      "height": 1821
+    },
+    {
+      "href": "https://comics.example/api/v1/books/0RM4VTYHRPJ30/pages/124?contentNegotiation=false",
+      "type": "image/jpeg",
+      "width": 1260,
+      "height": 1821
+    },
+    {
+      "href": "https://comics.example/api/v1/books/0RM4VTYHRPJ30/pages/125?contentNegotiation=false",
+      "type": "image/jpeg",
+      "width": 1260,
+      "height": 1821
+    },
+    {
+      "href": "https://comics.example/api/v1/books/0RM4VTYHRPJ30/pages/126?contentNegotiation=false",
+      "type": "image/jpeg",
+      "width": 1260,
+      "height": 1821
+    },
+    {
+      "href": "https://comics.example/api/v1/books/0RM4VTYHRPJ30/pages/127?contentNegotiation=false",
+      "type": "image/jpeg",
+      "width": 1260,
+      "height": 1821
+    },
+    {
+      "href": "https://comics.example/api/v1/books/0RM4VTYHRPJ30/pages/128?contentNegotiation=false",
+      "type": "image/jpeg",
+      "width": 1260,
+      "height": 1821
+    },
+    {
+      "href": "https://comics.example/api/v1/books/0RM4VTYHRPJ30/pages/129?contentNegotiation=false",
+      "type": "image/jpeg",
+      "width": 1260,
+      "height": 1821
+    },
+    {
+      "href": "https://comics.example/api/v1/books/0RM4VTYHRPJ30/pages/130?contentNegotiation=false",
+      "type": "image/jpeg",
+      "width": 1260,
+      "height": 1821
+    },
+    {
+      "href": "https://comics.example/api/v1/books/0RM4VTYHRPJ30/pages/131?contentNegotiation=false",
+      "type": "image/jpeg",
+      "width": 1260,
+      "height": 1821
+    },
+    {
+      "href": "https://comics.example/api/v1/books/0RM4VTYHRPJ30/pages/132?contentNegotiation=false",
+      "type": "image/jpeg",
+      "width": 1260,
+      "height": 1821
+    },
+    {
+      "href": "https://comics.example/api/v1/books/0RM4VTYHRPJ30/pages/133?contentNegotiation=false",
+      "type": "image/jpeg",
+      "width": 1260,
+      "height": 1821
+    },
+    {
+      "href": "https://comics.example/api/v1/books/0RM4VTYHRPJ30/pages/134?contentNegotiation=false",
+      "type": "image/jpeg",
+      "width": 1260,
+      "height": 1821
+    },
+    {
+      "href": "https://comics.example/api/v1/books/0RM4VTYHRPJ30/pages/135?contentNegotiation=false",
+      "type": "image/jpeg",
+      "width": 1260,
+      "height": 1821
+    },
+    {
+      "href": "https://comics.example/api/v1/books/0RM4VTYHRPJ30/pages/136?contentNegotiation=false",
+      "type": "image/jpeg",
+      "width": 1260,
+      "height": 1821
+    },
+    {
+      "href": "https://comics.example/api/v1/books/0RM4VTYHRPJ30/pages/137?contentNegotiation=false",
+      "type": "image/jpeg",
+      "width": 1260,
+      "height": 1821
+    },
+    {
+      "href": "https://comics.example/api/v1/books/0RM4VTYHRPJ30/pages/138?contentNegotiation=false",
+      "type": "image/jpeg",
+      "width": 1260,
+      "height": 1821
+    },
+    {
+      "href": "https://comics.example/api/v1/books/0RM4VTYHRPJ30/pages/139?contentNegotiation=false",
+      "type": "image/jpeg",
+      "width": 1260,
+      "height": 1821
+    },
+    {
+      "href": "https://comics.example/api/v1/books/0RM4VTYHRPJ30/pages/140?contentNegotiation=false",
+      "type": "image/jpeg",
+      "width": 1260,
+      "height": 1821
+    },
+    {
+      "href": "https://comics.example/api/v1/books/0RM4VTYHRPJ30/pages/141?contentNegotiation=false",
+      "type": "image/jpeg",
+      "width": 1260,
+      "height": 1821
+    },
+    {
+      "href": "https://comics.example/api/v1/books/0RM4VTYHRPJ30/pages/142?contentNegotiation=false",
+      "type": "image/jpeg",
+      "width": 1260,
+      "height": 1821
+    },
+    {
+      "href": "https://comics.example/api/v1/books/0RM4VTYHRPJ30/pages/143?contentNegotiation=false",
+      "type": "image/jpeg",
+      "width": 1260,
+      "height": 1821
+    },
+    {
+      "href": "https://comics.example/api/v1/books/0RM4VTYHRPJ30/pages/144?contentNegotiation=false",
+      "type": "image/jpeg",
+      "width": 1260,
+      "height": 1821
+    },
+    {
+      "href": "https://comics.example/api/v1/books/0RM4VTYHRPJ30/pages/145?contentNegotiation=false",
+      "type": "image/jpeg",
+      "width": 1260,
+      "height": 1821
+    },
+    {
+      "href": "https://comics.example/api/v1/books/0RM4VTYHRPJ30/pages/146?contentNegotiation=false",
+      "type": "image/jpeg",
+      "width": 1260,
+      "height": 1821
+    },
+    {
+      "href": "https://comics.example/api/v1/books/0RM4VTYHRPJ30/pages/147?contentNegotiation=false",
+      "type": "image/jpeg",
+      "width": 1260,
+      "height": 1821
+    },
+    {
+      "href": "https://comics.example/api/v1/books/0RM4VTYHRPJ30/pages/148?contentNegotiation=false",
+      "type": "image/jpeg",
+      "width": 1260,
+      "height": 1821
+    },
+    {
+      "href": "https://comics.example/api/v1/books/0RM4VTYHRPJ30/pages/149?contentNegotiation=false",
+      "type": "image/jpeg",
+      "width": 1260,
+      "height": 1821
+    },
+    {
+      "href": "https://comics.example/api/v1/books/0RM4VTYHRPJ30/pages/150?contentNegotiation=false",
+      "type": "image/jpeg",
+      "width": 1260,
+      "height": 1821
+    },
+    {
+      "href": "https://comics.example/api/v1/books/0RM4VTYHRPJ30/pages/151?contentNegotiation=false",
+      "type": "image/jpeg",
+      "width": 1260,
+      "height": 1821
+    },
+    {
+      "href": "https://comics.example/api/v1/books/0RM4VTYHRPJ30/pages/152?contentNegotiation=false",
+      "type": "image/jpeg",
+      "width": 1260,
+      "height": 1821
+    },
+    {
+      "href": "https://comics.example/api/v1/books/0RM4VTYHRPJ30/pages/153?contentNegotiation=false",
+      "type": "image/jpeg",
+      "width": 1260,
+      "height": 1821
+    },
+    {
+      "href": "https://comics.example/api/v1/books/0RM4VTYHRPJ30/pages/154?contentNegotiation=false",
+      "type": "image/jpeg",
+      "width": 1260,
+      "height": 1821
+    },
+    {
+      "href": "https://comics.example/api/v1/books/0RM4VTYHRPJ30/pages/155?contentNegotiation=false",
+      "type": "image/jpeg",
+      "width": 1260,
+      "height": 1821
+    },
+    {
+      "href": "https://comics.example/api/v1/books/0RM4VTYHRPJ30/pages/156?contentNegotiation=false",
+      "type": "image/jpeg",
+      "width": 1260,
+      "height": 1821
+    },
+    {
+      "href": "https://comics.example/api/v1/books/0RM4VTYHRPJ30/pages/157?contentNegotiation=false",
+      "type": "image/jpeg",
+      "width": 1260,
+      "height": 1821
+    },
+    {
+      "href": "https://comics.example/api/v1/books/0RM4VTYHRPJ30/pages/158?contentNegotiation=false",
+      "type": "image/jpeg",
+      "width": 1260,
+      "height": 1821
+    },
+    {
+      "href": "https://comics.example/api/v1/books/0RM4VTYHRPJ30/pages/159?contentNegotiation=false",
+      "type": "image/jpeg",
+      "width": 1260,
+      "height": 1821
+    },
+    {
+      "href": "https://comics.example/api/v1/books/0RM4VTYHRPJ30/pages/160?contentNegotiation=false",
+      "type": "image/jpeg",
+      "width": 1260,
+      "height": 1821
+    },
+    {
+      "href": "https://comics.example/api/v1/books/0RM4VTYHRPJ30/pages/161?contentNegotiation=false",
+      "type": "image/jpeg",
+      "width": 1260,
+      "height": 1821
+    },
+    {
+      "href": "https://comics.example/api/v1/books/0RM4VTYHRPJ30/pages/162?contentNegotiation=false",
+      "type": "image/jpeg",
+      "width": 1260,
+      "height": 1821
+    },
+    {
+      "href": "https://comics.example/api/v1/books/0RM4VTYHRPJ30/pages/163?contentNegotiation=false",
+      "type": "image/jpeg",
+      "width": 1260,
+      "height": 1821
+    },
+    {
+      "href": "https://comics.example/api/v1/books/0RM4VTYHRPJ30/pages/164?contentNegotiation=false",
+      "type": "image/jpeg",
+      "width": 1260,
+      "height": 1821
+    },
+    {
+      "href": "https://comics.example/api/v1/books/0RM4VTYHRPJ30/pages/165?contentNegotiation=false",
+      "type": "image/jpeg",
+      "width": 1260,
+      "height": 1821
+    },
+    {
+      "href": "https://comics.example/api/v1/books/0RM4VTYHRPJ30/pages/166?contentNegotiation=false",
+      "type": "image/jpeg",
+      "width": 1260,
+      "height": 1821
+    },
+    {
+      "href": "https://comics.example/api/v1/books/0RM4VTYHRPJ30/pages/167?contentNegotiation=false",
+      "type": "image/jpeg",
+      "width": 1260,
+      "height": 1821
+    },
+    {
+      "href": "https://comics.example/api/v1/books/0RM4VTYHRPJ30/pages/168?contentNegotiation=false",
+      "type": "image/jpeg",
+      "width": 1260,
+      "height": 1821
+    },
+    {
+      "href": "https://comics.example/api/v1/books/0RM4VTYHRPJ30/pages/169?contentNegotiation=false",
+      "type": "image/jpeg",
+      "width": 1260,
+      "height": 1821
+    },
+    {
+      "href": "https://comics.example/api/v1/books/0RM4VTYHRPJ30/pages/170?contentNegotiation=false",
+      "type": "image/jpeg",
+      "width": 1260,
+      "height": 1821
+    },
+    {
+      "href": "https://comics.example/api/v1/books/0RM4VTYHRPJ30/pages/171?contentNegotiation=false",
+      "type": "image/jpeg",
+      "width": 1260,
+      "height": 1821
+    },
+    {
+      "href": "https://comics.example/api/v1/books/0RM4VTYHRPJ30/pages/172?contentNegotiation=false",
+      "type": "image/jpeg",
+      "width": 1260,
+      "height": 1821
+    },
+    {
+      "href": "https://comics.example/api/v1/books/0RM4VTYHRPJ30/pages/173?contentNegotiation=false",
+      "type": "image/jpeg",
+      "width": 1260,
+      "height": 1821
+    },
+    {
+      "href": "https://comics.example/api/v1/books/0RM4VTYHRPJ30/pages/174?contentNegotiation=false",
+      "type": "image/jpeg",
+      "width": 1260,
+      "height": 1821
+    },
+    {
+      "href": "https://comics.example/api/v1/books/0RM4VTYHRPJ30/pages/175?contentNegotiation=false",
+      "type": "image/jpeg",
+      "width": 1260,
+      "height": 1821
+    },
+    {
+      "href": "https://comics.example/api/v1/books/0RM4VTYHRPJ30/pages/176?contentNegotiation=false",
+      "type": "image/jpeg",
+      "width": 1260,
+      "height": 1821
+    },
+    {
+      "href": "https://comics.example/api/v1/books/0RM4VTYHRPJ30/pages/177?contentNegotiation=false",
+      "type": "image/jpeg",
+      "width": 1260,
+      "height": 1821
+    },
+    {
+      "href": "https://comics.example/api/v1/books/0RM4VTYHRPJ30/pages/178?contentNegotiation=false",
+      "type": "image/jpeg",
+      "width": 1260,
+      "height": 1821
+    },
+    {
+      "href": "https://comics.example/api/v1/books/0RM4VTYHRPJ30/pages/179?contentNegotiation=false",
+      "type": "image/jpeg",
+      "width": 1260,
+      "height": 1821
+    },
+    {
+      "href": "https://comics.example/api/v1/books/0RM4VTYHRPJ30/pages/180?contentNegotiation=false",
+      "type": "image/jpeg",
+      "width": 1260,
+      "height": 1821
+    },
+    {
+      "href": "https://comics.example/api/v1/books/0RM4VTYHRPJ30/pages/181?contentNegotiation=false",
+      "type": "image/jpeg",
+      "width": 1260,
+      "height": 1821
+    },
+    {
+      "href": "https://comics.example/api/v1/books/0RM4VTYHRPJ30/pages/182?contentNegotiation=false",
+      "type": "image/jpeg",
+      "width": 1260,
+      "height": 1821
+    },
+    {
+      "href": "https://comics.example/api/v1/books/0RM4VTYHRPJ30/pages/183?contentNegotiation=false",
+      "type": "image/jpeg",
+      "width": 1260,
+      "height": 1821
+    },
+    {
+      "href": "https://comics.example/api/v1/books/0RM4VTYHRPJ30/pages/184?contentNegotiation=false",
+      "type": "image/jpeg",
+      "width": 1260,
+      "height": 1821
+    },
+    {
+      "href": "https://comics.example/api/v1/books/0RM4VTYHRPJ30/pages/185?contentNegotiation=false",
+      "type": "image/jpeg",
+      "width": 1260,
+      "height": 1821
+    },
+    {
+      "href": "https://comics.example/api/v1/books/0RM4VTYHRPJ30/pages/186?contentNegotiation=false",
+      "type": "image/jpeg",
+      "width": 1260,
+      "height": 1821
+    },
+    {
+      "href": "https://comics.example/api/v1/books/0RM4VTYHRPJ30/pages/187?contentNegotiation=false",
+      "type": "image/jpeg",
+      "width": 1260,
+      "height": 1821
+    },
+    {
+      "href": "https://comics.example/api/v1/books/0RM4VTYHRPJ30/pages/188?contentNegotiation=false",
+      "type": "image/jpeg",
+      "width": 1260,
+      "height": 1821
+    },
+    {
+      "href": "https://comics.example/api/v1/books/0RM4VTYHRPJ30/pages/189?contentNegotiation=false",
+      "type": "image/jpeg",
+      "width": 1260,
+      "height": 1821
+    },
+    {
+      "href": "https://comics.example/api/v1/books/0RM4VTYHRPJ30/pages/190?contentNegotiation=false",
+      "type": "image/jpeg",
+      "width": 1260,
+      "height": 1821
+    },
+    {
+      "href": "https://comics.example/api/v1/books/0RM4VTYHRPJ30/pages/191?contentNegotiation=false",
+      "type": "image/jpeg",
+      "width": 1260,
+      "height": 1821
+    },
+    {
+      "href": "https://comics.example/api/v1/books/0RM4VTYHRPJ30/pages/192?contentNegotiation=false",
+      "type": "image/jpeg",
+      "width": 1260,
+      "height": 1821
+    },
+    {
+      "href": "https://comics.example/api/v1/books/0RM4VTYHRPJ30/pages/193?contentNegotiation=false",
+      "type": "image/jpeg",
+      "width": 1260,
+      "height": 1821
+    },
+    {
+      "href": "https://comics.example/api/v1/books/0RM4VTYHRPJ30/pages/194?contentNegotiation=false",
+      "type": "image/jpeg",
+      "width": 1260,
+      "height": 1821
+    },
+    {
+      "href": "https://comics.example/api/v1/books/0RM4VTYHRPJ30/pages/195?contentNegotiation=false",
+      "type": "image/jpeg",
+      "width": 1260,
+      "height": 1821
+    },
+    {
+      "href": "https://comics.example/api/v1/books/0RM4VTYHRPJ30/pages/196?contentNegotiation=false",
+      "type": "image/jpeg",
+      "width": 1260,
+      "height": 1821
+    },
+    {
+      "href": "https://comics.example/api/v1/books/0RM4VTYHRPJ30/pages/197?contentNegotiation=false",
+      "type": "image/jpeg",
+      "width": 1260,
+      "height": 1821
+    },
+    {
+      "href": "https://comics.example/api/v1/books/0RM4VTYHRPJ30/pages/198?contentNegotiation=false",
+      "type": "image/jpeg",
+      "width": 1260,
+      "height": 1821
+    },
+    {
+      "href": "https://comics.example/api/v1/books/0RM4VTYHRPJ30/pages/199?contentNegotiation=false",
+      "type": "image/jpeg",
+      "width": 1260,
+      "height": 1821
+    },
+    {
+      "href": "https://comics.example/api/v1/books/0RM4VTYHRPJ30/pages/200?contentNegotiation=false",
+      "type": "image/jpeg",
+      "width": 1260,
+      "height": 1821
+    },
+    {
+      "href": "https://comics.example/api/v1/books/0RM4VTYHRPJ30/pages/201?contentNegotiation=false",
+      "type": "image/jpeg",
+      "width": 1260,
+      "height": 1821
+    },
+    {
+      "href": "https://comics.example/api/v1/books/0RM4VTYHRPJ30/pages/202?contentNegotiation=false",
+      "type": "image/jpeg",
+      "width": 1260,
+      "height": 1821
+    },
+    {
+      "href": "https://comics.example/api/v1/books/0RM4VTYHRPJ30/pages/203?contentNegotiation=false",
+      "type": "image/jpeg",
+      "width": 1260,
+      "height": 1821
+    },
+    {
+      "href": "https://comics.example/api/v1/books/0RM4VTYHRPJ30/pages/204?contentNegotiation=false",
+      "type": "image/jpeg",
+      "width": 1260,
+      "height": 1821
+    },
+    {
+      "href": "https://comics.example/api/v1/books/0RM4VTYHRPJ30/pages/205?contentNegotiation=false",
+      "type": "image/jpeg",
+      "width": 1260,
+      "height": 1821
+    },
+    {
+      "href": "https://comics.example/api/v1/books/0RM4VTYHRPJ30/pages/206?contentNegotiation=false",
+      "type": "image/jpeg",
+      "width": 1260,
+      "height": 1821
+    },
+    {
+      "href": "https://comics.example/api/v1/books/0RM4VTYHRPJ30/pages/207?contentNegotiation=false",
+      "type": "image/jpeg",
+      "width": 1260,
+      "height": 1821
+    },
+    {
+      "href": "https://comics.example/api/v1/books/0RM4VTYHRPJ30/pages/208?contentNegotiation=false",
+      "type": "image/jpeg",
+      "width": 1260,
+      "height": 1821
+    },
+    {
+      "href": "https://comics.example/api/v1/books/0RM4VTYHRPJ30/pages/209?contentNegotiation=false",
+      "type": "image/jpeg",
+      "width": 1260,
+      "height": 1821
+    },
+    {
+      "href": "https://comics.example/api/v1/books/0RM4VTYHRPJ30/pages/210?contentNegotiation=false",
+      "type": "image/jpeg",
+      "width": 1260,
+      "height": 1821
+    },
+    {
+      "href": "https://comics.example/api/v1/books/0RM4VTYHRPJ30/pages/211?contentNegotiation=false",
+      "type": "image/jpeg",
+      "width": 1260,
+      "height": 1821
+    },
+    {
+      "href": "https://comics.example/api/v1/books/0RM4VTYHRPJ30/pages/212?contentNegotiation=false",
+      "type": "image/jpeg",
+      "width": 1260,
+      "height": 1821
+    },
+    {
+      "href": "https://comics.example/api/v1/books/0RM4VTYHRPJ30/pages/213?contentNegotiation=false",
+      "type": "image/gif",
+      "width": 1260,
+      "height": 1821
+    }
+  ],
+  "resources": [
+    {
+      "href": "https://comics.example/api/v1/books/0RM4VTYHRPJ30/thumbnail",
+      "type": "image/jpeg"
+    }
+  ],
+  "toc": [],
+  "landmarks": [],
+  "pageList": []
+}

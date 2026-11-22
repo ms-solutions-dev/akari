@@ -1,0 +1,570 @@
+{
+  "content": [
+    {
+      "seriesName": "Gamunma'g Bakund Frionhos",
+      "bookCount": 2,
+      "authors": [
+        "Kagriorn Jestiat",
+        "Freisleim Grufo",
+        "Priaser Skisglendek"
+      ],
+      "booksRead": 0,
+      "latestAddedOn": "2026-09-16T15:47:49Z",
+      "coverBooks": [
+        {
+          "bookId": 399,
+          "coverUpdatedOn": "2026-09-16T15:44:24Z",
+          "primaryFileType": "EPUB"
+        },
+        {
+          "bookId": 935,
+          "coverUpdatedOn": "2026-09-16T15:47:49Z",
+          "primaryFileType": "EPUB"
+        }
+      ]
+    },
+    {
+      "seriesName": "Baugrewo Slibrurn",
+      "bookCount": 1,
+      "authors": [
+        "Fifresia Voglesauk"
+      ],
+      "booksRead": 0,
+      "latestAddedOn": "2026-09-16T15:47:49Z",
+      "coverBooks": [
+        {
+          "bookId": 933,
+          "coverUpdatedOn": "2026-09-16T15:47:49Z",
+          "primaryFileType": "EPUB"
+        }
+      ]
+    },
+    {
+      "seriesName": "Sper krauspemen Sifro raut Kroukiot Skaitrudu",
+      "bookCount": 3,
+      "authors": [
+        "Ceimogur Plunpleigli"
+      ],
+      "booksRead": 0,
+      "latestAddedOn": "2026-09-16T15:47:48Z",
+      "coverBooks": [
+        {
+          "bookId": 932,
+          "coverUpdatedOn": "2026-09-16T15:47:49Z",
+          "seriesNumber": 1.0,
+          "primaryFileType": "EPUB"
+        },
+        {
+          "bookId": 931,
+          "coverUpdatedOn": "2026-09-16T15:47:48Z",
+          "seriesNumber": 2.0,
+          "primaryFileType": "EPUB"
+        },
+        {
+          "bookId": 929,
+          "coverUpdatedOn": "2026-09-16T15:47:48Z",
+          "seriesNumber": 3.0,
+          "primaryFileType": "EPUB"
+        },
+        {
+          "bookId": 930,
+          "coverUpdatedOn": "2026-09-16T15:47:48Z",
+          "seriesNumber": 4.0,
+          "primaryFileType": "EPUB"
+        }
+      ]
+    },
+    {
+      "seriesName": "Je Nitpol",
+      "bookCount": 8,
+      "seriesTotal": 6,
+      "authors": [
+        "Dreiritru Skuniam",
+        "Krameinha Domu (Houdu)"
+      ],
+      "booksRead": 0,
+      "latestAddedOn": "2026-09-16T15:47:47Z",
+      "coverBooks": [
+        {
+          "bookId": 920,
+          "coverUpdatedOn": "2026-09-16T15:47:45Z",
+          "seriesNumber": 1.0,
+          "primaryFileType": "EPUB"
+        },
+        {
+          "bookId": 713,
+          "coverUpdatedOn": "2026-09-16T15:46:20Z",
+          "seriesNumber": 2.0,
+          "primaryFileType": "EPUB"
+        },
+        {
+          "bookId": 928,
+          "coverUpdatedOn": "2026-09-16T15:47:47Z",
+          "seriesNumber": 3.0,
+          "primaryFileType": "EPUB"
+        },
+        {
+          "bookId": 919,
+          "coverUpdatedOn": "2026-09-16T15:47:45Z",
+          "seriesNumber": 4.0,
+          "primaryFileType": "EPUB"
+        },
+        {
+          "bookId": 911,
+          "coverUpdatedOn": "2026-09-16T15:47:43Z",
+          "seriesNumber": 5.0,
+          "primaryFileType": "EPUB"
+        },
+        {
+          "bookId": 800,
+          "coverUpdatedOn": "2026-09-16T15:46:53Z",
+          "primaryFileType": "EPUB"
+        }
+      ]
+    },
+    {
+      "seriesName": "Staitwogirn grin Slonfle",
+      "bookCount": 4,
+      "seriesTotal": 4,
+      "authors": [
+        "Dreiritru Skuniam"
+      ],
+      "booksRead": 0,
+      "latestAddedOn": "2026-09-16T15:47:47Z",
+      "coverBooks": [
+        {
+          "bookId": 917,
+          "coverUpdatedOn": "2026-09-16T15:47:44Z",
+          "seriesNumber": 0.0,
+          "primaryFileType": "EPUB"
+        },
+        {
+          "bookId": 710,
+          "coverUpdatedOn": "2026-09-16T15:46:19Z",
+          "seriesNumber": 1.0,
+          "primaryFileType": "EPUB"
+        },
+        {
+          "bookId": 927,
+          "coverUpdatedOn": "2026-09-16T15:47:47Z",
+          "seriesNumber": 2.0,
+          "primaryFileType": "EPUB"
+        },
+        {
+          "bookId": 912,
+          "coverUpdatedOn": "2026-09-16T15:47:43Z",
+          "seriesNumber": 3.0,
+          "primaryFileType": "EPUB"
+        },
+        {
+          "bookId": 907,
+          "coverUpdatedOn": "2026-09-16T15:47:41Z",
+          "seriesNumber": 4.0,
+          "primaryFileType": "EPUB"
+        }
+      ]
+    },
+    {
+      "seriesName": "Cafraind",
+      "bookCount": 4,
+      "seriesTotal": 4,
+      "authors": [
+        "Dreiritru Skuniam"
+      ],
+      "booksRead": 0,
+      "latestAddedOn": "2026-09-16T15:47:46Z",
+      "coverBooks": [
+        {
+          "bookId": 918,
+          "coverUpdatedOn": "2026-09-16T15:47:45Z",
+          "seriesNumber": 1.0,
+          "primaryFileType": "EPUB"
+        },
+        {
+          "bookId": 922,
+          "coverUpdatedOn": "2026-09-16T15:47:46Z",
+          "seriesNumber": 2.0,
+          "primaryFileType": "EPUB"
+        },
+        {
+          "bookId": 921,
+          "coverUpdatedOn": "2026-09-16T15:47:46Z",
+          "seriesNumber": 3.0,
+          "primaryFileType": "EPUB"
+        }
+      ]
+    },
+    {
+      "seriesName": "Blauwodri 1 - Krau Kasaiplou Trugrelias",
+      "bookCount": 8,
+      "seriesTotal": 8,
+      "authors": [
+        "Dreiritru Skuniam"
+      ],
+      "booksRead": 0,
+      "latestAddedOn": "2026-09-16T15:47:46Z",
+      "coverBooks": [
+        {
+          "bookId": 910,
+          "coverUpdatedOn": "2026-09-16T15:47:42Z",
+          "seriesNumber": 1.0,
+          "primaryFileType": "EPUB"
+        },
+        {
+          "bookId": 915,
+          "coverUpdatedOn": "2026-09-16T15:47:44Z",
+          "seriesNumber": 2.0,
+          "primaryFileType": "EPUB"
+        },
+        {
+          "bookId": 908,
+          "coverUpdatedOn": "2026-09-16T15:47:42Z",
+          "seriesNumber": 3.0,
+          "primaryFileType": "EPUB"
+        },
+        {
+          "bookId": 925,
+          "coverUpdatedOn": "2026-09-16T15:47:47Z",
+          "seriesNumber": 4.0,
+          "primaryFileType": "EPUB"
+        },
+        {
+          "bookId": 924,
+          "coverUpdatedOn": "2026-09-16T15:47:46Z",
+          "seriesNumber": 5.0,
+          "primaryFileType": "EPUB"
+        },
+        {
+          "bookId": 914,
+          "coverUpdatedOn": "2026-09-16T15:47:43Z",
+          "seriesNumber": 6.0,
+          "primaryFileType": "EPUB"
+        }
+      ]
+    },
+    {
+      "seriesName": "Blauwodri 2 - Sla Trugrelias blo Frotvupren",
+      "bookCount": 4,
+      "seriesTotal": 4,
+      "authors": [
+        "Dreiritru Skuniam"
+      ],
+      "booksRead": 0,
+      "latestAddedOn": "2026-09-16T15:47:46Z",
+      "coverBooks": [
+        {
+          "bookId": 909,
+          "coverUpdatedOn": "2026-09-16T15:47:42Z",
+          "seriesNumber": 1.0,
+          "primaryFileType": "EPUB"
+        },
+        {
+          "bookId": 913,
+          "coverUpdatedOn": "2026-09-16T15:47:43Z",
+          "seriesNumber": 2.0,
+          "primaryFileType": "EPUB"
+        },
+        {
+          "bookId": 923,
+          "coverUpdatedOn": "2026-09-16T15:47:46Z",
+          "seriesNumber": 3.0,
+          "primaryFileType": "EPUB"
+        }
+      ]
+    },
+    {
+      "seriesName": "Lanneipras gim Retsio",
+      "bookCount": 2,
+      "authors": [
+        "Klospat Biabratzeirn"
+      ],
+      "booksRead": 0,
+      "latestAddedOn": "2026-09-16T15:47:40Z",
+      "coverBooks": [
+        {
+          "bookId": 903,
+          "coverUpdatedOn": "2026-09-16T15:47:40Z",
+          "seriesNumber": 1.0,
+          "primaryFileType": "EPUB"
+        },
+        {
+          "bookId": 904,
+          "coverUpdatedOn": "2026-09-16T15:47:40Z",
+          "seriesNumber": 2.0,
+          "primaryFileType": "EPUB"
+        }
+      ]
+    },
+    {
+      "seriesName": "Hauto glo spet Viohaum",
+      "bookCount": 1,
+      "authors": [
+        "Brauplairn Tijio"
+      ],
+      "booksRead": 0,
+      "latestAddedOn": "2026-09-16T15:47:40Z",
+      "coverBooks": [
+        {
+          "bookId": 905,
+          "coverUpdatedOn": "2026-09-16T15:47:41Z",
+          "primaryFileType": "EPUB"
+        }
+      ]
+    },
+    {
+      "seriesName": "Rou plaisgrom Niotkloplei",
+      "bookCount": 4,
+      "authors": [
+        "Prikleworn Spelain"
+      ],
+      "booksRead": 0,
+      "latestAddedOn": "2026-09-16T15:47:39Z",
+      "coverBooks": [
+        {
+          "bookId": 896,
+          "coverUpdatedOn": "2026-09-16T15:47:38Z",
+          "seriesNumber": 1.0,
+          "primaryFileType": "EPUB"
+        },
+        {
+          "bookId": 897,
+          "coverUpdatedOn": "2026-09-16T15:47:38Z",
+          "seriesNumber": 2.0,
+          "primaryFileType": "EPUB"
+        },
+        {
+          "bookId": 898,
+          "coverUpdatedOn": "2026-09-16T15:47:39Z",
+          "seriesNumber": 3.0,
+          "primaryFileType": "EPUB"
+        }
+      ]
+    },
+    {
+      "seriesName": "HU Spudriontraut - Gioson flio Bliopreinkirn",
+      "bookCount": 2,
+      "authors": [
+        "Raitdrair Duglarn"
+      ],
+      "booksRead": 0,
+      "latestAddedOn": "2026-09-16T15:47:38Z",
+      "coverBooks": [
+        {
+          "bookId": 895,
+          "coverUpdatedOn": "2026-09-16T15:47:38Z",
+          "seriesNumber": 1.0,
+          "primaryFileType": "EPUB"
+        },
+        {
+          "bookId": 893,
+          "coverUpdatedOn": "2026-09-16T15:47:37Z",
+          "seriesNumber": 2.0,
+          "primaryFileType": "EPUB"
+        }
+      ]
+    },
+    {
+      "seriesName": "HU Spudriontraut - Pein Fletnispo-Gati",
+      "bookCount": 4,
+      "authors": [
+        "Raitdrair Duglarn"
+      ],
+      "booksRead": 0,
+      "latestAddedOn": "2026-09-16T15:47:37Z",
+      "coverBooks": [
+        {
+          "bookId": 892,
+          "coverUpdatedOn": "2026-09-16T15:47:37Z",
+          "seriesNumber": 1.0,
+          "primaryFileType": "EPUB"
+        },
+        {
+          "bookId": 894,
+          "coverUpdatedOn": "2026-09-16T15:47:38Z",
+          "seriesNumber": 2.0,
+          "primaryFileType": "EPUB"
+        },
+        {
+          "bookId": 891,
+          "coverUpdatedOn": "2026-09-16T15:47:37Z",
+          "seriesNumber": 3.0,
+          "primaryFileType": "EPUB"
+        }
+      ]
+    },
+    {
+      "seriesName": "Pumion hat Daivil",
+      "bookCount": 2,
+      "authors": [
+        "Kajiakli Cufrum"
+      ],
+      "booksRead": 0,
+      "latestAddedOn": "2026-09-16T15:47:34Z",
+      "coverBooks": [
+        {
+          "bookId": 889,
+          "coverUpdatedOn": "2026-09-16T15:47:34Z",
+          "seriesNumber": 1.0,
+          "primaryFileType": "EPUB"
+        },
+        {
+          "bookId": 145,
+          "coverUpdatedOn": "2026-09-16T15:42:36Z",
+          "seriesNumber": 2.0,
+          "primaryFileType": "EPUB"
+        }
+      ]
+    },
+    {
+      "seriesName": "Dru Slazonspio-Saga",
+      "bookCount": 1,
+      "authors": [
+        "Skusa Fawus"
+      ],
+      "booksRead": 0,
+      "latestAddedOn": "2026-09-16T15:47:34Z",
+      "coverBooks": [
+        {
+          "bookId": 888,
+          "coverUpdatedOn": "2026-09-16T15:47:34Z",
+          "seriesNumber": 1.0,
+          "primaryFileType": "PDF"
+        }
+      ]
+    },
+    {
+      "seriesName": "Fur Seikek plek Nospouvorn",
+      "bookCount": 1,
+      "seriesTotal": 6,
+      "authors": [
+        "Skusa Fawus"
+      ],
+      "booksRead": 0,
+      "latestAddedOn": "2026-09-16T15:47:33Z",
+      "coverBooks": [
+        {
+          "bookId": 887,
+          "coverUpdatedOn": "2026-09-16T15:47:34Z",
+          "seriesNumber": 3.0,
+          "primaryFileType": "PDF"
+        }
+      ]
+    },
+    {
+      "seriesName": "Wauwoukiom Skusleszairn",
+      "bookCount": 1,
+      "authors": [
+        "Retiplias Drucau"
+      ],
+      "booksRead": 0,
+      "latestAddedOn": "2026-09-16T15:47:33Z",
+      "coverBooks": [
+        {
+          "bookId": 886,
+          "coverUpdatedOn": "2026-09-16T15:47:33Z",
+          "primaryFileType": "EPUB"
+        }
+      ]
+    },
+    {
+      "seriesName": "Naiklau Seiflaisbren",
+      "bookCount": 4,
+      "authors": [
+        "Spotwo Luklirirn"
+      ],
+      "booksRead": 0,
+      "latestAddedOn": "2026-09-16T15:47:32Z",
+      "coverBooks": [
+        {
+          "bookId": 882,
+          "coverUpdatedOn": "2026-09-16T15:47:32Z",
+          "seriesNumber": 1.0,
+          "primaryFileType": "EPUB"
+        },
+        {
+          "bookId": 875,
+          "coverUpdatedOn": "2026-09-16T15:47:30Z",
+          "seriesNumber": 2.0,
+          "primaryFileType": "EPUB"
+        },
+        {
+          "bookId": 874,
+          "coverUpdatedOn": "2026-09-16T15:47:30Z",
+          "seriesNumber": 3.0,
+          "primaryFileType": "EPUB"
+        }
+      ]
+    },
+    {
+      "seriesName": "Gul Woutfri za Spiotraslait",
+      "bookCount": 2,
+      "seriesTotal": 4,
+      "authors": [
+        "Kionlar Frouskun"
+      ],
+      "booksRead": 0,
+      "latestAddedOn": "2026-09-16T15:47:32Z",
+      "coverBooks": [
+        {
+          "bookId": 799,
+          "coverUpdatedOn": "2026-09-16T15:46:52Z",
+          "seriesNumber": 2.0,
+          "primaryFileType": "EPUB"
+        },
+        {
+          "bookId": 884,
+          "coverUpdatedOn": "2026-09-16T15:47:33Z",
+          "primaryFileType": "EPUB"
+        }
+      ]
+    },
+    {
+      "seriesName": "Pes Tufun",
+      "bookCount": 4,
+      "seriesTotal": 10,
+      "authors": [
+        "Spotwo Luklirirn"
+      ],
+      "booksRead": 0,
+      "latestAddedOn": "2026-09-16T15:47:32Z",
+      "coverBooks": [
+        {
+          "bookId": 867,
+          "coverUpdatedOn": "2026-09-16T15:47:28Z",
+          "seriesNumber": 1.0,
+          "primaryFileType": "EPUB"
+        },
+        {
+          "bookId": 883,
+          "coverUpdatedOn": "2026-09-16T15:47:32Z",
+          "seriesNumber": 2.0,
+          "primaryFileType": "EPUB"
+        },
+        {
+          "bookId": 871,
+          "coverUpdatedOn": "2026-09-16T15:47:29Z",
+          "seriesNumber": 3.0,
+          "primaryFileType": "EPUB"
+        },
+        {
+          "bookId": 879,
+          "coverUpdatedOn": "2026-09-16T15:47:31Z",
+          "seriesNumber": 4.0,
+          "primaryFileType": "EPUB"
+        },
+        {
+          "bookId": 878,
+          "coverUpdatedOn": "2026-09-16T15:47:31Z",
+          "seriesNumber": 5.0,
+          "primaryFileType": "EPUB"
+        }
+      ]
+    }
+  ],
+  "page": 0,
+  "size": 20,
+  "totalElements": 189,
+  "totalPages": 10,
+  "hasNext": true,
+  "hasPrevious": false
+}

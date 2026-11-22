@@ -1,0 +1,13 @@
+# WebdavKit — aufgenommen 2026-09-19 10:13
+# Datei | Status | Inhaltstyp | Bytes | Anfrage
+options.txt | 200 | text/html; charset=UTF-8 | 0 | OPTIONS 
+propfind-0.xml | 207 | application/xml; charset=utf-8 | 661 | PROPFIND 
+propfind-1.xml | 207 | application/xml; charset=utf-8 | 3201 | PROPFIND 
+propfind-unendlich.xml | 207 | application/xml; charset=utf-8 | 7045 | PROPFIND 
+propfind-ohne-body.xml | 207 | application/xml; charset=utf-8 | 2820 | PROPFIND 
+propfind-unterordner.xml | 207 | application/xml; charset=utf-8 | 1271 | PROPFIND https://nextcloud.example/remote.php/dav/files/leser/B%c3%bccher/Maprekeit%20Siacou/
+datei-kopf.headers | 200 | — | 0 | HEAD https://nextcloud.example/remote.php/dav/files/leser/B%c3%bccher/Jegeil%20Jauthern%20-%20Gutol%20Spespaifiar%20braprigla.epub
+datei-bereich.bin | 206 | application/epub+zip | 1024 | GET https://nextcloud.example/remote.php/dav/files/leser/B%c3%bccher/Jegeil%20Jauthern%20-%20Gutol%20Spespaifiar%20braprigla.epub
+datei-ende.bin | 206 | application/epub+zip | 65536 | GET https://nextcloud.example/remote.php/dav/files/leser/B%c3%bccher/Jegeil%20Jauthern%20-%20Gutol%20Spespaifiar%20braprigla.epub
+401.xml | 401 | application/xml; charset=utf-8 | 488 | PROPFIND 
+404.xml | 404 | application/xml; charset=utf-8 | 250 | PROPFIND gibt-es-nicht/

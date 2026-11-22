@@ -1,0 +1,86 @@
+{
+  "@context": "https://readium.org/webpub-manifest/context.jsonld",
+  "metadata": {
+    "@type": "http://schema.org/Book",
+    "conformsTo": "https://readium.org/webpub-manifest/profiles/divina",
+    "title": "Fiahot_zi_Wani__Doppelband-Edition_1__-_Triadroflur_Binsiojiarn",
+    "identifier": "0RM6ZZJX3SFDH",
+    "modified": "2026-09-14T23:51:00.576+02:00",
+    "numberOfPages": 4,
+    "letterer": [
+      "Triadroflur Binsiojiarn"
+    ],
+    "penciler": [
+      "Triadroflur Binsiojiarn"
+    ],
+    "belongsTo": {
+      "series": [
+        {
+          "name": "Fiahot slem Wani",
+          "position": 1.0,
+          "links": [
+            {
+              "href": "https://comics.example/opds/v2/series/0RM6ZZJWZS971",
+              "type": "application/opds+json"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "links": [
+    {
+      "rel": "self",
+      "href": "https://comics.example/opds/v2/books/0RM6ZZJX3SFDH/manifest",
+      "type": "application/divina+json"
+    },
+    {
+      "rel": "http://opds-spec.org/acquisition",
+      "href": "https://comics.example/opds/v2/books/0RM6ZZJX3SFDH/file",
+      "type": "application/vnd.comicbook+zip"
+    },
+    {
+      "rel": "http://www.cantook.com/api/progression",
+      "href": "https://comics.example/opds/v2/books/0RM6ZZJX3SFDH/progression",
+      "type": "application/vnd.readium.progression+json"
+    }
+  ],
+  "readingOrder": [
+    {
+      "href": "https://comics.example/opds/v2/books/0RM6ZZJX3SFDH/pages/1?contentNegotiation=false",
+      "type": "image/jpeg",
+      "width": 1400,
+      "height": 2100
+    },
+    {
+      "href": "https://comics.example/opds/v2/books/0RM6ZZJX3SFDH/pages/2?contentNegotiation=false",
+      "type": "image/jpeg",
+      "width": 1400,
+      "height": 2100
+    },
+    {
+      "href": "https://comics.example/opds/v2/books/0RM6ZZJX3SFDH/pages/3?contentNegotiation=false",
+      "type": "image/png",
+      "width": 2800,
+      "height": 2100,
+      "alternate": [
+        {
+          "href": "https://comics.example/opds/v2/books/0RM6ZZJX3SFDH/pages/3?contentNegotiation=false&convert=jpeg",
+          "type": "image/jpeg",
+          "width": 2800,
+          "height": 2100
+        }
+      ]
+    },
+    {
+      "href": "https://comics.example/opds/v2/books/0RM6ZZJX3SFDH/pages/4?contentNegotiation=false",
+      "type": "image/jpeg"
+    }
+  ],
+  "resources": [
+    {
+      "href": "https://comics.example/opds/v2/books/0RM6ZZJX3SFDH/thumbnail",
+      "type": "image/jpeg"
+    }
+  ]
+}

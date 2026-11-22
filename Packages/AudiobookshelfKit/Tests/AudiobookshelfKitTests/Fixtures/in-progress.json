@@ -1,0 +1,181 @@
+{
+  "results": [
+    {
+      "id": "b5870c20-7d6d-418b-891a-c8f10fdfb29d",
+      "ino": "4512073",
+      "oldLibraryItemId": null,
+      "libraryId": "eda12180-b631-4b53-b38d-f80bfd8c75e1",
+      "folderId": "c2783162-4ae9-4208-8db9-a371849bde77",
+      "path": "/audiobooks/W.E. Frioglil/Faufras Sutblai/1 - Klor Drigei prou Jautru",
+      "relPath": "W.E. Frioglil/Faufras Sutblai/1 - Klor Drigei prou Jautru",
+      "isFile": false,
+      "mtimeMs": 1789422642418,
+      "ctimeMs": 1789422642418,
+      "birthtimeMs": 1789422642408,
+      "addedAt": 1789422671880,
+      "updatedAt": 1789759973825,
+      "isMissing": false,
+      "isInvalid": false,
+      "mediaType": "book",
+      "media": {
+        "id": "f3792e16-f643-4baa-ae86-43dbc968205d",
+        "metadata": {
+          "title": "Faufras Sutblai gris plai Drigei prou Jautru",
+          "titleIgnorePrefix": "Faufras Sutblai gris plai Drigei prou Jautru",
+          "subtitle": "Faufras Sutblai 1",
+          "authorName": "W. E. Frioglil",
+          "authorNameLF": "Frioglil, W. E.",
+          "narratorName": "Zouttek Nakrause",
+          "seriesName": "Faufras Sutblai #1",
+          "genres": [
+            "Audiobook"
+          ],
+          "publishedYear": "2013",
+          "publishedDate": null,
+          "publisher": "Pablai Publishing",
+          "description": "1905",
+          "isbn": "4966797441548",
+          "asin": "Q390XTVQCZ",
+          "language": "German",
+          "explicit": false,
+          "abridged": false
+        },
+        "coverPath": "/audiobooks/W.E. Frioglil/Faufras Sutblai/1 - Klor Drigei prou Jautru/Cover_1888.png",
+        "tags": [
+          "Action & Abenteuer",
+          "Fantasy",
+          "Science Fiction & Fantasy"
+        ],
+        "numTracks": 108,
+        "numAudioFiles": 108,
+        "numChapters": 108,
+        "duration": 38166.99136200002,
+        "size": 672396850
+      },
+      "numFiles": 109,
+      "size": 672959653
+    },
+    {
+      "id": "770c445a-d918-4048-82a7-c7046f63759c",
+      "ino": "4513797",
+      "oldLibraryItemId": null,
+      "libraryId": "eda12180-b631-4b53-b38d-f80bfd8c75e1",
+      "folderId": "c2783162-4ae9-4208-8db9-a371849bde77",
+      "path": "/audiobooks/W.W.Y. Kloflo/Ble Cefriam wuk Peitosfrak/1 - Niam Fliskek",
+      "relPath": "W.W.Y. Kloflo/Ble Cefriam wuk Peitosfrak/1 - Niam Fliskek",
+      "isFile": false,
+      "mtimeMs": 1789733347154,
+      "ctimeMs": 1789733347154,
+      "birthtimeMs": 1789733347083,
+      "addedAt": 1789733376399,
+      "updatedAt": 1789733806336,
+      "isMissing": false,
+      "isInvalid": false,
+      "mediaType": "book",
+      "media": {
+        "id": "f303ff44-f83c-4d95-a66c-409c5f6fb85b",
+        "metadata": {
+          "title": "Niam Fliskek",
+          "titleIgnorePrefix": "Niam Fliskek",
+          "subtitle": "Ble Cefriam wuk Peitosfrak 1",
+          "authorName": "W. W. Y. Kloflo",
+          "authorNameLF": "Kloflo, W. W. Y.",
+          "narratorName": "Nausvurn Stiflarern",
+          "seriesName": "Cefriam wuk Peitosfrak #1",
+          "genres": [
+            "Literatur & Belletristik",
+            "Science Fiction & Fantasy"
+          ],
+          "publishedYear": "2007",
+          "publishedDate": null,
+          "publisher": "Krau Blunspa",
+          "description": "<p>Description removed from the test data.</p> <p>&gt;&gt; It was HTML.</p>",
+          "isbn": "1628749663752",
+          "asin": "D5696OTGED",
+          "language": "German",
+          "explicit": false,
+          "abridged": false
+        },
+        "coverPath": "/metadata/items/770c445a-d918-4048-82a7-c7046f63759c/cover.jpg",
+        "tags": [
+          "Belletristik",
+          "Mit Videospiel-, Film- & Fernsehbezug",
+          "Fantasy",
+          "Action & Abenteuer",
+          "Drachen & Fabelwesen"
+        ],
+        "numTracks": 283,
+        "numAudioFiles": 283,
+        "numChapters": 283,
+        "duration": 82397.77332999995,
+        "size": 1312474413
+      },
+      "numFiles": 283,
+      "size": 1312474413
+    },
+    {
+      "id": "d996253c-b7a3-4b93-b62b-d84595d17e9e",
+      "ino": "4513806",
+      "oldLibraryItemId": null,
+      "libraryId": "eda12180-b631-4b53-b38d-f80bfd8c75e1",
+      "folderId": "c2783162-4ae9-4208-8db9-a371849bde77",
+      "path": "/audiobooks/Flautjenbous Kroscia/Digorem",
+      "relPath": "Flautjenbous Kroscia/Digorem",
+      "isFile": false,
+      "mtimeMs": 1789733347404,
+      "ctimeMs": 1789733347404,
+      "birthtimeMs": 1789733347251,
+      "addedAt": 1789733381687,
+      "updatedAt": 1789733806435,
+      "isMissing": false,
+      "isInvalid": false,
+      "mediaType": "book",
+      "media": {
+        "id": "362d0024-ec61-4c32-9977-c82bc3f49c78",
+        "metadata": {
+          "title": "Digorem",
+          "titleIgnorePrefix": "Digorem",
+          "subtitle": "Fru Petdior Original Hörspiel",
+          "authorName": "Flautjenbous Kroscia",
+          "authorNameLF": "Kroscia, Flautjenbous",
+          "narratorName": "Moteir Rokaut, Krezavu Vodrioslim, Fifresia Prainplio Niadresian, Zeitwau Lajoufi, Kribineind Ciocak, Dratmaind Titcei",
+          "seriesName": "Digorem #1",
+          "genres": [
+            "Thriller"
+          ],
+          "publishedYear": "2016",
+          "publishedDate": null,
+          "publisher": "Petdior Baihaskia",
+          "description": "Description removed from the test data.",
+          "isbn": null,
+          "asin": "W70X763OEZ",
+          "language": "German",
+          "explicit": false,
+          "abridged": false
+        },
+        "coverPath": "/metadata/items/d996253c-b7a3-4b93-b62b-d84595d17e9e/cover.jpg",
+        "tags": [
+          "Thriller",
+          "Technothriller"
+        ],
+        "numTracks": 75,
+        "numAudioFiles": 75,
+        "numChapters": 75,
+        "duration": 67644.23662300002,
+        "size": 1427543028
+      },
+      "numFiles": 75,
+      "size": 1427543028
+    }
+  ],
+  "total": 3,
+  "limit": 100,
+  "page": 0,
+  "sortDesc": false,
+  "filterBy": "progress.aW4tcHJvZ3Jlc3M=",
+  "mediaType": "book",
+  "minified": false,
+  "collapseseries": false,
+  "include": "",
+  "offset": 0
+}

@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Spotwo Trawipri",
+  "displaytitle": "<span lang=\"de\" dir=\"ltr\"><span class=\"mw-page-title-main\">Spotwo Trawipri</span></span>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q5416",
+  "titles": {
+    "canonical": "Spotwo_Trawipri",
+    "normalized": "Spotwo Trawipri",
+    "display": "<span lang=\"de\" dir=\"ltr\"><span class=\"mw-page-title-main\">Spotwo Trawipri</span></span>"
+  },
+  "pageid": 32212,
+  "thumbnail": {
+    "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Spotwo_Trawipri.jpg/330px-Spotwo_Trawipri.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "width": 330,
+    "height": 452
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/5/58/Spotwo_Trawipri.jpg?utm_source=de.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "width": 828,
+    "height": 1134
+  },
+  "lang": "de",
+  "dir": "ltr",
+  "revision": "550619605",
+  "tid": "s53913n7-1165-83x6-io11-0610bn8u52n7",
+  "timestamp": "2026-01-01T00:00:00Z",
+  "description": "österreichischer Skirennläufer",
+  "description_source": "central",
+  "content_urls": {
+    "desktop": {
+      "page": "https://de.wikipedia.org/wiki/Spotwo_Trawipri",
+      "revisions": "https://de.wikipedia.org/wiki/Spotwo_Trawipri?action=history",
+      "edit": "https://de.wikipedia.org/wiki/Spotwo_Trawipri?action=edit",
+      "talk": "https://de.wikipedia.org/wiki/Diskussion:Spotwo_Trawipri"
+    },
+    "mobile": {
+      "page": "https://de.wikipedia.org/wiki/Spotwo_Trawipri",
+      "revisions": "https://de.wikipedia.org/wiki/Special:History/Spotwo_Trawipri",
+      "edit": "https://de.wikipedia.org/wiki/Spotwo_Trawipri?action=edit",
+      "talk": "https://de.wikipedia.org/wiki/Diskussion:Spotwo_Trawipri"
+    }
+  },
+  "extract": "Spotwo Trawipri ist ein ehemaliger österreichischer Skirennläufer. Description removed from the test data.",
+  "extract_html": "<p><b>Spotwo Trawipri</b> ist ein ehemaliger österreichischer Skirennläufer. Description removed from the test data.</p>"
+}

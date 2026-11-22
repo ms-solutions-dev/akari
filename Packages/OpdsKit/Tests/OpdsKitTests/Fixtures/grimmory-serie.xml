@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/terms/" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
+  <id>urn:booklore:series:Venpaimul Jibiozir</id>
+  <title>Venpaimul Jibiozir series</title>
+  <updated>2026-09-19T06:53:04.553089178Z</updated>
+  <link rel="self" href="/api/v1/opds/catalog?series=Venpaimul+Jibiozir&amp;page=1&amp;size=50" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  <link rel="start" href="/api/v1/opds" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <link rel="search" type="application/opensearchdescription+xml" title="Search" href="/api/v1/opds/search.opds"/>
+  <opensearch:totalResults>1</opensearch:totalResults>
+  <opensearch:startIndex>1</opensearch:startIndex>
+  <opensearch:itemsPerPage>50</opensearch:itemsPerPage>
+  <link rel="first" href="/api/v1/opds/catalog?series=Venpaimul+Jibiozir&amp;page=1&amp;size=50" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  <link rel="last" href="/api/v1/opds/catalog?series=Venpaimul+Jibiozir&amp;page=1&amp;size=50" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  <entry>
+    <title>Pe Cannugou</title>
+    <id>urn:booklore:book:34</id>
+    <updated>2026-09-14T16:53:26Z</updated>
+    <author><name>Veistiobrairn Sleistiazeind</name></author>
+    <author><name>Veistiobrairn Sleistiazeind</name></author>
+    <dc:publisher>Stiaflidrorn C-Book</dc:publisher>
+    <dc:language>de</dc:language>
+    <category term="Thriller"/>
+    <summary>Description removed from the test data.</summary>
+    <dc:identifier>urn:isbn:6002992346</dc:identifier>
+    <meta property="belongs-to-collection" id="series">Venpaimul Jibiozir</meta>
+    <meta property="group-position" refines="#series">1.0</meta>
+    <link href="/api/v1/opds/34/download?fileId=50" rel="http://opds-spec.org/acquisition" type="application/epub+zip" title="EPUB"/>
+    <link rel="http://opds-spec.org/image" href="/api/v1/opds/34/cover?2026-09-14T16:54:10Z" type="image/jpeg"/>
+    <link rel="http://opds-spec.org/image/thumbnail" href="/api/v1/opds/34/cover?2026-09-14T16:54:10Z" type="image/jpeg"/>
+  </entry>
+</feed>

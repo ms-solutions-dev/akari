@@ -1,0 +1,84 @@
+DEFINE SCHEMA
+
+    RECORD TYPE "cloudkit.share" (
+        "___createTime" TIMESTAMP,
+        "___createdBy"  REFERENCE,
+        "___etag"       STRING,
+        "___modTime"    TIMESTAMP,
+        "___modifiedBy" REFERENCE,
+        "___recordID"   REFERENCE QUERYABLE,
+        GRANT WRITE TO "_creator",
+        GRANT CREATE TO "_icloud",
+        GRANT READ TO "_world"
+    );
+
+    RECORD TYPE Geraet (
+        "___createTime" TIMESTAMP,
+        "___createdBy"  REFERENCE,
+        "___etag"       STRING,
+        "___modTime"    TIMESTAMP,
+        "___modifiedBy" REFERENCE,
+        "___recordID"   REFERENCE QUERYABLE,
+        "benannt"       INT64,
+        "geaendert"     TIMESTAMP,
+        "modell"        STRING,
+        "name"          STRING,
+        "zuletzt"       TIMESTAMP,
+        GRANT WRITE TO "_creator",
+        GRANT CREATE TO "_icloud",
+        GRANT READ TO "_icloud"
+    );
+
+    RECORD TYPE Lesesitzung (
+        "___createTime" TIMESTAMP,
+        "___createdBy"  REFERENCE,
+        "___etag"       STRING,
+        "___modTime"    TIMESTAMP,
+        "___modifiedBy" REFERENCE,
+        "___recordID"   REFERENCE QUERYABLE,
+        "abgeschlossen" INT64,
+        "anbieter"      STRING,
+        "anteil"        DOUBLE,
+        "art"           STRING,
+        "beginn"        TIMESTAMP,
+        "ende"          TIMESTAMP,
+        "geaendert"     TIMESTAMP,
+        "lesezeit"      DOUBLE,
+        "name"          STRING,
+        "seiten"        INT64,
+        "server"        STRING,
+        "titel"         STRING,
+        GRANT WRITE TO "_creator",
+        GRANT CREATE TO "_icloud",
+        GRANT READ TO "_icloud"
+    );
+
+    RECORD TYPE Merkeintrag (
+        "___createTime" TIMESTAMP,
+        "___createdBy"  REFERENCE,
+        "___etag"       STRING,
+        "___modTime"    TIMESTAMP,
+        "___modifiedBy" REFERENCE,
+        "___recordID"   REFERENCE QUERYABLE,
+        "geaendert"     TIMESTAMP,
+        "kennung"       STRING,
+        "reihenfolge"   INT64,
+        "zeit"          TIMESTAMP,
+        GRANT WRITE TO "_creator",
+        GRANT CREATE TO "_icloud",
+        GRANT READ TO "_icloud"
+    );
+
+    RECORD TYPE Profileinstellung (
+        "___createTime" TIMESTAMP,
+        "___createdBy"  REFERENCE,
+        "___etag"       STRING,
+        "___modTime"    TIMESTAMP,
+        "___modifiedBy" REFERENCE,
+        "___recordID"   REFERENCE QUERYABLE,
+        "geaendert"     TIMESTAMP,
+        "wert"          STRING,
+        GRANT WRITE TO "_creator",
+        GRANT CREATE TO "_icloud",
+        GRANT READ TO "_icloud"
+    );

@@ -1,0 +1,30 @@
+# GrimmoryKit — aufgenommen 2026-09-19 09:19
+# Datei | Status | Inhaltstyp | Bytes | Anfrage
+login.json | 200 | application/json | 633 | POST /api/v1/auth/login
+refresh.json | 401 | application/json | 90 | POST /api/v1/auth/refresh
+me.json | 200 | application/json | 2471 | GET /api/v1/users/me
+app-me.json | 200 | application/json | 101 | GET /api/v1/app/users/me
+books.json | 200 | application/json | 1578132 | GET /api/v1/books?withDescription=true
+books-voll.json | 200 | application/json | 2744594 | GET /api/v1/books?withDescription=true&stripForListView=false
+app-books.json | 200 | application/json | 37737 | GET /api/v1/app/books?page=0&size=200
+app-books-seite-1.json | 200 | application/json | 39273 | GET /api/v1/app/books?page=1&size=200
+app-series.json | 200 | application/json | 8669 | GET /api/v1/app/series
+app-shelves.json | 200 | application/json | 78 | GET /api/v1/app/shelves
+shelves.json | 200 | application/json | 109 | GET /api/v1/shelves
+app-shelves-magic.json | 200 | application/json | 2 | GET /api/v1/app/shelves/magic
+shelf-books.json | 200 | application/json | 17187 | GET /api/v1/shelves/1/books
+continue-reading.json | 200 | application/json | 2 | GET /api/v1/app/books/continue-reading
+authors.json | 200 | application/json | 45229 | GET /api/v1/authors
+author.json | 200 | application/json | 666 | GET /api/v1/authors/84
+author-thumbnail.headers | 200 | — | 0 | HEAD /api/v1/media/author/84/thumbnail
+app-search.json | 200 | application/json | 3381 | GET /api/v1/app/books/search?q=Plinpro&page=0&size=20
+app-book.json | 200 | application/json | 2398 | GET /api/v1/app/books/59
+app-book-progress.json | 200 | application/json | 326 | GET /api/v1/app/books/59/progress
+media-thumbnail.headers | 200 | — | 0 | HEAD /api/v1/media/book/59/thumbnail
+media-cover.headers | 200 | — | 0 | HEAD /api/v1/media/book/59/cover
+book-content.headers | 206 | — | 0 | HEAD /api/v1/books/59/content
+book-download.headers | 200 | — | 0 | HEAD /api/v1/books/59/download
+401.json | 401 | application/json | 103 | GET /api/v1/app/books?size=1
+401-login.json | 401 | application/json | 90 | POST /api/v1/auth/login
+404.json | 404 | application/json | 104 | GET /api/v1/app/books/999999999
+abgebrochen.json | — | — | 789066 | abgeschnitten aus books.json

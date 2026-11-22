@@ -1,0 +1,50 @@
+{
+  "sourceLanguage": "en",
+  "strings": {
+    "NSCameraUsageDescription": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Akari liest damit den Einrichtungs-Code deines Servers — nur dafür."
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Akari uses it to read your server’s setup code — nothing else."
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Akari bunu yalnızca sunucunuzun kurulum kodunu okumak için kullanır."
+          }
+        }
+      }
+    },
+    "NSLocalNetworkUsageDescription": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Akari sucht im Heimnetz nach deinen Servern für Bücher, Manga und Hörbücher."
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Akari looks for your book, manga and audiobook servers on your home network."
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Akari, ev ağınızda kitap, manga ve sesli kitap sunucularınızı arar."
+          }
+        }
+      }
+    }
+  },
+  "version": "1.0"
+}

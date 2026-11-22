@@ -1,0 +1,5 @@
+Kopien aus den Fixtures der Kits (17.09.2026), mit Anbieter-Vorsilbe, damit
+das Register gegen dieselben Antworten prüft wie die Kits — nur die Anmeldung,
+der eigene Nutzer und die Absagen. Neu aufnehmen: fixtures-holen.sh (intern),
+dann die Dateien hier ersetzen.
+kavita-login.json  (aus KavitaKit: login.json)

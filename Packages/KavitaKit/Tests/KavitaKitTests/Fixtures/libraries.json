@@ -1,0 +1,89 @@
+[
+  {
+    "lastScanned": "0001-01-01T00:00:00",
+    "coverImage": null,
+    "folderWatching": false,
+    "includeInDashboard": true,
+    "includeInRecommended": true,
+    "manageCollections": true,
+    "manageReadingLists": true,
+    "includeInSearch": true,
+    "allowScrobbling": false,
+    "folders": [
+      "/data/buecher"
+    ],
+    "collapseSeriesRelationships": false,
+    "libraryFileTypes": [
+      2,
+      3
+    ],
+    "excludePatterns": [],
+    "allowMetadataMatching": true,
+    "enableMetadata": true,
+    "removePrefixForSortName": false,
+    "inheritWebLinksFromFirstChapter": false,
+    "defaultLanguage": "",
+    "metadataProvider": 2,
+    "id": 1,
+    "name": "Bücher",
+    "type": 2
+  },
+  {
+    "lastScanned": "0001-01-01T00:00:00",
+    "coverImage": null,
+    "folderWatching": false,
+    "includeInDashboard": true,
+    "includeInRecommended": true,
+    "manageCollections": true,
+    "manageReadingLists": true,
+    "includeInSearch": true,
+    "allowScrobbling": false,
+    "folders": [
+      "/data/comics"
+    ],
+    "collapseSeriesRelationships": false,
+    "libraryFileTypes": [
+      1,
+      4
+    ],
+    "excludePatterns": [],
+    "allowMetadataMatching": true,
+    "enableMetadata": true,
+    "removePrefixForSortName": false,
+    "inheritWebLinksFromFirstChapter": false,
+    "defaultLanguage": "",
+    "metadataProvider": 4,
+    "id": 3,
+    "name": "Comics",
+    "type": 1
+  },
+  {
+    "lastScanned": "0001-01-01T00:00:00",
+    "coverImage": null,
+    "folderWatching": false,
+    "includeInDashboard": true,
+    "includeInRecommended": true,
+    "manageCollections": true,
+    "manageReadingLists": true,
+    "includeInSearch": true,
+    "allowScrobbling": false,
+    "folders": [
+      "/data/manga"
+    ],
+    "collapseSeriesRelationships": false,
+    "libraryFileTypes": [
+      1,
+      4
+    ],
+    "excludePatterns": [],
+    "allowMetadataMatching": true,
+    "enableMetadata": true,
+    "removePrefixForSortName": false,
+    "inheritWebLinksFromFirstChapter": false,
+    "defaultLanguage": "",
+    "metadataProvider": 3,
+    "id": 2,
+    "name": "Manga",
+    "type": 0
+  }
+]

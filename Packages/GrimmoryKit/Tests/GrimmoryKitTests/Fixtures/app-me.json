@@ -1,0 +1,7 @@
+{
+  "canUpload": true,
+  "canDownload": true,
+  "canAccessBookdrop": true,
+  "maxFileUploadSizeMb": 100,
+  "admin": true
+}

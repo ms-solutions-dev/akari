@@ -1,0 +1,9 @@
+[
+  {
+    "id": 1,
+    "name": "Favorites",
+    "icon": "heart",
+    "bookCount": 5,
+    "publicShelf": false
+  }
+]

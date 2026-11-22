@@ -1,0 +1,116 @@
+{
+  "P106": [
+    {
+      "id": "Q56057$2291MD6D-1811-0182-J2FI-3581881LB991",
+      "rank": "normal",
+      "qualifiers": [],
+      "references": [],
+      "property": {
+        "id": "P106",
+        "data_type": "wikibase-item"
+      },
+      "value": {
+        "type": "value",
+        "content": "Q3282637"
+      }
+    },
+    {
+      "id": "Q56057$112959A8-90J2-5LH4-9NY5-70T7C844DUS6",
+      "rank": "normal",
+      "qualifiers": [],
+      "references": [],
+      "property": {
+        "id": "P106",
+        "data_type": "wikibase-item"
+      },
+      "value": {
+        "type": "value",
+        "content": "Q36180"
+      }
+    },
+    {
+      "id": "Q56057$911FX4Y1-F9V2-8W0V-IRGA-R0RX95X763US",
+      "rank": "normal",
+      "qualifiers": [],
+      "references": [],
+      "property": {
+        "id": "P106",
+        "data_type": "wikibase-item"
+      },
+      "value": {
+        "type": "value",
+        "content": "Q6625963"
+      }
+    },
+    {
+      "id": "Q56057$P0FVQ84M-9V47-44MU-2ZB2-K65U419XC70T",
+      "rank": "normal",
+      "qualifiers": [],
+      "references": [],
+      "property": {
+        "id": "P106",
+        "data_type": "wikibase-item"
+      },
+      "value": {
+        "type": "value",
+        "content": "Q4853732"
+      }
+    },
+    {
+      "id": "Q56057$XB030OW1-J4Q7-1K2S-135Q-53152558H068",
+      "rank": "normal",
+      "qualifiers": [],
+      "references": [],
+      "property": {
+        "id": "P106",
+        "data_type": "wikibase-item"
+      },
+      "value": {
+        "type": "value",
+        "content": "Q28389"
+      }
+    },
+    {
+      "id": "Q56057$6PN6R879-671A-3T97-3TBX-07113Q3PS7IJ",
+      "rank": "normal",
+      "qualifiers": [],
+      "references": [],
+      "property": {
+        "id": "P106",
+        "data_type": "wikibase-item"
+      },
+      "value": {
+        "type": "value",
+        "content": "Q482980"
+      }
+    },
+    {
+      "id": "Q56057$47i31069-8g30-0467-235e-63w3cn400105",
+      "rank": "normal",
+      "qualifiers": [],
+      "references": [],
+      "property": {
+        "id": "P106",
+        "data_type": "wikibase-item"
+      },
+      "value": {
+        "type": "value",
+        "content": "Q111597957"
+      }
+    },
+    {
+      "id": "Q56057$I8KL3234-0584-173A-963E-3AU18X038918",
+      "rank": "normal",
+      "qualifiers": [],
+      "references": [],
+      "property": {
+        "id": "P106",
+        "data_type": "wikibase-item"
+      },
+      "value": {
+        "type": "value",
+        "content": "Q37226"
+      }
+    }
+  ]
+}

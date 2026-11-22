@@ -1,0 +1,365 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:opds="http://opds-spec.org/2010/catalog" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
+  <id>urn:booklore:navigation:series</id>
+  <title>Series</title>
+  <updated>2026-09-19T06:53:03.156884452Z</updated>
+  <link rel="self" href="/api/v1/opds/series?page=1&amp;size=50" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <link rel="start" href="/api/v1/opds" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <link rel="search" type="application/opensearchdescription+xml" title="Search" href="/api/v1/opds/search.opds"/>
+  <opensearch:totalResults>189</opensearch:totalResults>
+  <opensearch:startIndex>1</opensearch:startIndex>
+  <opensearch:itemsPerPage>50</opensearch:itemsPerPage>
+  <entry>
+    <title>Venpaimul Jibiozir</title>
+    <id>urn:booklore:series:Venpaimul Jibiozir</id>
+    <updated>2026-09-19T06:53:03.157922855Z</updated>
+    <link rel="subsection" href="/api/v1/opds/catalog?series=Venpaimul+Jibiozir" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+    <content type="text">Books in the Venpaimul Jibiozir series</content>
+  </entry>
+  <entry>
+    <title>Higeci – Gunwond Foutlionglit</title>
+    <id>urn:booklore:series:Higeci – Gunwond Foutlionglit</id>
+    <updated>2026-09-19T06:53:03.159165188Z</updated>
+    <link rel="subsection" href="/api/v1/opds/catalog?series=Higeci+%E2%80%93+Gunwond+Foutlionglit" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+    <content type="text">Books in the Higeci – Gunwond Foutlionglit series</content>
+  </entry>
+  <entry>
+    <title>Spoukre nus Kloulen</title>
+    <id>urn:booklore:series:Spoukre nus Kloulen</id>
+    <updated>2026-09-19T06:53:03.162362375Z</updated>
+    <link rel="subsection" href="/api/v1/opds/catalog?series=Spoukre+me+Kloulen" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+    <content type="text">Books in the Spoukre nus Kloulen series</content>
+  </entry>
+  <entry>
+    <title>Tessai</title>
+    <id>urn:booklore:series:Tessai</id>
+    <updated>2026-09-19T06:53:03.162419995Z</updated>
+    <link rel="subsection" href="/api/v1/opds/catalog?series=Tessai" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+    <content type="text">Books in the Tessai series</content>
+  </entry>
+  <entry>
+    <title>Naiklau Seiflaisbren</title>
+    <id>urn:booklore:series:Naiklau Seiflaisbren</id>
+    <updated>2026-09-19T06:53:03.162448650Z</updated>
+    <link rel="subsection" href="/api/v1/opds/catalog?series=Naiklau+Seiflaisbren" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+    <content type="text">Books in the Naiklau Seiflaisbren series</content>
+  </entry>
+  <entry>
+    <title>Wagigru</title>
+    <id>urn:booklore:series:Wagigru</id>
+    <updated>2026-09-19T06:53:03.162467807Z</updated>
+    <link rel="subsection" href="/api/v1/opds/catalog?series=Wagigru" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+    <content type="text">Books in the Wagigru series</content>
+  </entry>
+  <entry>
+    <title>Girun Problou</title>
+    <id>urn:booklore:series:Girun Problou</id>
+    <updated>2026-09-19T06:53:03.162480531Z</updated>
+    <link rel="subsection" href="/api/v1/opds/catalog?series=Girun+Problou" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+    <content type="text">Books in the Girun Problou series</content>
+  </entry>
+  <entry>
+    <title>Pumion hat Daivil</title>
+    <id>urn:booklore:series:Pumion hat Daivil</id>
+    <updated>2026-09-19T06:53:03.162560894Z</updated>
+    <link rel="subsection" href="/api/v1/opds/catalog?series=Pumion+bior+Daivil" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+    <content type="text">Books in the Pumion hat Daivil series</content>
+  </entry>
+  <entry>
+    <title>Glifliandio</title>
+    <id>urn:booklore:series:Glifliandio</id>
+    <updated>2026-09-19T06:53:03.162594980Z</updated>
+    <link rel="subsection" href="/api/v1/opds/catalog?series=Glifliandio" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+    <content type="text">Books in the Glifliandio series</content>
+  </entry>
+  <entry>
+    <title>Tiablepind</title>
+    <id>urn:booklore:series:Tiablepind</id>
+    <updated>2026-09-19T06:53:03.162622071Z</updated>
+    <link rel="subsection" href="/api/v1/opds/catalog?series=Tiablepind" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+    <content type="text">Books in the Tiablepind series</content>
+  </entry>
+  <entry>
+    <title>Sketbraund</title>
+    <id>urn:booklore:series:Sketbraund</id>
+    <updated>2026-09-19T06:53:03.162832513Z</updated>
+    <link rel="subsection" href="/api/v1/opds/catalog?series=Sketbraund" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+    <content type="text">Books in the Sketbraund series</content>
+  </entry>
+  <entry>
+    <title>Kebla Kunste</title>
+    <id>urn:booklore:series:Kebla Kunste</id>
+    <updated>2026-09-19T06:53:03.163071560Z</updated>
+    <link rel="subsection" href="/api/v1/opds/catalog?series=Kebla+Kunste" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+    <content type="text">Books in the Kebla Kunste series</content>
+  </entry>
+  <entry>
+    <title>Kebla-Kunste-Serie</title>
+    <id>urn:booklore:series:Kebla-Kunste-Serie</id>
+    <updated>2026-09-19T06:53:03.163299715Z</updated>
+    <link rel="subsection" href="/api/v1/opds/catalog?series=Kebla-Kunste-Serie" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+    <content type="text">Books in the Kebla-Kunste-Serie series</content>
+  </entry>
+  <entry>
+    <title>Siogliak Rufral</title>
+    <id>urn:booklore:series:Siogliak Rufral</id>
+    <updated>2026-09-19T06:53:03.163314464Z</updated>
+    <link rel="subsection" href="/api/v1/opds/catalog?series=Siogliak+Rufral" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+    <content type="text">Books in the Siogliak Rufral series</content>
+  </entry>
+  <entry>
+    <title>Stislitgis hou Nekraumiarn</title>
+    <id>urn:booklore:series:Stislitgis hou Nekraumiarn</id>
+    <updated>2026-09-19T06:53:03.163545385Z</updated>
+    <link rel="subsection" href="/api/v1/opds/catalog?series=Stislitgis+spum+Nekraumiarn" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+    <content type="text">Books in the Stislitgis hou Nekraumiarn series</content>
+  </entry>
+  <entry>
+    <title>Nore</title>
+    <id>urn:booklore:series:Nore</id>
+    <updated>2026-09-19T06:53:03.163773881Z</updated>
+    <link rel="subsection" href="/api/v1/opds/catalog?series=Nore" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+    <content type="text">Books in the Nore series</content>
+  </entry>
+  <entry>
+    <title>Doutdrikait Pouslounstak</title>
+    <id>urn:booklore:series:Doutdrikait Pouslounstak</id>
+    <updated>2026-09-19T06:53:03.165317229Z</updated>
+    <link rel="subsection" href="/api/v1/opds/catalog?series=Doutdrikait+Pouslounstak" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+    <content type="text">Books in the Doutdrikait Pouslounstak series</content>
+  </entry>
+  <entry>
+    <title>Gliaspaunal</title>
+    <id>urn:booklore:series:Gliaspaunal</id>
+    <updated>2026-09-19T06:53:03.165566606Z</updated>
+    <link rel="subsection" href="/api/v1/opds/catalog?series=Gliaspaunal" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+    <content type="text">Books in the Gliaspaunal series</content>
+  </entry>
+  <entry>
+    <title>Kionbluk hour Tacebur</title>
+    <id>urn:booklore:series:Kionbluk hour Tacebur</id>
+    <updated>2026-09-19T06:53:03.165800152Z</updated>
+    <link rel="subsection" href="/api/v1/opds/catalog?series=Kionbluk+me+Tacebur" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+    <content type="text">Books in the Kionbluk hour Tacebur series</content>
+  </entry>
+  <entry>
+    <title>Deswutgou</title>
+    <id>urn:booklore:series:Deswutgou</id>
+    <updated>2026-09-19T06:53:03.166029560Z</updated>
+    <link rel="subsection" href="/api/v1/opds/catalog?series=Deswutgou" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+    <content type="text">Books in the Deswutgou series</content>
+  </entry>
+  <entry>
+    <title>Beijiol Kriokulio</title>
+    <id>urn:booklore:series:Beijiol Kriokulio</id>
+    <updated>2026-09-19T06:53:03.166260130Z</updated>
+    <link rel="subsection" href="/api/v1/opds/catalog?series=Beijiol+Kriokulio" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+    <content type="text">Books in the Beijiol Kriokulio series</content>
+  </entry>
+  <entry>
+    <title>Gamunma&apos;g Bakund Frionhos</title>
+    <id>urn:booklore:series:Gamunma&apos;g Bakund Frionhos</id>
+    <updated>2026-09-19T06:53:03.166588337Z</updated>
+    <link rel="subsection" href="/api/v1/opds/catalog?series=Gamunma%27g+Bakund+Frionhos" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+    <content type="text">Books in the Gamunma&apos;g Bakund Frionhos series</content>
+  </entry>
+  <entry>
+    <title>Gati skem Rohedrau</title>
+    <id>urn:booklore:series:Gati skem Rohedrau</id>
+    <updated>2026-09-19T06:53:03.167055499Z</updated>
+    <link rel="subsection" href="/api/v1/opds/catalog?series=Gati+bior+Rohedrau" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+    <content type="text">Books in the Gati skem Rohedrau series</content>
+  </entry>
+  <entry>
+    <title>Gati spio Traflis</title>
+    <id>urn:booklore:series:Gati spio Traflis</id>
+    <updated>2026-09-19T06:53:03.167076840Z</updated>
+    <link rel="subsection" href="/api/v1/opds/catalog?series=Gati+kren+Traflis" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+    <content type="text">Books in the Gati spio Traflis series</content>
+  </entry>
+  <entry>
+    <title>Gati slau Briploutju</title>
+    <id>urn:booklore:series:Gati slau Briploutju</id>
+    <updated>2026-09-19T06:53:03.167187131Z</updated>
+    <link rel="subsection" href="/api/v1/opds/catalog?series=Gati+kren+Briploutju" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+    <content type="text">Books in the Gati slau Briploutju series</content>
+  </entry>
+  <entry>
+    <title>Rouklai Brokri</title>
+    <id>urn:booklore:series:Rouklai Brokri</id>
+    <updated>2026-09-19T06:53:03.167293935Z</updated>
+    <link rel="subsection" href="/api/v1/opds/catalog?series=Rouklai+Brokri" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+    <content type="text">Books in the Rouklai Brokri series</content>
+  </entry>
+  <entry>
+    <title>Fubulum</title>
+    <id>urn:booklore:series:Fubulum</id>
+    <updated>2026-09-19T06:53:03.167407692Z</updated>
+    <link rel="subsection" href="/api/v1/opds/catalog?series=Fubulum" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+    <content type="text">Books in the Fubulum series</content>
+  </entry>
+  <entry>
+    <title>Fraifrifa</title>
+    <id>urn:booklore:series:Fraifrifa</id>
+    <updated>2026-09-19T06:53:03.167514235Z</updated>
+    <link rel="subsection" href="/api/v1/opds/catalog?series=Fraifrifa" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+    <content type="text">Books in the Fraifrifa series</content>
+  </entry>
+  <entry>
+    <title>Gunwond Kakrefa</title>
+    <id>urn:booklore:series:Gunwond Kakrefa</id>
+    <updated>2026-09-19T06:53:03.167621220Z</updated>
+    <link rel="subsection" href="/api/v1/opds/catalog?series=Gunwond+Kakrefa" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+    <content type="text">Books in the Gunwond Kakrefa series</content>
+  </entry>
+  <entry>
+    <title>Gunwond Zaijasau</title>
+    <id>urn:booklore:series:Gunwond Zaijasau</id>
+    <updated>2026-09-19T06:53:03.167727473Z</updated>
+    <link rel="subsection" href="/api/v1/opds/catalog?series=Gunwond+Zaijasau" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+    <content type="text">Books in the Gunwond Zaijasau series</content>
+  </entry>
+  <entry>
+    <title>Kiak kasaiplou Fleiwout</title>
+    <id>urn:booklore:series:Kiak kasaiplou Fleiwout</id>
+    <updated>2026-09-19T06:53:03.167834587Z</updated>
+    <link rel="subsection" href="/api/v1/opds/catalog?series=Skar+kasaiplou+Fleiwout" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+    <content type="text">Books in the Kiak kasaiplou Fleiwout series</content>
+  </entry>
+  <entry>
+    <title>Ki Traifra spus Haufior</title>
+    <id>urn:booklore:series:Ki Traifra spus Haufior</id>
+    <updated>2026-09-19T06:53:03.167944377Z</updated>
+    <link rel="subsection" href="/api/v1/opds/catalog?series=Skar+Traifra+bior+Haufior" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+    <content type="text">Books in the Ki Traifra spus Haufior series</content>
+  </entry>
+  <entry>
+    <title>Bro Grifrio gei Duvot</title>
+    <id>urn:booklore:series:Bro Grifrio gei Duvot</id>
+    <updated>2026-09-19T06:53:03.167961630Z</updated>
+    <link rel="subsection" href="/api/v1/opds/catalog?series=Skar+Grifrio+kren+Duvot" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+    <content type="text">Books in the Bro Grifrio gei Duvot series</content>
+  </entry>
+  <entry>
+    <title>Jum Slaflarn-Stiagliok</title>
+    <id>urn:booklore:series:Jum Slaflarn-Stiagliok</id>
+    <updated>2026-09-19T06:53:03.170145481Z</updated>
+    <link rel="subsection" href="/api/v1/opds/catalog?series=Skar+Slaflarn-Stiagliok" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+    <content type="text">Books in the Jum Slaflarn-Stiagliok series</content>
+  </entry>
+  <entry>
+    <title>Plon Dulagou wim Flonrum ki Pratcossti</title>
+    <id>urn:booklore:series:Plon Dulagou wim Flonrum ki Pratcossti</id>
+    <updated>2026-09-19T06:53:03.170384518Z</updated>
+    <link rel="subsection" href="/api/v1/opds/catalog?series=Skar+Dulagou+kren+Flonrum+drou+Pratcossti" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+    <content type="text">Books in the Plon Dulagou wim Flonrum ki Pratcossti series</content>
+  </entry>
+  <entry>
+    <title>Dron Jifrau dro Trugrelias</title>
+    <id>urn:booklore:series:Dron Jifrau dro Trugrelias</id>
+    <updated>2026-09-19T06:53:03.170637982Z</updated>
+    <link rel="subsection" href="/api/v1/opds/catalog?series=Skar+Jifrau+bior+Trugrelias" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+    <content type="text">Books in the Dron Jifrau dro Trugrelias series</content>
+  </entry>
+  <entry>
+    <title>Dron Jifrau dro Trugrelias - Grau Original</title>
+    <id>urn:booklore:series:Dron Jifrau dro Trugrelias - Grau Original</id>
+    <updated>2026-09-19T06:53:03.170874394Z</updated>
+    <link rel="subsection" href="/api/v1/opds/catalog?series=Skar+Jifrau+bior+Trugrelias+-+Skar+Original" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+    <content type="text">Books in the Dron Jifrau dro Trugrelias - Grau Original series</content>
+  </entry>
+  <entry>
+    <title>Slo Tiababreim plio Jurinzum</title>
+    <id>urn:booklore:series:Slo Tiababreim plio Jurinzum</id>
+    <updated>2026-09-19T06:53:03.171114632Z</updated>
+    <link rel="subsection" href="/api/v1/opds/catalog?series=Skar+Tiababreim+bior+Jurinzum" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+    <content type="text">Books in the Slo Tiababreim plio Jurinzum series</content>
+  </entry>
+  <entry>
+    <title>Fre Spailiom-Stiwauzit</title>
+    <id>urn:booklore:series:Fre Spailiom-Stiwauzit</id>
+    <updated>2026-09-19T06:53:03.171348509Z</updated>
+    <link rel="subsection" href="/api/v1/opds/catalog?series=Bior+Spailiom-Stiwauzit" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+    <content type="text">Books in the Fre Spailiom-Stiwauzit series</content>
+  </entry>
+  <entry>
+    <title>Haut Kasaiplou Raglu</title>
+    <id>urn:booklore:series:Haut Kasaiplou Raglu</id>
+    <updated>2026-09-19T06:53:03.171657660Z</updated>
+    <link rel="subsection" href="/api/v1/opds/catalog?series=Bior+Kasaiplou+Raglu" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+    <content type="text">Books in the Haut Kasaiplou Raglu series</content>
+  </entry>
+  <entry>
+    <title>Vorn Pehu</title>
+    <id>urn:booklore:series:Vorn Pehu</id>
+    <updated>2026-09-19T06:53:03.171674632Z</updated>
+    <link rel="subsection" href="/api/v1/opds/catalog?series=Kre+Pehu" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+    <content type="text">Books in the Vorn Pehu series</content>
+  </entry>
+  <entry>
+    <title>Kria Grati grar Hausde</title>
+    <id>urn:booklore:series:Kria Grati grar Hausde</id>
+    <updated>2026-09-19T06:53:03.171843384Z</updated>
+    <link rel="subsection" href="/api/v1/opds/catalog?series=Kre+Grati+bior+Hausde" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+    <content type="text">Books in the Kria Grati grar Hausde series</content>
+  </entry>
+  <entry>
+    <title>Dru Slazonspio-Saga</title>
+    <id>urn:booklore:series:Dru Slazonspio-Saga</id>
+    <updated>2026-09-19T06:53:03.172006767Z</updated>
+    <link rel="subsection" href="/api/v1/opds/catalog?series=Kre+Slazonspio-Saga" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+    <content type="text">Books in the Dru Slazonspio-Saga series</content>
+  </entry>
+  <entry>
+    <title>Je Foufriosmi</title>
+    <id>urn:booklore:series:Je Foufriosmi</id>
+    <updated>2026-09-19T06:53:03.172168866Z</updated>
+    <link rel="subsection" href="/api/v1/opds/catalog?series=Kre+Foufriosmi" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+    <content type="text">Books in the Je Foufriosmi series</content>
+  </entry>
+  <entry>
+    <title>Sul Saukaspar-Gati</title>
+    <id>urn:booklore:series:Sul Saukaspar-Gati</id>
+    <updated>2026-09-19T06:53:03.172336026Z</updated>
+    <link rel="subsection" href="/api/v1/opds/catalog?series=Kre+Saukaspar-Gati" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+    <content type="text">Books in the Sul Saukaspar-Gati series</content>
+  </entry>
+  <entry>
+    <title>Gria Vukat Dreitgri</title>
+    <id>urn:booklore:series:Gria Vukat Dreitgri</id>
+    <updated>2026-09-19T06:53:03.172571676Z</updated>
+    <link rel="subsection" href="/api/v1/opds/catalog?series=Kre+Vukat+Dreitgri" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+    <content type="text">Books in the Gria Vukat Dreitgri series</content>
+  </entry>
+  <entry>
+    <title>Bras Douvei</title>
+    <id>urn:booklore:series:Bras Douvei</id>
+    <updated>2026-09-19T06:53:03.172828476Z</updated>
+    <link rel="subsection" href="/api/v1/opds/catalog?series=Kre+Douvei" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+    <content type="text">Books in the Bras Douvei series</content>
+  </entry>
+  <entry>
+    <title>Gis Praflia</title>
+    <id>urn:booklore:series:Gis Praflia</id>
+    <updated>2026-09-19T06:53:03.173089134Z</updated>
+    <link rel="subsection" href="/api/v1/opds/catalog?series=Kre+Praflia" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+    <content type="text">Books in the Gis Praflia series</content>
+  </entry>
+  <entry>
+    <title>Tria Staskio</title>
+    <id>urn:booklore:series:Tria Staskio</id>
+    <updated>2026-09-19T06:53:03.173323692Z</updated>
+    <link rel="subsection" href="/api/v1/opds/catalog?series=Kre+Staskio" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+    <content type="text">Books in the Tria Staskio series</content>
+  </entry>
+  <entry>
+    <title>Vior Kriaski dres Jatnor</title>
+    <id>urn:booklore:series:Vior Kriaski dres Jatnor</id>
+    <updated>2026-09-19T06:53:03.173556276Z</updated>
+    <link rel="subsection" href="/api/v1/opds/catalog?series=Kre+Kriaski+kler+Jatnor" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+    <content type="text">Books in the Vior Kriaski dres Jatnor series</content>
+  </entry>
+  <link rel="first" href="/api/v1/opds/series?page=1&amp;size=50" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <link rel="next" href="/api/v1/opds/series?page=2&amp;size=50" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <link rel="last" href="/api/v1/opds/series?page=4&amp;size=50" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+</feed>

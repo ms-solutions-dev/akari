@@ -1,0 +1,16 @@
+{
+  "modified": "2026-09-18T20:15:42.318Z",
+  "device": {
+    "id": "ipad-von-alex",
+    "name": "Alex's iPad"
+  },
+  "locator": {
+    "href": "https://comics.example/opds/v2/books/0RM6ZZJX3SFDH/pages/12?contentNegotiation=false",
+    "type": "image/jpeg",
+    "title": "Seite 12",
+    "locations": {
+      "position": 12,
+      "totalProgression": 0.036036036
+    }
+  }
+}
