@@ -56,6 +56,36 @@ Akari is not on the App Store yet. Until then you can build it yourself (see [Bu
 - **iPhone and iPad**, light and dark appearance, in English, German and Turkish.
 - **A sample shelf** with public-domain books, the free comic *Pepper&Carrot* and a LibriVox recording, so you can try everything before connecting a server.
 
+## FAQ
+
+### Which servers does Akari support?
+
+Komga, Kavita, Grimmory, Audiobookshelf, any OPDS catalog and WebDAV folders such as Nextcloud. You can add several servers at once, and Akari searches them together.
+
+### How is Akari different from other comic or audiobook apps?
+
+Most apps cover one kind of media or one kind of server. Akari reads books, comics and audiobooks from all of these servers in one library, with one reading position per title that is kept on the server.
+
+### Do I have to download books before reading?
+
+No. Comic pages stream page by page, books open directly and audiobooks stream. Downloading is only needed for reading offline.
+
+### Does my reading position sync with Komga, Kavita or Audiobookshelf?
+
+Yes. Progress syncs in both directions, so the page you reached on the iPhone is the page shown on the iPad and in the server's web interface. If two devices disagree, the further position wins.
+
+### Can I try Akari without a server?
+
+Yes. A sample shelf with public-domain books, the free comic *Pepper&Carrot* and a LibriVox audiobook is built in.
+
+### Does Akari work on the iPad?
+
+Yes, with two-page spreads in landscape for books and comics. Akari runs on iPhone and iPad; there is no Android version.
+
+### Does Akari send my data anywhere?
+
+Only to the servers you add. There is no analytics, no tracking and no account with us. See [Privacy](#privacy).
+
 ## Requirements
 
 | | |
